@@ -7,7 +7,8 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 ### may ,2025
 
 #### Day 11 - 1 july
-- [two sum](question number -1 ) - Difficulty - easy
+- [two sum](question number -1 ) - Difficulty - easy  (language - cpp)
+- [sleep](question number - 2621 ) - Difficulty - easy  (language - js)
 
 
 ## 📊 Progress Tracker

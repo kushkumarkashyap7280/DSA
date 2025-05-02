@@ -10,10 +10,13 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - [two sum](question number -1 ) - Difficulty - easy  (language - cpp)
 - [sleep](question number - 2621 ) - Difficulty - easy  (language - js)
 
+#### Day 12 - 2 july
+- [Is Object Empty](question number - 2727 ) - Difficulty - easy  (language - js)
+
 
 ## 📊 Progress Tracker
 - Total Problems Solved: [21]
-- Easy: [19]
+- Easy: [20]
 - Medium: [2]
 - Hard: [0]
 

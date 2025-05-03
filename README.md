@@ -13,9 +13,12 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 #### Day 12 - 2 july
 - [Is Object Empty](question number - 2727 ) - Difficulty - easy  (language - js)
 
+#### Day 13 - 3 july
+- binary search (language - cpp)
+
 
 ## 📊 Progress Tracker
-- Total Problems Solved: [21]
+- Total Problems Solved: [22]
 - Easy: [20]
 - Medium: [2]
 - Hard: [0]

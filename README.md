@@ -17,7 +17,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - binary search (language - cpp)
 - [first and last occurance in a sorted array ](question number from coding ninjas ) - Difficulty - easy  (language - cpp)
 - [peak in mountain array](question number - 852 ) - Difficulty - medium  (language - cpp)
-
+- [find pivot index in array](question number - 724 ) - Difficulty - easy (language - cpp)
 
 ---
 Feel free to explore my solutions and learning journey! 💻

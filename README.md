@@ -15,13 +15,9 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 #### Day 13 - 3 july
 - binary search (language - cpp)
+- [first and last occurance in a sorted array ](question number from coding ninjas ) - Difficulty - easy  (language - cpp)
+- [peak in mountain array](question number - 852 ) - Difficulty - medium  (language - cpp)
 
-
-## 📊 Progress Tracker
-- Total Problems Solved: [22]
-- Easy: [20]
-- Medium: [2]
-- Hard: [0]
 
 ---
 Feel free to explore my solutions and learning journey! 💻

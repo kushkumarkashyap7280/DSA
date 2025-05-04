@@ -23,6 +23,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 #### Day 14 - 4 july
 - [pivot in sorted rotated array , dublicates not allowed](language - cpp)
 - [Search in Rotated Sorted Array](question number - 33 ) - Difficulty - medium (language - cpp)
+- [square root using binary serach and normal](coding ninjas ) - Difficulty - easy (language - cpp)(https://bit.ly/3Dm4hEE)
 
 ---
 ## 📊 Progress Tracker

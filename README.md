@@ -18,7 +18,11 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - binary search (language - cpp)
 - [first and last occurance in a sorted array ](question number from coding ninjas ) - Difficulty - easy  (language - cpp)
 - [peak in mountain array](question number - 852 ) - Difficulty - medium  (language - cpp)
-- [find pivot index in array](question number - 724 ) - Difficulty - easy (language - cpp)
+- [find pivot index in array where leftsum = rightsum](question number - 724 ) - Difficulty - easy (language - cpp)
+
+#### Day 14 - 4 july
+- [pivot in sorted rotated array , dublicates not allowed](language - cpp)
+- [Search in Rotated Sorted Array](question number - 33 ) - Difficulty - medium (language - cpp)
 
 ---
 ## 📊 Progress Tracker

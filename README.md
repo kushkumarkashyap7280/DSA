@@ -25,6 +25,8 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - [Search in Rotated Sorted Array](question number - 33 ) - Difficulty - medium (language - cpp)
 - [square root using binary serach and normal](coding ninjas ) - Difficulty - easy (language - cpp)(https://bit.ly/3Dm4hEE)
 
+#### Day 15 - 5 july
+- [find square root of a number with n decimal precision ](language - cpp)
 ---
 ## 📊 Progress Tracker
 

@@ -100,3 +100,97 @@ long long ayushGivesNinjatest(int n, int m, vector<int> time) {
 	}
 	return ans;
 }
+
+// answer second 
+
+//{ Driver Code Starts
+// Initial function template for C++
+
+#include <bits/stdc++.h>
+using namespace std;
+
+
+// } Driver Code Ends
+
+class Solution {
+  public:
+    bool isPossible(vector<int> &arr, int k ,int mid){
+        int students = 1;
+        int total_books = arr.size();
+        int pagesum = 0;
+        for(int i = 0 ; i <  total_books ; i++){
+            if(pagesum + arr[i] <= mid){
+                pagesum += arr[i];
+            }else{
+                students++;
+                if(students > k || pagesum > mid ){
+                    return false;
+                }
+                pagesum = arr[i];
+            }
+        }
+        
+    return true;
+        
+    };
+    int findPages(vector<int> &arr, int k) {
+         int total_books = arr.size();
+         if(k > total_books) return -1;
+       int ans = -1;
+   int i = *max_element(arr.begin(), arr.end());
+        int j = accumulate(arr.begin(), arr.end(), 0);
+    while(i <=j){
+        int m = i + (j - i)/2;
+        if(isPossible(arr ,k ,m)){
+            ans = m;
+            j = m -1;
+            
+        }else{
+             i = m +1;
+        }
+        
+     }
+     return ans;
+    
+    };
+};
+
+
+// geeksforgeeks problem 
+
+//{ Driver Code Starts.
+//https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
+
+int main() {
+    int test_case;
+    cin >> test_case;
+    cin.ignore();
+    while (test_case--) {
+
+        int d;
+        vector<int> arr, brr, crr;
+        string input;
+        getline(cin, input);
+        stringstream ss(input);
+        int number;
+        while (ss >> number) {
+            arr.push_back(number);
+        }
+        getline(cin, input);
+        ss.clear();
+        ss.str(input);
+        while (ss >> number) {
+            crr.push_back(number);
+        }
+        d = crr[0];
+        int n = arr.size();
+        Solution ob;
+        int ans = ob.findPages(arr, d);
+        cout << ans << endl;
+
+        cout << "~"
+             << "\n";
+    }
+    return 0;
+}
+// } Driver Code Ends

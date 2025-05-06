@@ -29,11 +29,19 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - [find square root of a number with n decimal precision ](language - cpp)
 
 #### Day 16 - 6 july
-- [book allocation problem](coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3GiCqY0)
+- [book allocation problem]
+(coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3GiCqY0)
+
+   (geeksforgeeks)
+(https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1);
+
+- [painter's partition problem]
+(coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/31v3Jiy )
+
 
 
 ---
-## 📊 Progress Tracker
+## 📊 Leetcode Progress Tracker
 
 - Total Problems Solved: [28]
 - Easy: [24]

@@ -27,12 +27,17 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 #### Day 15 - 5 july
 - [find square root of a number with n decimal precision ](language - cpp)
+
+#### Day 16 - 6 july
+- [book allocation problem](coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3GiCqY0)
+
+
 ---
 ## 📊 Progress Tracker
 
-- Total Problems Solved: [25]
-- Easy: [22]
-- Medium: [3]
+- Total Problems Solved: [28]
+- Easy: [24]
+- Medium: [4]
 - Hard: [0]
 
 ---

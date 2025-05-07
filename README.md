@@ -38,7 +38,12 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - [painter's partition problem]
 (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/31v3Jiy )
 
+#### Day 17 - 7 july
+- [Agreesive cow problem]
+(coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3dkuQ2B) 
 
+  (geeksforgeeks)
+ (https://www.geeksforgeeks.org/problems/aggressive-cows)
 
 ---
 ## 📊 Leetcode Progress Tracker

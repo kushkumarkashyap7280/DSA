@@ -45,6 +45,9 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
   (geeksforgeeks)
  (https://www.geeksforgeeks.org/problems/aggressive-cows)
 
+- [EKO - Eko]
+(SPOJ.com ) - Difficulty - medium (language - cpp)(https://www.spoj.com/problems/EKO/)
+
 ---
 ## 📊 Leetcode Progress Tracker
 

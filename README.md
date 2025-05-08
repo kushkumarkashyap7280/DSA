@@ -48,6 +48,9 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - [EKO - Eko]
 (SPOJ.com ) - Difficulty - medium (language - cpp)(https://www.spoj.com/problems/EKO/)
 
+#### Day 18 - 7 july
+- [PRATA SPOJ]
+(coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3ExHXt5) 
 ---
 ## 📊 Leetcode Progress Tracker
 

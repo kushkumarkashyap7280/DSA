@@ -48,9 +48,15 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - [EKO - Eko]
 (SPOJ.com ) - Difficulty - medium (language - cpp)(https://www.spoj.com/problems/EKO/)
 
-#### Day 18 - 7 july
+#### Day 18 - 8 july
 - [PRATA SPOJ]
 (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3ExHXt5) 
+
+#### Day 19 - 9 july
+- [Selection Sorting algorithm]
+(coding ninjas ) - Difficulty - easy (language - cpp)( https://bit.ly/3DrsGsv) 
+
+- [Bubble Sorting algorithm] Difficulty - easy (language - cpp) 
 ---
 ## 📊 Leetcode Progress Tracker
 

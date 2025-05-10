@@ -57,6 +57,10 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 (coding ninjas ) - Difficulty - easy (language - cpp)( https://bit.ly/3DrsGsv) 
 
 - [Bubble Sorting algorithm] Difficulty - easy (language - cpp) 
+
+#### Day 20 - 20 july
+- [Insertion Sorting algorithm]
+(coding ninjas ) - Difficulty - easy (language - cpp)(https://bit.ly/3EstWN7 ) 
 ---
 ## 📊 Leetcode Progress Tracker
 

@@ -136,7 +136,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - fill() - Fill array with value
        - size() - Get array size
 
-#### Day 22 - 13 july
+#### Day 22 - 12 july
 
 - Advanced STL Data Structures Implementation (language - cpp)
 
@@ -177,6 +177,39 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - binary_search() - Binary search
        - reverse() - Reverse elements
        - min/max_element() - Find min/max
+
+#### Day 23 - 13 july
+
+- Array Manipulation Problems (language - cpp)
+
+  1. Reverse an Array
+
+     - Problem: Reverse all elements of an array
+     - Approaches: Two-pointer, Stack
+     - Source: Coding Ninjas (https://bit.ly/3EOyAFz)
+     - Key Concepts:
+       - In-place reversal
+       - Two-pointer technique
+       - Array traversal
+
+  <!-- 2. Merge Sorted Arrays
+
+     - Problem: Merge two sorted arrays into one sorted array
+     - Difficulty: Easy
+     - Source: LeetCode (https://leetcode.com/problems/merge-sorted-arrays)
+     - Key Concepts:
+       - Two-pointer technique
+       - Sorting
+       - Array manipulation
+
+  3. Move Zeroes
+     - Problem: Move all zeroes to end while maintaining relative order
+     - Difficulty: Easy
+     - Source: LeetCode (https://leetcode.com/problems/move-zeroes)
+     - Key Concepts:
+       - In-place operation
+       - Two-pointer approach
+       - Array traversal -->
 
 ---
 

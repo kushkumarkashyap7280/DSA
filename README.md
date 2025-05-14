@@ -192,26 +192,34 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - Two-pointer technique
        - Array traversal
 
-  <!-- 2. Merge Sorted Arrays
+#### Day 24 - 14 july
 
-     - Problem: Merge two sorted arrays into one sorted array
+- Array Manipulation Problems (language - cpp)
+
+  1. Merge Sorted Arrays [LeetCode 88]
+
+     - Problem: Merge two sorted arrays into one
      - Difficulty: Easy
-     - Source: LeetCode (https://leetcode.com/problems/merge-sorted-arrays)
+     - Source: LeetCode
      - Key Concepts:
        - Two-pointer technique
-       - Sorting
+       - In-place merging
        - Array manipulation
+     - Approaches:
+       - Start from end to avoid overwriting
+       - Compare and place larger elements first
 
-  3. Move Zeroes
+  2. Move Zeroes [LeetCode 283]
      - Problem: Move all zeroes to end while maintaining relative order
      - Difficulty: Easy
-     - Source: LeetCode (https://leetcode.com/problems/move-zeroes)
+     - Source: LeetCode
      - Key Concepts:
+       - Two-pointer technique
        - In-place operation
-       - Two-pointer approach
-       - Array traversal -->
-
----
+       - Array manipulation
+     - Approaches:
+       - Single pass with two pointers
+       - Maintain order of non-zero elements
 
 ## 📊 Leetcode Progress Tracker
 

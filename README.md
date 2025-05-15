@@ -221,6 +221,24 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - Single pass with two pointers
        - Maintain order of non-zero elements
 
+#### Day 25 - 15 july
+- Array Rotation Problems (language - cpp)
+  1. Rotate Array [LeetCode 189]
+     - Problem: Rotate array to right by k steps
+     - Difficulty: Medium
+     - Approaches: 
+       - Using reverse method
+       - Time: O(n), Space: O(1)
+     - Key Concepts: Array manipulation, In-place rotation
+
+  2. Check if Array is Sorted and Rotated [LeetCode 1752]
+     - Problem: Check if array was originally sorted then rotated
+     - Difficulty: Easy
+     - Approaches:
+       - Count break points
+       - Time: O(n), Space: O(1)
+     - Key Concepts: Array traversal, Pattern recognition
+
 ## 📊 Leetcode Progress Tracker
 
 - Total Problems Solved: [28]

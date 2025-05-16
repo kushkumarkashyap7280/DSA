@@ -201,21 +201,30 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
      - Problem: Merge two sorted arrays into one
      - Difficulty: Easy
 
-
   2. Move Zeroes [LeetCode 283]
      - Problem: Move all zeroes to end while maintaining relative order
      - Difficulty: Easy
 
-
 #### Day 25 - 15 july
+
 - Array Rotation Problems (language - cpp)
+
   1. Rotate Array [LeetCode 189]
+
      - Problem: Rotate array to right by k steps
      - Difficulty: Medium
 
   2. Check if Array is Sorted and Rotated [LeetCode 1752]
      - Problem: Check if array was originally sorted then rotated
      - Difficulty: Easy
+
+#### Day 26 - 16 july
+
+- Array Addition Problems (language - cpp)
+  1. Sum of Two Arrays
+     - Problem: Find sum of numbers represented by two arrays
+     - Source: Coding Ninjas (https://bit.ly/3DXfsDZ)
+
 ## 📊 Leetcode Progress Tracker
 
 - Total Problems Solved: [28]

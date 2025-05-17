@@ -225,6 +225,47 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
      - Problem: Find sum of numbers represented by two arrays
      - Source: Coding Ninjas (https://bit.ly/3DXfsDZ)
 
+#### Day 27 - 17 july
+
+- Character Arrays & Strings in C++ (language - cpp)
+
+  1. Character Arrays
+
+     - Definition: Fixed-size array to store sequence of characters
+     - Declaration & Initialization:
+       ```cpp
+       char str[10] = "hello";     // Method 1
+       char str[] = {'h','e','l','l','o','\0'};  // Method 2
+       ```
+     - Common Operations:
+       - Length: strlen(str)
+       - Copy: strcpy(dest, src)
+       - Compare: strcmp(str1, str2)
+       - Concatenate: strcat(str1, str2)
+     - Limitations:
+       - Fixed size
+       - Manual null termination
+       - No built-in operations
+
+  2. String Class
+
+     - Definition: Dynamic string container with built-in methods
+     - Declaration & Initialization:
+       ```cpp
+       string str = "hello";      // Method 1
+       string str("hello");       // Method 2
+       ```
+     - Most Used Methods:
+       - str.length() / str.size() - Get length
+       - str1 + str2 - Concatenate
+       - str.substr(pos, len) - Get substring
+       - str.find("pattern") - Search pattern
+       - getline(cin, str) - Input with spaces
+
+  3. Solved Problems:
+     - Check if String is Palindrome [Coding Ninjas] (https://bit.ly/3E55FvF)
+     - Reverse String [LeetCode 344]
+
 ## 📊 Leetcode Progress Tracker
 
 - Total Problems Solved: [28]

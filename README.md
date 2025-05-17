@@ -264,14 +264,16 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
   3. Solved Problems:
      - Check if String is Palindrome [Coding Ninjas] (https://bit.ly/3E55FvF)
-     - Reverse String [LeetCode 344]
+     - Reverse String [LeetCode 344] difficulty - easy
+     - Rotate String [LeetCode 796] difficulty - easy
+     - Median of Two Sorted Arrays [LeetCode 4] - Problem: Find median of two sorted array - Difficulty: Hard
 
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [28]
+- Total Problems Solved: [29]
 - Easy: [24]
 - Medium: [4]
-- Hard: [0]
+- Hard: [1]
 
 ---
 

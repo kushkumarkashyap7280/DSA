@@ -1,3 +1,44 @@
+## 📂 Daily Folders Quick Access
+
+### Basics and Setup
+
+- [Day 1](day_1) - Basic C++ Syntax and Introduction
+- [Day 2](day_2) - First Program and Comments
+- [Day 3](day_3) - Variables, Data Types, and I/O
+- [Day 4](day_4) - Input/Output and Operators
+
+### Control Flow and Functions
+
+- [Day 5](day_5) - If-Else and Switch Statements
+- [Day 6](day_6) - Loops and Their Types
+- [Day 7](day_7) - Functions and Pointers
+- [Day 8](day_8) - Scope and Basic Functions
+- [Day 9](day_9) - Pattern Problems
+- [Day 10](day_10) - Bitwise Operators
+
+### Problem Solving and Data Structures
+
+- [Day 11](day_11) - Two Sum and JavaScript Problems
+- [Day 12](day_12) - JavaScript Object Problems
+- [Day 13](day_13) - Binary Search Implementation
+- [Day 14](day_14) - Rotated Array Problems
+- [Day 15](day_15) - Square Root Problems
+- [Day 16](day_16) - Binary Search Problems
+- [Day 17](day_17) - Advanced Search Problems
+- [Day 18](day_18) - SPOJ Problems
+- [Day 19](day_19) - Basic Sorting Algorithms
+- [Day 20](day_20) - Insertion Sort
+
+### Advanced Topics
+
+- [Day 21](day_21) - STL Data Structures
+- [Day 22](day_22) - Advanced STL
+- [Day 23](day_23) - Array Manipulation
+- [Day 24](day_24) - Array Problems
+- [Day 25](day_25) - Array Rotation
+- [Day 26](day_26) - Array Addition
+- [Day 27](day_27) - Character Arrays & Strings
+
 # Data Structures and Algorithms Journey 🚀
 
 Welcome to my DSA learning repository! Here I document my journey of solving LeetCode problems and mastering data structures and algorithms.

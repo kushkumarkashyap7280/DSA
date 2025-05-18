@@ -16,29 +16,6 @@
 - [Day 009](day_009) - Pattern Problems
 - [Day 010](day_010) - Bitwise Operators
 
-### Problem Solving and Data Structures
-
-- [Day 011](day_011) - Two Sum and JavaScript Problems
-- [Day 012](day_012) - JavaScript Object Problems
-- [Day 013](day_013) - Binary Search Implementation
-- [Day 014](day_014) - Rotated Array Problems
-- [Day 015](day_015) - Square Root Problems
-- [Day 016](day_016) - Binary Search Problems
-- [Day 017](day_017) - Advanced Search Problems
-- [Day 018](day_018) - SPOJ Problems
-- [Day 019](day_019) - Basic Sorting Algorithms
-- [Day 020](day_020) - Insertion Sort
-
-### Advanced Topics
-
-- [Day 021](day_021) - STL Data Structures
-- [Day 022](day_022) - Advanced STL
-- [Day 023](day_023) - Array Manipulation
-- [Day 024](day_024) - Array Problems
-- [Day 025](day_025) - Array Rotation
-- [Day 026](day_026) - Array Addition
-- [Day 027](day_027) - Character Arrays & Strings
-
 # Data Structures and Algorithms Journey 🚀
 
 Welcome to my DSA learning repository! Here I document my journey of solving LeetCode problems and mastering data structures and algorithms.
@@ -47,34 +24,39 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 ### may ,2025
 
-#### Day 11 - 1 july
+#### Day 11 [View Code](day_011) - 1 july
 
+- Two Sum and JavaScript Problems
 - [two sum](question number -1 ) - Difficulty - easy (language - cpp)
 - [sleep](question number - 2621 ) - Difficulty - easy (language - js)
 
-#### Day 12 - 2 july
+#### Day 12 [View Code](day_012) - 2 july
 
+- JavaScript Object Problems
 - [Is Object Empty](question number - 2727 ) - Difficulty - easy (language - js)
 
-#### Day 13 - 3 july
+#### Day 13 [View Code](day_013) - 3 july
 
-- binary search (language - cpp)
+- Binary Search Implementation
 - [first and last occurance in a sorted array ](question number from coding ninjas ) - Difficulty - easy (language - cpp)
 - [peak in mountain array](question number - 852 ) - Difficulty - medium (language - cpp)
 - [find pivot index in array where leftsum = rightsum](question number - 724 ) - Difficulty - easy (language - cpp)
 
-#### Day 14 - 4 july
+#### Day 14 [View Code](day_014) - 4 july
 
+- Rotated Array Problems
 - [pivot in sorted rotated array , dublicates not allowed](language - cpp)
 - [Search in Rotated Sorted Array](question number - 33 ) - Difficulty - medium (language - cpp)
 - [square root using binary serach and normal](coding ninjas ) - Difficulty - easy (language - cpp)(https://bit.ly/3Dm4hEE)
 
-#### Day 15 - 5 july
+#### Day 15 [View Code](day_015) - 5 july
 
+- Square Root Problems
 - [find square root of a number with n decimal precision ](language - cpp)
 
-#### Day 16 - 6 july
+#### Day 16 [View Code](day_016) - 6 july
 
+- Binary Search Problems
 - [book allocation problem]
   (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3GiCqY0)
 
@@ -84,8 +66,9 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - [painter's partition problem]
   (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/31v3Jiy )
 
-#### Day 17 - 7 july
+#### Day 17 [View Code](day_017) - 7 july
 
+- Advanced Search Problems
 - [Agreesive cow problem]
   (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3dkuQ2B)
 
@@ -95,29 +78,30 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - [EKO - Eko]
   (SPOJ.com ) - Difficulty - medium (language - cpp)(https://www.spoj.com/problems/EKO/)
 
-#### Day 18 - 8 july
+#### Day 18 [View Code](day_018) - 8 july
 
+- SPOJ Problems
 - [PRATA SPOJ]
   (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3ExHXt5)
 
-#### Day 19 - 9 july
+#### Day 19 [View Code](day_019) - 9 july
 
+- Basic Sorting Algorithms
 - [Selection Sorting algorithm]
   (coding ninjas ) - Difficulty - easy (language - cpp)( https://bit.ly/3DrsGsv)
 
 - [Bubble Sorting algorithm] Difficulty - easy (language - cpp)
 
-#### Day 20 - 10 july
+#### Day 20 [View Code](day_020) - 10 july
 
+- Insertion Sort
 - [Insertion Sorting algorithm]
   (coding ninjas ) - Difficulty - easy (language - cpp)(https://bit.ly/3EstWN7 )
 
-#### Day 21 - 11 july
+#### Day 21 [View Code](day_021) - 11 july
 
-- STL Data Structures Implementation (language - cpp)
-
-  1. Vector (Dynamic Array)
-
+- STL Data Structures
+- 1. Vector (Dynamic Array)
      - Definition: A dynamic array that can grow/shrink in size
      - Use Cases: Dynamic size collections, frequent access by index
      - Key Methods:
@@ -126,9 +110,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - size() - Get current size
        - capacity() - Get current capacity
        - clear() - Remove all elements
-
   2. Stack (LIFO)
-
      - Definition: Last-In-First-Out data structure
      - Use Cases: Function calls, undo operations, expression evaluation
      - Key Methods:
@@ -136,9 +118,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - pop() - Remove top element
        - top() - Access top element
        - empty() - Check if stack is empty
-
   3. Queue (FIFO)
-
      - Definition: First-In-First-Out data structure
      - Use Cases: Print spooler, task scheduling, BFS algorithms
      - Key Methods:
@@ -146,9 +126,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - pop() - Remove front element
        - front() - Access first element
        - back() - Access last element
-
   4. List (Doubly Linked List)
-
      - Definition: Double-linked list with nodes containing prev/next pointers
      - Use Cases: Frequent insertions/deletions at any position
      - Key Methods:
@@ -156,9 +134,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - push_front() - Add at beginning
        - insert() - Add at position
        - erase() - Remove element
-
   5. Deque (Double-ended Queue)
-
      - Definition: Double-ended queue allowing insertions/deletions at both ends
      - Use Cases: Sliding window problems, work stealing algorithms
      - Key Methods:
@@ -166,7 +142,6 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - push_front() - Add at front
        - pop_back() - Remove from back
        - pop_front() - Remove from front
-
   6. Array (Fixed-size Array)
      - Definition: Fixed-size container with contiguous memory
      - Use Cases: When size is known and fixed, cache-friendly operations
@@ -177,12 +152,10 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - fill() - Fill array with value
        - size() - Get array size
 
-#### Day 22 - 12 july
+#### Day 22 [View Code](day_022) - 12 july
 
-- Advanced STL Data Structures Implementation (language - cpp)
-
-  1. Priority Queue
-
+- Advanced STL
+- 1. Priority Queue
      - Definition: A container adaptor that provides constant time lookup of the largest/smallest element
      - Use Cases: Task scheduling, Dijkstra's algorithm
      - Key Methods:
@@ -190,9 +163,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - pop() - Remove top element
        - top() - Access top element
        - empty() - Check if empty
-
   2. Set
-
      - Definition: Sorted container that stores unique elements
      - Use Cases: Maintaining unique elements, ordered data
      - Key Methods:
@@ -200,9 +171,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - erase() - Remove element
        - find() - Search element
        - count() - Count occurrences
-
   3. Map
-
      - Definition: Sorted key-value pair container
      - Use Cases: Dictionaries, frequency counting
      - Key Methods:
@@ -210,7 +179,6 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - erase() - Remove pair
        - find() - Search key
        - [] - Access/modify value
-
   4. STL Algorithms
      - Definition: Common algorithms for containers
      - Key Functions:
@@ -219,12 +187,10 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - reverse() - Reverse elements
        - min/max_element() - Find min/max
 
-#### Day 23 - 13 july
+#### Day 23 [View Code](day_023) - 13 july
 
-- Array Manipulation Problems (language - cpp)
-
-  1. Reverse an Array
-
+- Array Manipulation
+- 1. Reverse an Array
      - Problem: Reverse all elements of an array
      - Approaches: Two-pointer, Stack
      - Source: Coding Ninjas (https://bit.ly/3EOyAFz)
@@ -233,45 +199,37 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - Two-pointer technique
        - Array traversal
 
-#### Day 24 - 14 july
+#### Day 24 [View Code](day_024) - 14 july
 
-- Array Manipulation Problems (language - cpp)
-
-  1. Merge Sorted Arrays [LeetCode 88]
-
+- Array Problems
+- 1. Merge Sorted Arrays [LeetCode 88]
      - Problem: Merge two sorted arrays into one
      - Difficulty: Easy
-
   2. Move Zeroes [LeetCode 283]
      - Problem: Move all zeroes to end while maintaining relative order
      - Difficulty: Easy
 
-#### Day 25 - 15 july
+#### Day 25 [View Code](day_025) - 15 july
 
-- Array Rotation Problems (language - cpp)
-
-  1. Rotate Array [LeetCode 189]
-
+- Array Rotation
+- 1. Rotate Array [LeetCode 189]
      - Problem: Rotate array to right by k steps
      - Difficulty: Medium
-
   2. Check if Array is Sorted and Rotated [LeetCode 1752]
      - Problem: Check if array was originally sorted then rotated
      - Difficulty: Easy
 
-#### Day 26 - 16 july
+#### Day 26 [View Code](day_026) - 16 july
 
-- Array Addition Problems (language - cpp)
-  1. Sum of Two Arrays
+- Array Addition
+- 1. Sum of Two Arrays
      - Problem: Find sum of numbers represented by two arrays
      - Source: Coding Ninjas (https://bit.ly/3DXfsDZ)
 
-#### Day 27 - 17 july
+#### Day 27 [View Code](day_027) - 17 july
 
-- Character Arrays & Strings in C++ (language - cpp)
-
-  1. Character Arrays
-
+- Character Arrays & Strings
+- 1. Character Arrays
      - Definition: Fixed-size array to store sequence of characters
      - Declaration & Initialization:
        ```cpp
@@ -287,9 +245,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - Fixed size
        - Manual null termination
        - No built-in operations
-
   2. String Class
-
      - Definition: Dynamic string container with built-in methods
      - Declaration & Initialization:
        ```cpp
@@ -302,7 +258,6 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - str.substr(pos, len) - Get substring
        - str.find("pattern") - Search pattern
        - getline(cin, str) - Input with spaces
-
   3. Solved Problems:
      - Check if String is Palindrome [Coding Ninjas] (https://bit.ly/3E55FvF)
      - Reverse String [LeetCode 344] difficulty - easy

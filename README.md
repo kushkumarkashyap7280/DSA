@@ -2,42 +2,42 @@
 
 ### Basics and Setup
 
-- [Day 01](day_01) - Basic C++ Syntax and Introduction
-- [Day 02](day_02) - First Program and Comments
-- [Day 03](day_03) - Variables, Data Types, and I/O
-- [Day 04](day_04) - Input/Output and Operators
+- [Day 001](day_001) - Basic C++ Syntax and Introduction
+- [Day 002](day_002) - First Program and Comments
+- [Day 003](day_003) - Variables, Data Types, and I/O
+- [Day 004](day_004) - Input/Output and Operators
 
 ### Control Flow and Functions
 
-- [Day 05](day_05) - If-Else and Switch Statements
-- [Day 06](day_06) - Loops and Their Types
-- [Day 07](day_07) - Functions and Pointers
-- [Day 08](day_08) - Scope and Basic Functions
-- [Day 09](day_09) - Pattern Problems
-- [Day 10](day_10) - Bitwise Operators
+- [Day 005](day_005) - If-Else and Switch Statements
+- [Day 006](day_006) - Loops and Their Types
+- [Day 007](day_007) - Functions and Pointers
+- [Day 008](day_008) - Scope and Basic Functions
+- [Day 009](day_009) - Pattern Problems
+- [Day 010](day_010) - Bitwise Operators
 
 ### Problem Solving and Data Structures
 
-- [Day 11](day_11) - Two Sum and JavaScript Problems
-- [Day 12](day_12) - JavaScript Object Problems
-- [Day 13](day_13) - Binary Search Implementation
-- [Day 14](day_14) - Rotated Array Problems
-- [Day 15](day_15) - Square Root Problems
-- [Day 16](day_16) - Binary Search Problems
-- [Day 17](day_17) - Advanced Search Problems
-- [Day 18](day_18) - SPOJ Problems
-- [Day 19](day_19) - Basic Sorting Algorithms
-- [Day 20](day_20) - Insertion Sort
+- [Day 011](day_011) - Two Sum and JavaScript Problems
+- [Day 012](day_012) - JavaScript Object Problems
+- [Day 013](day_013) - Binary Search Implementation
+- [Day 014](day_014) - Rotated Array Problems
+- [Day 015](day_015) - Square Root Problems
+- [Day 016](day_016) - Binary Search Problems
+- [Day 017](day_017) - Advanced Search Problems
+- [Day 018](day_018) - SPOJ Problems
+- [Day 019](day_019) - Basic Sorting Algorithms
+- [Day 020](day_020) - Insertion Sort
 
 ### Advanced Topics
 
-- [Day 21](day_21) - STL Data Structures
-- [Day 22](day_22) - Advanced STL
-- [Day 23](day_23) - Array Manipulation
-- [Day 24](day_24) - Array Problems
-- [Day 25](day_25) - Array Rotation
-- [Day 26](day_26) - Array Addition
-- [Day 27](day_27) - Character Arrays & Strings
+- [Day 021](day_021) - STL Data Structures
+- [Day 022](day_022) - Advanced STL
+- [Day 023](day_023) - Array Manipulation
+- [Day 024](day_024) - Array Problems
+- [Day 025](day_025) - Array Rotation
+- [Day 026](day_026) - Array Addition
+- [Day 027](day_027) - Character Arrays & Strings
 
 # Data Structures and Algorithms Journey 🚀
 

@@ -2,18 +2,18 @@
 
 ### Basics and Setup
 
-- [Day 1](day_1) - Basic C++ Syntax and Introduction
-- [Day 2](day_2) - First Program and Comments
-- [Day 3](day_3) - Variables, Data Types, and I/O
-- [Day 4](day_4) - Input/Output and Operators
+- [Day 01](day_01) - Basic C++ Syntax and Introduction
+- [Day 02](day_02) - First Program and Comments
+- [Day 03](day_03) - Variables, Data Types, and I/O
+- [Day 04](day_04) - Input/Output and Operators
 
 ### Control Flow and Functions
 
-- [Day 5](day_5) - If-Else and Switch Statements
-- [Day 6](day_6) - Loops and Their Types
-- [Day 7](day_7) - Functions and Pointers
-- [Day 8](day_8) - Scope and Basic Functions
-- [Day 9](day_9) - Pattern Problems
+- [Day 05](day_05) - If-Else and Switch Statements
+- [Day 06](day_06) - Loops and Their Types
+- [Day 07](day_07) - Functions and Pointers
+- [Day 08](day_08) - Scope and Basic Functions
+- [Day 09](day_09) - Pattern Problems
 - [Day 10](day_10) - Bitwise Operators
 
 ### Problem Solving and Data Structures

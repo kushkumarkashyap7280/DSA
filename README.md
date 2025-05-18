@@ -264,10 +264,19 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
      - Rotate String [LeetCode 796] difficulty - easy
      - Median of Two Sorted Arrays [LeetCode 4] - Problem: Find median of two sorted array - Difficulty: Hard
 
+#### Day 28 [View Code](day_028) - 18 july
+
+- Array Properties
+- Monotonic Array [LeetCode 896]
+  - Problem: Check if array is monotonic
+  - Approach: Two-flag technique
+  - Time: O(n), Space: O(1)
+  - Difficulty: Easy
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [36]
-- Easy: [30]
+- Total Problems Solved: [37]
+- Easy: [31]
 - Medium: [5]
 - Hard: [1]
 

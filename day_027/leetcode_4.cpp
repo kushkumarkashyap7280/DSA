@@ -33,7 +33,6 @@
 using namespace std;
 
 
-
 // Function to find the median of two sorted arrays it is a brute force approach
 
 // approach 1 :
@@ -75,7 +74,7 @@ using namespace std;
 // Time complexity : O(m+n)
 // Space complexity : O(n)
 
-// approach 2 : 
+// approach 2 : (optimised)
 // Binary search
 // 1. Find the median of the two sorted arrays using binary search.
 double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {

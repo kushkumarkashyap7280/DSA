@@ -26,77 +26,159 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 #### Day 11 [View Code](day_011) - 1 july
 
-- Two Sum and JavaScript Problems
-- [two sum](question number -1 ) - Difficulty - easy (language - cpp)
-- [sleep](question number - 2621 ) - Difficulty - easy (language - js)
+- Array and JavaScript Problems
+
+1. Two Sum [LeetCode 1](https://leetcode.com/problems/two-sum)
+
+   - Platform: LeetCode
+   - Problem: Find two numbers in array that add up to target
+   - Difficulty: Easy
+   - Language: C++
+
+2. Sleep [LeetCode 2621](https://leetcode.com/problems/sleep)
+   - Platform: LeetCode
+   - Problem: Implement async sleep function
+   - Difficulty: Easy
+   - Language: JavaScript
 
 #### Day 12 [View Code](day_012) - 2 july
 
-- JavaScript Object Problems
-- [Is Object Empty](question number - 2727 ) - Difficulty - easy (language - js)
+- JavaScript Problems
+
+1. Is Object Empty [LeetCode 2727](https://leetcode.com/problems/is-object-empty)
+   - Platform: LeetCode
+   - Problem: Check if an object is empty
+   - Difficulty: Easy
+   - Language: JavaScript
 
 #### Day 13 [View Code](day_013) - 3 july
 
-- Binary Search Implementation
-- [first and last occurance in a sorted array ](question number from coding ninjas ) - Difficulty - easy (language - cpp)
-- [peak in mountain array](question number - 852 ) - Difficulty - medium (language - cpp)
-- [find pivot index in array where leftsum = rightsum](question number - 724 ) - Difficulty - easy (language - cpp)
+- Binary Search Problems
+
+1. First and Last Occurrence [Coding Ninjas](https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549)
+
+   - Platform: Coding Ninjas
+   - Problem: Find first and last occurrence of element in sorted array
+   - Difficulty: Easy
+   - Language: C++
+
+2. Peak in Mountain Array [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array)
+
+   - Platform: LeetCode
+   - Problem: Find peak element in mountain array
+   - Difficulty: Medium
+   - Language: C++
+
+3. Find Pivot Index [LeetCode 724](https://leetcode.com/problems/find-pivot-index)
+   - Platform: LeetCode
+   - Problem: Find index where sum of left equals sum of right
+   - Difficulty: Easy
+   - Language: C++
 
 #### Day 14 [View Code](day_014) - 4 july
 
 - Rotated Array Problems
-- [pivot in sorted rotated array , dublicates not allowed](language - cpp)
-- [Search in Rotated Sorted Array](question number - 33 ) - Difficulty - medium (language - cpp)
-- [square root using binary serach and normal](coding ninjas ) - Difficulty - easy (language - cpp)(https://bit.ly/3Dm4hEE)
+
+1. Pivot in Rotated Array [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-pivot-in-sorted-rotated-array_1082554)
+
+   - Platform: Coding Ninjas
+   - Problem: Find pivot element in sorted rotated array
+   - Difficulty: Medium
+   - Language: C++
+
+2. Search in Rotated Array [LeetCode 33](https://leetcode.com/problems/search-in-rotated-sorted-array)
+
+   - Platform: LeetCode
+   - Problem: Search target in rotated sorted array
+   - Difficulty: Medium
+   - Language: C++
+
+3. Square Root Using Binary Search [Coding Ninjas](https://bit.ly/3Dm4hEE)
+   - Platform: Coding Ninjas
+   - Problem: Find square root using binary search
+   - Difficulty: Easy
+   - Language: C++
 
 #### Day 15 [View Code](day_015) - 5 july
 
 - Square Root Problems
-- [find square root of a number with n decimal precision ](language - cpp)
+
+1. Square Root with Decimal Precision [GeeksForGeeks](https://www.geeksforgeeks.org/find-square-root-number-upto-given-precision-using-binary-search/)
+   - Platform: GeeksForGeeks
+   - Problem: Find square root with n decimal precision
+   - Difficulty: Medium
+   - Language: C++
 
 #### Day 16 [View Code](day_016) - 6 july
 
 - Binary Search Problems
-- [book allocation problem]
-  (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3GiCqY0)
 
-  (geeksforgeeks)
-  (https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1);
+1. Book Allocation Problem [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
 
-- [painter's partition problem]
-  (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/31v3Jiy )
+   - Platform: GeeksForGeeks & Coding Ninjas
+   - Problem: Allocate minimum pages to students
+   - Difficulty: Medium
+   - Language: C++
+
+2. Painter's Partition Problem [Coding Ninjas](https://bit.ly/31v3Jiy)
+   - Platform: Coding Ninjas
+   - Problem: Find minimum time to paint boards
+   - Difficulty: Medium
+   - Language: C++
 
 #### Day 17 [View Code](day_017) - 7 july
 
 - Advanced Search Problems
-- [Agreesive cow problem]
-  (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3dkuQ2B)
 
-  (geeksforgeeks)
-  (https://www.geeksforgeeks.org/problems/aggressive-cows)
+1. Aggressive Cows [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/0)
 
-- [EKO - Eko]
-  (SPOJ.com ) - Difficulty - medium (language - cpp)(https://www.spoj.com/problems/EKO/)
+   - Platform: GeeksForGeeks & Coding Ninjas
+   - Problem: Maximize minimum distance between cows
+   - Difficulty: Medium
+   - Language: C++
+
+2. EKO - Wood Cutting [SPOJ](https://www.spoj.com/problems/EKO/)
+   - Platform: SPOJ
+   - Problem: Cut trees to collect required wood
+   - Difficulty: Medium
+   - Language: C++
 
 #### Day 18 [View Code](day_018) - 8 july
 
 - SPOJ Problems
-- [PRATA SPOJ]
-  (coding ninjas ) - Difficulty - medium (language - cpp)(https://bit.ly/3ExHXt5)
+
+1. PRATA - Roti Prata [SPOJ](https://www.spoj.com/problems/PRATA/)
+   - Platform: SPOJ & Coding Ninjas
+   - Problem: Find minimum time to make parathas
+   - Difficulty: Medium
+   - Language: C++
 
 #### Day 19 [View Code](day_019) - 9 july
 
 - Basic Sorting Algorithms
-- [Selection Sorting algorithm]
-  (coding ninjas ) - Difficulty - easy (language - cpp)( https://bit.ly/3DrsGsv)
 
-- [Bubble Sorting algorithm] Difficulty - easy (language - cpp)
+1. Selection Sort [GeeksForGeeks](https://www.geeksforgeeks.org/selection-sort/)
+
+   - Platform: GeeksForGeeks & Coding Ninjas
+   - Problem: Implement selection sort algorithm
+   - Difficulty: Easy
+   - Language: C++
+
+2. Bubble Sort [GeeksForGeeks](https://www.geeksforgeeks.org/bubble-sort/)
+   - Platform: GeeksForGeeks
+   - Problem: Implement bubble sort algorithm
+   - Difficulty: Easy
+   - Language: C++
 
 #### Day 20 [View Code](day_020) - 10 july
 
-- Insertion Sort
-- [Insertion Sorting algorithm]
-  (coding ninjas ) - Difficulty - easy (language - cpp)(https://bit.ly/3EstWN7 )
+- Sorting Algorithms
+
+1. Insertion Sort [GeeksForGeeks](https://www.geeksforgeeks.org/insertion-sort/)
+   - Platform: GeeksForGeeks & Coding Ninjas
+   - Problem: Implement insertion sort algorithm
+   - Difficulty: Easy
+   - Language: C++
 
 #### Day 21 [View Code](day_021) - 11 july
 
@@ -190,103 +272,201 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 #### Day 23 [View Code](day_023) - 13 july
 
 - Array Manipulation
-- 1. Reverse an Array
-     - Problem: Reverse all elements of an array
-     - Approaches: Two-pointer, Stack
-     - Source: Coding Ninjas (https://bit.ly/3EOyAFz)
-     - Key Concepts:
-       - In-place reversal
-       - Two-pointer technique
-       - Array traversal
+
+1. Reverse Array from Position M [GeeksForGeeks](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+   - Platform: GeeksForGeeks & Coding Ninjas
+   - Problem: Reverse array elements from given position
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Two-pointer technique
+     - In-place reversal
+     - Array manipulation
 
 #### Day 24 [View Code](day_024) - 14 july
 
 - Array Problems
-- 1. Merge Sorted Arrays [LeetCode 88]
-     - Problem: Merge two sorted arrays into one
-     - Difficulty: Easy
-  2. Move Zeroes [LeetCode 283]
-     - Problem: Move all zeroes to end while maintaining relative order
-     - Difficulty: Easy
+
+1. Merge Sorted Arrays [LeetCode 88](https://leetcode.com/problems/merge-sorted-array)
+
+   - Platform: LeetCode
+   - Problem: Merge two sorted arrays into one
+   - Difficulty: Easy
+   - Language: C++
+
+2. Move Zeroes [LeetCode 283](https://leetcode.com/problems/move-zeroes)
+   - Platform: LeetCode
+   - Problem: Move all zeroes to end while maintaining relative order
+   - Difficulty: Easy
+   - Language: C++
 
 #### Day 25 [View Code](day_025) - 15 july
 
-- Array Rotation
-- 1. Rotate Array [LeetCode 189]
-     - Problem: Rotate array to right by k steps
-     - Difficulty: Medium
-  2. Check if Array is Sorted and Rotated [LeetCode 1752]
-     - Problem: Check if array was originally sorted then rotated
-     - Difficulty: Easy
+- Array Rotation Problems
+
+1. Rotate Array [LeetCode 189](https://leetcode.com/problems/rotate-array)
+
+   - Platform: LeetCode
+   - Problem: Rotate array to right by k steps
+   - Difficulty: Medium
+   - Language: C++
+
+2. Check if Array is Sorted and Rotated [LeetCode 1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)
+   - Platform: LeetCode
+   - Problem: Check if array was originally sorted then rotated
+   - Difficulty: Easy
+   - Language: C++
 
 #### Day 26 [View Code](day_026) - 16 july
 
 - Array Addition
-- 1. Sum of Two Arrays
-     - Problem: Find sum of numbers represented by two arrays
-     - Source: Coding Ninjas (https://bit.ly/3DXfsDZ)
+
+1. Sum of Two Arrays [Coding Ninjas](https://bit.ly/3DXfsDZ)
+   - Platform: Coding Ninjas
+   - Problem: Find sum of numbers represented by two arrays
+   - Difficulty: Easy
+   - Language: C++
 
 #### Day 27 [View Code](day_027) - 17 july
 
 - Character Arrays & Strings
-- 1. Character Arrays
-     - Definition: Fixed-size array to store sequence of characters
-     - Declaration & Initialization:
-       ```cpp
-       char str[10] = "hello";     // Method 1
-       char str[] = {'h','e','l','l','o','\0'};  // Method 2
-       ```
-     - Common Operations:
-       - Length: strlen(str)
-       - Copy: strcpy(dest, src)
-       - Compare: strcmp(str1, str2)
-       - Concatenate: strcat(str1, str2)
-     - Limitations:
-       - Fixed size
-       - Manual null termination
-       - No built-in operations
-  2. String Class
-     - Definition: Dynamic string container with built-in methods
-     - Declaration & Initialization:
-       ```cpp
-       string str = "hello";      // Method 1
-       string str("hello");       // Method 2
-       ```
-     - Most Used Methods:
-       - str.length() / str.size() - Get length
-       - str1 + str2 - Concatenate
-       - str.substr(pos, len) - Get substring
-       - str.find("pattern") - Search pattern
-       - getline(cin, str) - Input with spaces
-  3. Solved Problems:
-     - Check if String is Palindrome [Coding Ninjas] (https://bit.ly/3E55FvF)
-     - Reverse String [LeetCode 344] difficulty - easy
-     - Rotate String [LeetCode 796] difficulty - easy
-     - Median of Two Sorted Arrays [LeetCode 4] - Problem: Find median of two sorted array - Difficulty: Hard
+
+1. Character Arrays
+
+   - Definition: Fixed-size array to store sequence of characters
+   - Declaration & Initialization:
+     ```cpp
+     char str[10] = "hello";     // Method 1
+     char str[] = {'h','e','l','l','o','\0'};  // Method 2
+     ```
+   - Common Operations:
+     - Length: strlen(str)
+     - Copy: strcpy(dest, src)
+     - Compare: strcmp(str1, str2)
+     - Concatenate: strcat(str1, str2)
+   - Limitations:
+     - Fixed size
+     - Manual null termination
+     - No built-in operations
+
+2. String Class
+
+   - Definition: Dynamic string container with built-in methods
+   - Declaration & Initialization:
+     ```cpp
+     string str = "hello";      // Method 1
+     string str("hello");       // Method 2
+     ```
+   - Most Used Methods:
+     - str.length() / str.size() - Get length
+     - str1 + str2 - Concatenate
+     - str.substr(pos, len) - Get substring
+     - str.find("pattern") - Search pattern
+     - getline(cin, str) - Input with spaces
+
+3. Solved Problems:
+
+   - Check Palindrome [Coding Ninjas](https://bit.ly/3E55FvF)
+
+     - Platform: Coding Ninjas
+     - Problem: Check if string is palindrome
+     - Difficulty: Easy
+     - Language: C++
+
+   - Reverse String [LeetCode 344](https://leetcode.com/problems/reverse-string)
+
+     - Platform: LeetCode
+     - Problem: Reverse a string in-place
+     - Difficulty: Easy
+     - Language: C++
+
+   - Rotate String [LeetCode 796](https://leetcode.com/problems/rotate-string)
+
+     - Platform: LeetCode
+     - Problem: Check if string can be rotated to match another
+     - Difficulty: Easy
+     - Language: C++
+
+   - Median of Two Sorted Arrays [LeetCode 4](https://leetcode.com/problems/median-of-two-sorted-arrays)
+     - Platform: LeetCode
+     - Problem: Find median of two sorted arrays
+     - Difficulty: Hard
+     - Language: C++
 
 #### Day 28 [View Code](day_028) - 18 july
 
 - Array Properties
-- Monotonic Array [LeetCode 896]
-  - Problem: Check if array is monotonic
-  - Approach: Two-flag technique
-  - Time: O(n), Space: O(1)
-  - Difficulty: Easy
+
+1. Monotonic Array [LeetCode 896](https://leetcode.com/problems/monotonic-array)
+   - Platform: LeetCode
+   - Problem: Check if array is monotonic
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Two-flag technique
+     - Array traversal
+     - Time: O(n), Space: O(1)
 
 #### Day 29 [View Code](day_029) - 19 july
 
 - String Manipulation
-- Reverse Words in String [LeetCode 151]
-  - Problem: Reverse order of words in string
-  - Approach: Right to left word extraction
-  - Time: O(n), Space: O(n)
-  - Difficulty: Medium
+
+1. Reverse Words in String [LeetCode 151](https://leetcode.com/problems/reverse-words-in-a-string)
+   - Platform: LeetCode
+   - Problem: Reverse order of words in string
+   - Difficulty: Medium
+   - Language: C++
+   - Key Concepts:
+     - String manipulation
+     - Word extraction
+     - Time: O(n), Space: O(n)
+
+#### Day 30 [View Code](day_030) - 20 july
+
+- String Manipulation Problems
+
+1. Maximum Occurring Character [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1)
+
+   - Platform: GeeksForGeeks
+   - Problem: Find the character that occurs the most in a string
+   - Difficulty: Easy
+   - Language: C++
+
+2. Replace Spaces with @40 [Naukri Code360](https://www.naukri.com/code360/problems/replace-spaces_1172172)
+
+   - Platform: Naukri Code360
+   - Problem: Replace all spaces in a string with @40
+   - Difficulty: Easy
+   - Language: C++
+
+3. Remove All Occurrences of a Substring [LeetCode 1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)
+
+   - Platform: LeetCode
+   - Problem: Remove all occurrences of a substring from a string
+   - Difficulty: Medium
+   - Language: C++
+
+
+4. Permutation in String [LeetCode 567](https://leetcode.com/problems/permutation-in-string)
+
+   - Platform: LeetCode
+   - Problem: Check if one string's permutation is a substring of another
+   - Difficulty: Medium
+   - Language: C++
+
+
+5. Remove Adjacent Duplicates [LeetCode 1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)
+   - Platform: LeetCode
+   - Problem: Remove all adjacent duplicates in string
+   - Difficulty: Easy
+   - Language: C++
+
 
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [38]
+- Total Problems Solved: [40]
 - Easy: [31]
-- Medium: [6]
+- Medium: [8]
 - Hard: [1]
 
 ---

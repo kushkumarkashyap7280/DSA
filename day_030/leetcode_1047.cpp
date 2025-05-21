@@ -33,6 +33,27 @@
 #include <string>
 using namespace std;
 
+// my approach : (not optimal)
+// time complexity : O(n^2)
+// space complexity : O(1)
+string removeDuplicates(string s) {
+
+   while(true){
+    int i =1;
+    int bsize = s.size();
+    while(i < s.size()){
+        if(s[i]==s[i-1]){
+            s.erase(i-1, 2);
+        }else{
+            i++;
+        }
+
+    }
+    if(bsize == s.size())  break;
+   }
+   return s;
+}
+
 // approach :
 // 1. use stack to store the characters
 // 2. if the top of the stack is equal to the current character, pop the stack
@@ -43,27 +64,27 @@ using namespace std;
 // time complexity : O(n)
 // space complexity : O(n)
 //  where n is the length of the string
- string removeDuplicates(string s) {
-    stack<char> st;
-    for (char c : s) {
-        if (!st.empty() && st.top() == c) {
-            st.pop(); // remove the duplicate pair
-        } else {
-            st.push(c);
-        }
-    }
+//  string removeDuplicates(string s) {
+//     stack<char> st;
+//     for (char c : s) {
+//         if (!st.empty() && st.top() == c) {
+//             st.pop(); // remove the duplicate pair
+//         } else {
+//             st.push(c);
+//         }
+//     }
 
-    // Construct the final string from the stack
-   string result;
-    while (!st.empty()) {
-        result += st.top();
-        st.pop();
-    }
+//     // Construct the final string from the stack
+//    string result;
+//     while (!st.empty()) {
+//         result += st.top();
+//         st.pop();
+//     }
 
-    // Since we constructed the result from the stack (LIFO), we need to reverse it
-    reverse(result.begin(), result.end());
-    return result;
-}
+//     // Since we constructed the result from the stack (LIFO), we need to reverse it
+//     reverse(result.begin(), result.end());
+//     return result;
+// }
 int main() {
     string s = "abbaca";
     cout << "Input: " << s << endl;

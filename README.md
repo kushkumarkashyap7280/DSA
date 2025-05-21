@@ -446,7 +446,6 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
    - Difficulty: Medium
    - Language: C++
 
-
 4. Permutation in String [LeetCode 567](https://leetcode.com/problems/permutation-in-string)
 
    - Platform: LeetCode
@@ -454,19 +453,27 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
    - Difficulty: Medium
    - Language: C++
 
-
 5. Remove Adjacent Duplicates [LeetCode 1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)
    - Platform: LeetCode
    - Problem: Remove all adjacent duplicates in string
    - Difficulty: Easy
    - Language: C++
 
+#### Day 31 [View Code](day_031) - 21 july
+
+- String Compression
+
+1. String Compression [LeetCode 443](https://leetcode.com/problems/string-compression)
+   - Platform: LeetCode
+   - Problem: Compress string by replacing consecutive repeated characters with character and count
+   - Difficulty: Medium
+   - Language: C++
 
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [40]
-- Easy: [31]
-- Medium: [8]
+- Total Problems Solved: [42]
+- Easy: [32]
+- Medium: [9]
 - Hard: [1]
 
 ---

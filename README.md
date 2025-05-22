@@ -469,11 +469,33 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
    - Difficulty: Medium
    - Language: C++
 
+#### Day 32 [View Code](day_032) - 22 july
+
+- [2D Arrays and 2D Vectors](day_032/README.md)
+
+1. Search a 2D Matrix [LeetCode 74](https://leetcode.com/problems/search-a-2d-matrix/)
+   - Platform: LeetCode
+   - Problem: Search for a target value in a sorted 2D matrix with special properties
+   - Difficulty: Medium
+   - Language: C++
+
+2. Transpose Matrix [LeetCode 867](https://leetcode.com/problems/transpose-matrix/)
+   - Platform: LeetCode
+   - Problem: Return the transpose of a matrix (flip over main diagonal)
+   - Difficulty: Easy
+   - Language: C++
+
+3. Convert 1D Array Into 2D Array [LeetCode 2022](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
+   - Platform: LeetCode
+   - Problem: Convert a 1D array into a 2D array with specified dimensions
+   - Difficulty: Easy
+   - Language: C++
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [42]
-- Easy: [32]
-- Medium: [9]
+- Total Problems Solved: [45]
+- Easy: [34]
+- Medium: [10]
 - Hard: [1]
 
 ---

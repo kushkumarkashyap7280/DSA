@@ -471,7 +471,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 #### Day 32 [View Code](day_032) - 22 july
 
-- [2D Arrays and 2D Vectors](day_032/README.md)
+- [2D Arrays and 2D Vectors](day_032/)
 
 1. Search a 2D Matrix [LeetCode 74](https://leetcode.com/problems/search-a-2d-matrix/)
    - Platform: LeetCode

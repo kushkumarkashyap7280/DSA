@@ -474,12 +474,14 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - [2D Arrays and 2D Vectors](day_032/)
 
 1. Search a 2D Matrix [LeetCode 74](https://leetcode.com/problems/search-a-2d-matrix/)
+
    - Platform: LeetCode
    - Problem: Search for a target value in a sorted 2D matrix with special properties
    - Difficulty: Medium
    - Language: C++
 
 2. Transpose Matrix [LeetCode 867](https://leetcode.com/problems/transpose-matrix/)
+
    - Platform: LeetCode
    - Problem: Return the transpose of a matrix (flip over main diagonal)
    - Difficulty: Easy
@@ -489,6 +491,14 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
    - Platform: LeetCode
    - Problem: Convert a 1D array into a 2D array with specified dimensions
    - Difficulty: Easy
+   - Language: C++
+
+#### Day 33 [View Code](day_033) - 23 july
+
+1. Print Like A Wave
+   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/print-like-a-wave_893268)
+   - Problem: Print 2D array in wave pattern (alternating top-to-bottom and bottom-to-top)
+   - Difficulty: Medium
    - Language: C++
 
 ## 📊 Leetcode Progress Tracker

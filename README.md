@@ -26,16 +26,25 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 #### Day 11 [View Code](day_011) - 1 july
 
-- Array and JavaScript Problems
+- Array Problems
 
-1. Two Sum [LeetCode 1](https://leetcode.com/problems/two-sum)
+1. Two Sum
 
-   - Platform: LeetCode
+   - Platform: [LeetCode](https://leetcode.com/problems/two-sum)
    - Problem: Find two numbers in array that add up to target
    - Difficulty: Easy
    - Language: C++
+   - [View Solution](./day_011/README.md)
 
-2. Sleep [LeetCode 2621](https://leetcode.com/problems/sleep)
+2. Smallest Index With Digit Sum [LeetCode 3550](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
+
+   - Platform: LeetCode
+   - Problem: Find smallest index where digit sum of element equals index
+   - Difficulty: Easy
+   - Language: C++
+   - [View Solution](./day_011/README.md)
+
+3. Sleep [LeetCode 2621](https://leetcode.com/problems/sleep)
    - Platform: LeetCode
    - Problem: Implement async sleep function
    - Difficulty: Easy
@@ -501,11 +510,33 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
    - Difficulty: Medium
    - Language: C++
 
+#### Day 34 [View Code](day_034) - 24 july
+
+1. Search a 2D Matrix II [LeetCode 240](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+
+   - Platform: LeetCode
+   - Problem: Search for a value in a sorted 2D matrix
+   - Difficulty: Medium
+   - Language: C++
+
+2. Spiral Matrix [LeetCode 54](https://leetcode.com/problems/spiral-matrix/)
+
+   - Platform: LeetCode
+   - Problem: Return matrix elements in spiral order
+   - Difficulty: Medium
+   - Language: C++
+
+3. Rotate Image [LeetCode 48](https://leetcode.com/problems/rotate-image/)
+   - Platform: LeetCode
+   - Problem: Rotate image matrix by 90 degrees clockwise
+   - Difficulty: Medium
+   - Language: C++
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [45]
+- Total Problems Solved: [48]
 - Easy: [34]
-- Medium: [10]
+- Medium: [13]
 - Hard: [1]
 
 ---

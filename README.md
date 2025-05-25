@@ -532,11 +532,41 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
    - Difficulty: Medium
    - Language: C++
 
+#### Day 35 [View Code](day_035) - 25 july
+
+1. Reverse Integer [LeetCode 7](https://leetcode.com/problems/reverse-integer/)
+
+   - Platform: LeetCode
+   - Problem: Reverse digits of an integer with overflow handling
+   - Difficulty: Medium
+   - Time: O(log10(n))
+   - Space: O(1)
+   - Language: C++
+
+2. Count Primes [LeetCode 204](https://leetcode.com/problems/count-primes/)
+
+   - Platform: LeetCode
+   - Problem: Count the number of prime numbers less than n
+   - Implementation:
+     - Basic Solution: O(n \* sqrt(n))
+     - Optimized: Sieve of Eratosthenes O(n \* log(log(n)))
+   - Difficulty: Medium
+   - Language: C++
+
+3. Prime Number Generation [Implementation]
+   - Implementation: Simple Sieve vs Segmented Sieve comparison
+   - Topics Covered:
+     - Memory optimization techniques
+     - Large number handling
+     - Range-based calculations
+   - Difficulty: Medium
+   - Language: C++
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [51]
+- Total Problems Solved: [53]
 - Easy: [36]
-- Medium: [14]
+- Medium: [16]
 - Hard: [1]
 
 ---

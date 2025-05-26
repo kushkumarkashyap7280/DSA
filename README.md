@@ -562,6 +562,56 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
    - Difficulty: Medium
    - Language: C++
 
+#### Day 36 [View Code](day_036) - 26 july
+
+1. Modular Arithmetic and Mathematical Principles
+
+   - Core Concepts Implemented:
+     - Modular Operations and Properties
+     - Fast Power (Binary Exponentiation)
+     - Modular Multiplicative Inverse
+     - Chinese Remainder Theorem
+     - Euler's Totient Function
+
+2. Advanced Mathematical Concepts
+
+   - Pigeonhole Principle:
+     - Birthday Problem Implementation
+     - Applications in Array and Graph Problems
+     - Finding Duplicates and Cycles
+
+3. Catalan Numbers
+
+   - Different Implementation Approaches:
+     - Using Binomial Coefficient [GeeksForGeeks](https://www.geeksforgeeks.org/program-nth-catalan-number/)
+     - Using Factorial Method
+     - Dynamic Programming Approach
+   - Applications:
+     - Valid Parentheses Combinations
+     - Unique BST Count
+     - Non-intersecting Chords
+
+4. Problems Implemented:
+   - [Pow(x, n) - LeetCode 50](https://leetcode.com/problems/powx-n/)
+     - Optimized solution using divide and conquer approach
+     - Time complexity: O(log n), Space complexity: O(1)
+     - Handles negative exponents efficiently
+     - Avoids integer overflow with long long
+   - Catalan Number Implementations:
+     - Binomial Coefficient Approach: O(n) time, O(1) space
+     - Factorial Approach: O(n) time, O(n) space
+     - Applications in:
+       - Count balanced parentheses
+       - Number of unique BSTs
+       - Count mountain ranges
+
+- Implementation Details:
+  - Time and Space Complexity Analysis
+  - Optimization Techniques (Fast Power, Symmetry in Binomial)
+  - Edge Case Handling (Negative exponents, Integer overflow)
+- Difficulty: Medium
+- Language: C++
+
 ## 📊 Leetcode Progress Tracker
 
 - Total Problems Solved: [53]

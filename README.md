@@ -612,10 +612,52 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - Difficulty: Medium
 - Language: C++
 
+#### Day 37 [View Code](day_037) - 27 july
+
+## [Deep Dive into C++ Pointers](https://www.naukri.com/code360/guided-paths/pointers)
+
+  1. Core Memory Concepts
+
+     - Memory Model and Addressing
+     - Stack vs Heap Memory
+     - Memory Leak Prevention
+     - Memory Management Best Practices
+
+  2. Pointer Types and Operations
+
+     - Basic Pointer Operations
+     - Pointer Arithmetic
+     - Double Pointers
+     - Function Pointers
+     - Pointers to Objects
+
+  3. Advanced Pointer Concepts
+
+     - Dynamic Memory Management
+     - Smart Pointers Overview
+     - Constant Pointers
+     - This Pointer in Classes
+     - RAII Principles
+
+  4. Implementation Details:
+     - Time Complexity Analysis
+       - Memory Operations: O(1)
+       - Array Traversal: O(n)
+     - Space Complexity: O(1) for single pointers
+     - Memory Safety Patterns
+     - Error Prevention Techniques
+
+- Difficulty: Advanced
+- Language: C++
+2. Count Primes [LeetCode 2894](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/)
+- Platform: LeetCode
+- Problem: Count the number of prime numbers less than n
+- Difficulty: Easy
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [53]
-- Easy: [36]
+- Total Problems Solved: [54]
+- Easy: [37]
 - Medium: [16]
 - Hard: [1]
 

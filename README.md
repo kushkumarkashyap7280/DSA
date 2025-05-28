@@ -512,153 +512,131 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 #### Day 34 [View Code](day_034) - 24 july
 
-1. Search a 2D Matrix II [LeetCode 240](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+1. Spiral Order Matrix Traversal
 
-   - Platform: LeetCode
-   - Problem: Search for a value in a sorted 2D matrix
+   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/spiral-order-matrix-traversal_893269)
+   - Problem: Traverse matrix in spiral order (outer layer to inner layer)
    - Difficulty: Medium
    - Language: C++
 
-2. Spiral Matrix [LeetCode 54](https://leetcode.com/problems/spiral-matrix/)
+2. Rotate Matrix
 
-   - Platform: LeetCode
-   - Problem: Return matrix elements in spiral order
+   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/rotate-matrix_893270)
+   - Problem: Rotate matrix 90 degrees clockwise
    - Difficulty: Medium
    - Language: C++
 
-3. Rotate Image [LeetCode 48](https://leetcode.com/problems/rotate-image/)
-   - Platform: LeetCode
-   - Problem: Rotate image matrix by 90 degrees clockwise
+3. Wave Print
+   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/wave-print_893271)
+   - Problem: Print elements in wave pattern (up-down) for each column
    - Difficulty: Medium
    - Language: C++
 
 #### Day 35 [View Code](day_035) - 25 july
 
-1. Reverse Integer [LeetCode 7](https://leetcode.com/problems/reverse-integer/)
+1. Zigzag Conversion [LeetCode 6](https://leetcode.com/problems/zigzag-conversion)
 
    - Platform: LeetCode
-   - Problem: Reverse digits of an integer with overflow handling
-   - Difficulty: Medium
-   - Time: O(log10(n))
-   - Space: O(1)
-   - Language: C++
-
-2. Count Primes [LeetCode 204](https://leetcode.com/problems/count-primes/)
-
-   - Platform: LeetCode
-   - Problem: Count the number of prime numbers less than n
-   - Implementation:
-     - Basic Solution: O(n \* sqrt(n))
-     - Optimized: Sieve of Eratosthenes O(n \* log(log(n)))
+   - Problem: Convert string to zigzag pattern on given number of rows
    - Difficulty: Medium
    - Language: C++
 
-3. Prime Number Generation [Implementation]
-   - Implementation: Simple Sieve vs Segmented Sieve comparison
-   - Topics Covered:
-     - Memory optimization techniques
-     - Large number handling
-     - Range-based calculations
+2. Count of Substring with All Unique Characters
+
+   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/count-of-substring-with-all-unique-characters_893272)
+   - Problem: Count substrings with all unique characters in given string
+   - Difficulty: Medium
+   - Language: C++
+
+3. Longest Substring Without Repeating Characters [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+   - Platform: LeetCode
+   - Problem: Find length of longest substring without repeating characters
    - Difficulty: Medium
    - Language: C++
 
 #### Day 36 [View Code](day_036) - 26 july
 
-1. Modular Arithmetic and Mathematical Principles
+1. Median of a Stream [LeetCode 295](https://leetcode.com/problems/median-of-a-stream)
 
-   - Core Concepts Implemented:
-     - Modular Operations and Properties
-     - Fast Power (Binary Exponentiation)
-     - Modular Multiplicative Inverse
-     - Chinese Remainder Theorem
-     - Euler's Totient Function
+   - Platform: LeetCode
+   - Problem: Find median from data stream of integers
+   - Difficulty: Hard
+   - Language: C++
 
-2. Advanced Mathematical Concepts
+2. Sliding Window Maximum [LeetCode 239](https://leetcode.com/problems/sliding-window-maximum)
 
-   - Pigeonhole Principle:
-     - Birthday Problem Implementation
-     - Applications in Array and Graph Problems
-     - Finding Duplicates and Cycles
+   - Platform: LeetCode
+   - Problem: Find maximum in each sliding window of size k
+   - Difficulty: Hard
+   - Language: C++
 
-3. Catalan Numbers
-
-   - Different Implementation Approaches:
-     - Using Binomial Coefficient [GeeksForGeeks](https://www.geeksforgeeks.org/program-nth-catalan-number/)
-     - Using Factorial Method
-     - Dynamic Programming Approach
-   - Applications:
-     - Valid Parentheses Combinations
-     - Unique BST Count
-     - Non-intersecting Chords
-
-4. Problems Implemented:
-   - [Pow(x, n) - LeetCode 50](https://leetcode.com/problems/powx-n/)
-     - Optimized solution using divide and conquer approach
-     - Time complexity: O(log n), Space complexity: O(1)
-     - Handles negative exponents efficiently
-     - Avoids integer overflow with long long
-   - Catalan Number Implementations:
-     - Binomial Coefficient Approach: O(n) time, O(1) space
-     - Factorial Approach: O(n) time, O(n) space
-     - Applications in:
-       - Count balanced parentheses
-       - Number of unique BSTs
-       - Count mountain ranges
-
-- Implementation Details:
-  - Time and Space Complexity Analysis
-  - Optimization Techniques (Fast Power, Symmetry in Binomial)
-  - Edge Case Handling (Negative exponents, Integer overflow)
-- Difficulty: Medium
-- Language: C++
+3. Longest Repeating Character Replacement [LeetCode 424](https://leetcode.com/problems/longest-repeating-character-replacement)
+   - Platform: LeetCode
+   - Problem: Find length of longest substring with at most k replacements
+   - Difficulty: Medium
+   - Language: C++
 
 #### Day 37 [View Code](day_037) - 27 july
 
-## [Deep Dive into C++ Pointers](https://www.naukri.com/code360/guided-paths/pointers)
+1. C++ Memory Management
 
-  1. Core Memory Concepts
+   - Static vs Dynamic Memory
+   - Memory Allocation Functions: new, delete
+   - Smart Pointers: unique_ptr, shared_ptr, weak_ptr
+   - Memory Leak Detection and Prevention
 
-     - Memory Model and Addressing
-     - Stack vs Heap Memory
-     - Memory Leak Prevention
-     - Memory Management Best Practices
+2. Resources:
+   - [C++ Memory Management Notes](https://drive.google.com/file/d/1JIU_63HFF_tGjSNF21x-i_ZZL5Sae1tp/view)
+   - Code Examples: Memory allocation, Smart pointers
 
-  2. Pointer Types and Operations
-
-     - Basic Pointer Operations
-     - Pointer Arithmetic
-     - Double Pointers
-     - Function Pointers
-     - Pointers to Objects
-
-  3. Advanced Pointer Concepts
-
-     - Dynamic Memory Management
-     - Smart Pointers Overview
-     - Constant Pointers
-     - This Pointer in Classes
-     - RAII Principles
-
-  4. Implementation Details:
-     - Time Complexity Analysis
-       - Memory Operations: O(1)
-       - Array Traversal: O(n)
-     - Space Complexity: O(1) for single pointers
-     - Memory Safety Patterns
-     - Error Prevention Techniques
-
-- Difficulty: Advanced
+- Topics: C++ Memory Management, Smart Pointers, Dynamic Memory
+- Difficulty: Intermediate
 - Language: C++
-2. Count Primes [LeetCode 2894](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/)
-- Platform: LeetCode
-- Problem: Count the number of prime numbers less than n
-- Difficulty: Easy
+
+#### Day 38 [View Code](day_038) - 28 May, 2025
+
+1. [Memory Management & References](https://www.naukri.com/code360/guided-paths/basics-of-c/content/118785/offering/1381146)
+
+   - Reference Variables Implementation
+
+     - Pass by Reference vs Value
+     - Memory Sharing Concepts
+     - Reference Best Practices
+
+   - Dynamic Memory Allocation
+
+     - Single Element Allocation
+     - Array Allocation & Deallocation
+     - Memory Leak Prevention
+     - Resource Management
+
+   - [2D Dynamic Arrays](https://drive.google.com/file/d/1nvJKb2fXIQwSK-UltscS5yZ1b7VLxSBu/view)
+     - Row-Column Dynamic Allocation
+     - Memory Management Patterns
+     - Performance Optimization
+     - Best Practices
+     - for more [details](https://www.naukri.com/code360/guided-paths/basics-of-c/content/118785/offering/1381146)
+
+2. Implementation Details:
+
+   - Reference Variables: Aliasing and parameter passing
+   - Dynamic Arrays: Runtime memory management
+   - 2D Arrays: Complex data structures
+   - Memory Safety: Leak prevention and cleanup
+
+3. Resources:
+   - [Memory Management Notes](https://drive.google.com/file/d/1JIU_63HFF_tGjSNF21x-i_ZZL5Sae1tp/view)
+   - Code Examples: Reference handling, Dynamic allocation
+
+- Topics: C++ Memory Management, References, Dynamic Arrays
+- Difficulty: Intermediate
+- Language: C++
 
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [54]
-- Easy: [37]
-- Medium: [16]
+- Total Problems Solved: [45]
+- Easy: [34]
+- Medium: [10]
 - Hard: [1]
 
 ---

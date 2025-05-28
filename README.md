@@ -634,9 +634,9 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [45]
-- Easy: [34]
-- Medium: [10]
+- Total Problems Solved: [55]
+- Easy: [38]
+- Medium: [16]
 - Hard: [1]
 
 ---

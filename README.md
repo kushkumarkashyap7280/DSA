@@ -632,11 +632,22 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - Difficulty: Intermediate
 - Language: C++
 
+#### Day 39 [View Code](day_039) - 29 May, 2025
+
+Problems Solved:
+
+- [Sqrt(x) - LeetCode 69](https://leetcode.com/problems/sqrtx/)
+- Difficulty: easy
+- [Spiral Matrix II - LeetCode 59](https://leetcode.com/problems/spiral-matrix-ii/)
+
+- Difficulty: Medium
+- Language: C++
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [55]
-- Easy: [38]
-- Medium: [16]
+- Total Problems Solved: [57]
+- Easy: [39]
+- Medium: [17]
 - Hard: [1]
 
 ---

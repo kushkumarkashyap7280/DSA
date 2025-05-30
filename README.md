@@ -643,11 +643,19 @@ Problems Solved:
 - Difficulty: Medium
 - Language: C++
 
+#### Day 40 [View Code](day_040) - 30 May, 2025
+
+- [Container With Most Water - LeetCode 11](https://leetcode.com/problems/container-with-most-water/)
+- Time: O(n) | Space: O(1)
+- Technique: Two Pointers
+- Difficulty: Medium
+- Language: C++
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [57]
+- Total Problems Solved: [58]
 - Easy: [39]
-- Medium: [17]
+- Medium: [18]
 - Hard: [1]
 
 ---

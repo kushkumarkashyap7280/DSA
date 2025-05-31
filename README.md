@@ -651,10 +651,26 @@ Problems Solved:
 - Difficulty: Medium
 - Language: C++
 
+#### Day 41 [View Code](day_041) - 31 july
+
+- String Manipulation and C++ Concepts
+
+1. Find First Occurrence [LeetCode 28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+   - Platform: LeetCode
+   - Problem: Find index of first occurrence of string in another string
+   - Difficulty: Easy
+   - Language: C++
+
+Other topics covered:
+
+- Global vs Local Variables
+- Jagged 2D Arrays
+- Macros in C++
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [58]
-- Easy: [39]
+- Total Problems Solved: [59]
+- Easy: [40]
 - Medium: [18]
 - Hard: [1]
 

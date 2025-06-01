@@ -651,26 +651,40 @@ Problems Solved:
 - Difficulty: Medium
 - Language: C++
 
-#### Day 41 [View Code](day_041) - 31 july
+#### Day 41 [View Code](day_041) - 31 May, 2025
 
-- String Manipulation and C++ Concepts
+- C++ Macros Deep Dive
+  - Object-like Macros
+  - Function-like Macros
+  - Multi-line Macros
+  - Conditional Compilation
+  - Stringizing & Token Pasting
+  - Predefined Macros
+- Implementation: [macros.cpp](day_041/macros.cpp)
+- Topic: C++ Preprocessor Directives
+- Difficulty: Intermediate
+- Language: C++
 
-1. Find First Occurrence [LeetCode 28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+#### Day 42 [View Code](day_042) - 1 june
+
+# Recursion
+
+1. Fibonacci Number [LeetCode 509](https://leetcode.com/problems/fibonacci-number/)
    - Platform: LeetCode
-   - Problem: Find index of first occurrence of string in another string
+   - Problem: Calculate nth Fibonacci number using recursion
    - Difficulty: Easy
    - Language: C++
-
-Other topics covered:
-
-- Global vs Local Variables
-- Jagged 2D Arrays
-- Macros in C++
+   - Key Topics:
+     - Understanding recursion fundamentals
+     - Base cases and recursive cases
+     - Call stack behavior
+     - Time complexity: O(2ⁿ) vs O(n) solutions
+     - Space complexity analysis
 
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [59]
-- Easy: [40]
+- Total Problems Solved: [60]
+- Easy: [41]
 - Medium: [18]
 - Hard: [1]
 

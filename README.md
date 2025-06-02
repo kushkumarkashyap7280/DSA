@@ -681,12 +681,29 @@ Problems Solved:
      - Time complexity: O(2ⁿ) vs O(n) solutions
      - Space complexity analysis
 
+#### Day 43 [View Code](day_043) - 2 june
+
+1. Candy Distribution [LeetCode 135](https://leetcode.com/problems/candy/)
+
+   - Platform: LeetCode
+   - Problem: Distribute minimum candies to children based on ratings
+   - Difficulty: Hard
+   - Language: C++
+   - Key Concepts: Greedy algorithms, Two-pass solution
+
+2. Add Strings [LeetCode 415](https://leetcode.com/problems/add-strings/)
+   - Platform: LeetCode
+   - Problem: Add two numbers represented as strings
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts: String manipulation, Basic math operations
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [60]
-- Easy: [41]
+- Total Problems Solved: [62]
+- Easy: [42]
 - Medium: [18]
-- Hard: [1]
+- Hard: [2]
 
 ---
 

@@ -698,11 +698,38 @@ Problems Solved:
    - Language: C++
    - Key Concepts: String manipulation, Basic math operations
 
+#### Day 44 [View Code](day_044) - 4 june
+
+- Mathematical Algorithms & Optimizations
+
+1. Multiply Strings [LeetCode 43](https://leetcode.com/problems/multiply-strings/)
+
+   - Platform: LeetCode
+   - Problem: Multiply two large numbers represented as strings
+   - Difficulty: Medium
+   - Language: C++
+   - Key Concepts:
+     - Traditional multiplication algorithm (O(n\*m))
+     - Karatsuba algorithm (O(n^log₂(3)))
+     - String manipulation
+     - Divide and conquer strategy
+
+2. Sum Multiples [LeetCode 2652](https://leetcode.com/problems/sum-multiples/)
+   - Platform: LeetCode
+   - Problem: Find sum of numbers divisible by 3, 5, or 7 in range [1,n]
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Brute force vs Mathematical optimization
+     - Arithmetic progression formula
+     - Time complexity improvement: O(n) → O(1)
+     - Integer division properties
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [62]
-- Easy: [42]
-- Medium: [18]
+- Total Problems Solved: [64]
+- Easy: [43]
+- Medium: [19]
 - Hard: [2]
 
 ---

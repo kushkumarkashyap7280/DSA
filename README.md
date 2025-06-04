@@ -698,7 +698,7 @@ Problems Solved:
    - Language: C++
    - Key Concepts: String manipulation, Basic math operations
 
-#### Day 44 [View Code](day_044) - 4 june
+#### Day 44 [View Code](day_044) - 3 june
 
 - Mathematical Algorithms & Optimizations
 
@@ -725,7 +725,7 @@ Problems Solved:
      - Time complexity improvement: O(n) → O(1)
      - Integer division properties
 
-#### Day 45 [View Code](day_045) - 5 june
+#### Day 45 [View Code](day_045) - 4 june
 
 - Array In-Place Operations
 

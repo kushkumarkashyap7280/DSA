@@ -710,7 +710,7 @@ Problems Solved:
    - Language: C++
    - Key Concepts:
      - Traditional multiplication algorithm (O(n\*m))
-     - Karatsuba algorithm (O(n^log₂(3)))
+     - [Karatsuba algorithm](https://drive.google.com/file/d/1jnjLiOfkstth0PTIlHMflREHmX_9ECkC/view) (O(n^log₂(3)))
      - String manipulation
      - Divide and conquer strategy
 
@@ -725,10 +725,26 @@ Problems Solved:
      - Time complexity improvement: O(n) → O(1)
      - Integer division properties
 
+#### Day 45 [View Code](day_045) - 5 june
+
+- Array In-Place Operations
+
+1. Remove Element [LeetCode 27](https://leetcode.com/problems/remove-element/)
+   - Platform: LeetCode
+   - Problem: Remove all occurrences of a value from array in-place
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Two-pointer technique
+     - In-place array modification
+     - Time complexity optimization O(n²) → O(n)
+     - Vector operations efficiency
+     - Space-efficient algorithms
+
 ## 📊 Leetcode Progress Tracker
 
-- Total Problems Solved: [64]
-- Easy: [43]
+- Total Problems Solved: [65]
+- Easy: [44]
 - Medium: [19]
 - Hard: [2]
 

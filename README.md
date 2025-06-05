@@ -741,6 +741,18 @@ Problems Solved:
      - Vector operations efficiency
      - Space-efficient algorithms
 
+#### Day 46 [View Code](day_046) - 5 june, 2025
+
+1. Search Insert Position [LeetCode 35](https://leetcode.com/problems/search-insert-position/)
+   - Platform: LeetCode
+   - Problem: Insert target value in sorted array or find its position
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Binary Search
+     - Array Manipulation
+     - Time: O(log n), Space: O(1)
+
 ## 📊 Leetcode Progress Tracker
 
 - Total Problems Solved: [65]

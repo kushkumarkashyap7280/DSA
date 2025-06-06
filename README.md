@@ -753,6 +753,19 @@ Problems Solved:
      - Array Manipulation
      - Time: O(log n), Space: O(1)
 
+#### Day 47 [View Code](day_047) - 6 june, 2025
+
+1. Find First and Last Position [LeetCode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+   - Platform: LeetCode
+   - Problem: Find first and last position of target element in sorted array
+   - Difficulty: Medium
+   - Language: C++
+   - Key Concepts:
+     - Modified Binary Search
+     - Array Traversal
+     - Two-phase Search
+     - Time: O(log n), Space: O(1)
+
 ## 📊 Leetcode Progress Tracker
 
 - Total Problems Solved: [65]

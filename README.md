@@ -766,11 +766,11 @@ Problems Solved:
      - Two-phase Search
      - Time: O(log n), Space: O(1)
 
-## 📊 Leetcode Progress Tracker
+## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [65]
-- Easy: [44]
-- Medium: [19]
+- Total Problems Solved: [67]
+- Easy: [45]
+- Medium: [20]
 - Hard: [2]
 
 ---

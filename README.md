@@ -766,6 +766,18 @@ Problems Solved:
      - Two-phase Search
      - Time: O(log n), Space: O(1)
 
+#### Day 48 [View Code](day_048) - 7 june, 2025
+
+1. Length of Last Word [LeetCode 58](https://leetcode.com/problems/length-of-last-word/)
+   - Platform: LeetCode
+   - Problem: Find length of the last word in a string
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - String Traversal
+     - Space Handling
+     - Time: O(n), Space: O(1)
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
 - Total Problems Solved: [67]

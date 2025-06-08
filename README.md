@@ -778,10 +778,23 @@ Problems Solved:
      - Space Handling
      - Time: O(n), Space: O(1)
 
+#### Day 49 [View Code](day_049) - 8 june, 2025
+
+1. Plus One [LeetCode 66](https://leetcode.com/problems/plus-one/)
+   - Platform: LeetCode
+   - Problem: Increment a large integer represented as array by one
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Array Manipulation
+     - Carry Propagation
+     - Edge Cases
+     - Time: O(n), Space: O(1)
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [67]
-- Easy: [45]
+- Total Problems Solved: [69]
+- Easy: [47]
 - Medium: [20]
 - Hard: [2]
 

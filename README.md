@@ -791,6 +791,19 @@ Problems Solved:
      - Edge Cases
      - Time: O(n), Space: O(1)
 
+#### Day 50 [View Code](day_050) - 9 june, 2025
+
+1. Add Binary [LeetCode 67](https://leetcode.com/problems/add-binary/)
+   - Platform: LeetCode
+   - Problem: Add two binary strings and return their sum as binary string
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - String Manipulation
+     - Binary Addition
+     - Carry Handling
+     - Time: O(max(m,n)), Space: O(max(m,n))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
 - Total Problems Solved: [69]

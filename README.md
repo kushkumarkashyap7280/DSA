@@ -804,10 +804,23 @@ Problems Solved:
      - Carry Handling
      - Time: O(max(m,n)), Space: O(max(m,n))
 
+#### Day 51 [View Code](day_051) - 10 june, 2025
+
+1. Maximum Difference Between Even and Odd Frequency [LeetCode 3442](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/)
+   - Platform: LeetCode
+   - Problem: Find maximum difference between odd and even character frequencies
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Frequency Counting
+     - Array Manipulation
+     - Character Processing
+     - Time: O(n), Space: O(1)
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [70]
-- Easy: [48]
+- Total Problems Solved: [71]
+- Easy: [49]
 - Medium: [20]
 - Hard: [2]
 

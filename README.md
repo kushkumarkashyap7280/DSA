@@ -817,10 +817,23 @@ Problems Solved:
      - Character Processing
      - Time: O(n), Space: O(1)
 
+#### Day 52 [View Code](day_052) - 11 june, 2025
+
+1. Best Time to Buy and Sell Stock [LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+   - Platform: LeetCode
+   - Problem: Find maximum profit by buying and selling stock once
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Dynamic Programming
+     - Array Traversal
+     - Min/Max Tracking
+     - Time: O(n), Space: O(1)
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [71]
-- Easy: [49]
+- Total Problems Solved: [72]
+- Easy: [50]
 - Medium: [20]
 - Hard: [2]
 

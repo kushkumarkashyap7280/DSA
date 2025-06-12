@@ -830,6 +830,19 @@ Problems Solved:
      - Min/Max Tracking
      - Time: O(n), Space: O(1)
 
+#### Day 53 [View Code](day_053) - 12 june, 2025
+
+1. Maximum Difference Between Adjacent Elements in a Circular Array [LeetCode 3423](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/)
+   - Platform: LeetCode
+   - Problem: Find maximum absolute difference between adjacent elements in circular array
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Circular Array Traversal
+     - Absolute Difference
+     - Edge Cases Handling
+     - Time: O(n), Space: O(1)
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
 - Total Problems Solved: [72]

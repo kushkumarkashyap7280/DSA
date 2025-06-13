@@ -843,10 +843,23 @@ Problems Solved:
      - Edge Cases Handling
      - Time: O(n), Space: O(1)
 
+#### Day 54 [View Code](day_054) - 13 june, 2025
+
+1. Contains Duplicate [LeetCode 217](https://leetcode.com/problems/contains-duplicate/)
+   - Platform: LeetCode
+   - Problem: Check if array contains any duplicates
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Array Sorting
+     - Sequential Search
+     - Duplicate Detection
+     - Time: O(n log n), Space: O(1)
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [72]
-- Easy: [50]
+- Total Problems Solved: [74]
+- Easy: [52]
 - Medium: [20]
 - Hard: [2]
 

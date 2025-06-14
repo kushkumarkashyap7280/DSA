@@ -856,10 +856,23 @@ Problems Solved:
      - Duplicate Detection
      - Time: O(n log n), Space: O(1)
 
+#### Day 55 [View Code](day_055) - 14 june, 2025
+
+1. Longest Common Prefix [LeetCode 14](https://leetcode.com/problems/longest-common-prefix/)
+   - Platform: LeetCode
+   - Problem: Find longest common prefix string amongst array of strings
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - String Processing
+     - Character Comparison
+     - Prefix Matching
+     - Time: O(n \* m), Space: O(1)
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [74]
-- Easy: [52]
+- Total Problems Solved: [75]
+- Easy: [53]
 - Medium: [20]
 - Hard: [2]
 

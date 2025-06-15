@@ -869,11 +869,24 @@ Problems Solved:
      - Prefix Matching
      - Time: O(n \* m), Space: O(1)
 
+#### Day 56 [View Code](day_056) - 15 june, 2025
+
+1. Longest Substring Without Repeating Characters [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+   - Platform: LeetCode
+   - Problem: Find length of longest substring without repeating characters
+   - Difficulty: Medium
+   - Language: C++
+   - Key Concepts:
+     - Sliding Window
+     - Hash Map
+     - String Processing
+     - Time: O(n), Space: O(min(n,m))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [75]
+- Total Problems Solved: [76]
 - Easy: [53]
-- Medium: [20]
+- Medium: [21]
 - Hard: [2]
 
 ---

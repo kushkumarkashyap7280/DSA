@@ -878,14 +878,26 @@ Problems Solved:
    - Language: C++
    - Key Concepts:
      - Sliding Window
-     - Hash Map
-     - String Processing
+     - Hash Map - String Processing
      - Time: O(n), Space: O(min(n,m))
+
+#### Day 57 [View Code](day_057) - 16 june, 2025
+
+1. Maximum Difference Between Increasing Elements [LeetCode 2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)
+   - Platform: LeetCode
+   - Problem: Find maximum difference between nums[j] and nums[i] where i < j and nums[i] < nums[j]
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Array Traversal
+     - Dynamic Programming
+     - Minimum Element Tracking
+     - Time: O(n), Space: O(1)
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [76]
-- Easy: [53]
+- Total Problems Solved: [77]
+- Easy: [54]
 - Medium: [21]
 - Hard: [2]
 

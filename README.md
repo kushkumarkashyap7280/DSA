@@ -891,13 +891,25 @@ Problems Solved:
    - Key Concepts:
      - Array Traversal
      - Dynamic Programming
-     - Minimum Element Tracking
-     - Time: O(n), Space: O(1)
+     - Minimum Element Tracking - Time: O(n), Space: O(1)
+
+#### Day 58 [View Code](day_058) - 17 june, 2025
+
+1. Valid Parentheses [LeetCode 20](https://leetcode.com/problems/valid-parentheses/)
+   - Platform: LeetCode
+   - Problem: Determine if a string of brackets is valid
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Stack Data Structure
+     - String Processing
+     - Bracket Matching
+     - Time: O(n), Space: O(n)
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [77]
-- Easy: [54]
+- Total Problems Solved: [78]
+- Easy: [55]
 - Medium: [21]
 - Hard: [2]
 

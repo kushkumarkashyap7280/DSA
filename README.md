@@ -903,13 +903,25 @@ Problems Solved:
    - Key Concepts:
      - Stack Data Structure
      - String Processing
-     - Bracket Matching
-     - Time: O(n), Space: O(n)
+     - Bracket Matching - Time: O(n), Space: O(n)
+
+#### Day 59 [View Code](day_059) - 18 june, 2025
+
+1. Single Number [LeetCode 136](https://leetcode.com/problems/single-number/)
+   - Platform: LeetCode
+   - Problem: Find the element that appears only once in an array where all other elements appear twice
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Bit Manipulation
+     - XOR Operations
+     - Array Traversal
+     - Time: O(n), Space: O(1)
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [78]
-- Easy: [55]
+- Total Problems Solved: [79]
+- Easy: [56]
 - Medium: [21]
 - Hard: [2]
 

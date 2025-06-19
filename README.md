@@ -914,14 +914,26 @@ Problems Solved:
    - Language: C++
    - Key Concepts:
      - Bit Manipulation
-     - XOR Operations
+     - XOR Operations - Array Traversal
+     - Time: O(n), Space: O(1)
+
+#### Day 60 [View Code](day_060) - 19 june, 2025
+
+1. Majority Element [LeetCode 169](https://leetcode.com/problems/majority-element/)
+   - Platform: LeetCode
+   - Problem: Find the element that appears more than n/2 times in an array
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Boyer-Moore Voting Algorithm
      - Array Traversal
+     - Counter-based Solution
      - Time: O(n), Space: O(1)
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [79]
-- Easy: [56]
+- Total Problems Solved: [80]
+- Easy: [57]
 - Medium: [21]
 - Hard: [2]
 

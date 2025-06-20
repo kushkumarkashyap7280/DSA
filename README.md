@@ -930,10 +930,39 @@ Problems Solved:
      - Counter-based Solution
      - Time: O(n), Space: O(1)
 
+#### Day 61 [View Code](day_061) - 20 june, 2025
+
+1. Excel Sheet Column Title [LeetCode 168](https://leetcode.com/problems/excel-sheet-column-title/)
+   - Platform: LeetCode
+   - Problem: Convert a column number to its corresponding Excel column title
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - Base Conversion (Base-26)
+     - String Manipulation
+     - 1-based Indexing
+     - Time: O(log n), Space: O(1)
+
+#### Day 61 [View Code](day_061) - 20 june, 2025
+
+2. Recursion Problems: Array Sum, Linear Search, Binary Search
+   - Topic: Recursion in Arrays
+   - Problems:
+     - Sum of Array Elements (Recursive)
+     - Linear Search (Recursive)
+     - Binary Search (Recursive)
+   - Language: C++
+   - Key Concepts:
+     - Recursion
+     - Divide and Conquer
+     - Array Traversal
+     - Time: O(n) for sum/linear search, O(log n) for binary search
+     - Space: O(n) for sum/linear search, O(log n) for binary search
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [80]
-- Easy: [57]
+- Total Problems Solved: [81]
+- Easy: [58]
 - Medium: [21]
 - Hard: [2]
 

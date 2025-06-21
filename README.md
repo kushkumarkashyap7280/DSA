@@ -959,11 +959,36 @@ Problems Solved:
      - Time: O(n) for sum/linear search, O(log n) for binary search
      - Space: O(n) for sum/linear search, O(log n) for binary search
 
+#### Day 62 [View Code](day_062) - 21 june, 2025
+
+1. 3Sum [LeetCode 15](https://leetcode.com/problems/3sum/)
+
+   - Platform: LeetCode
+   - Problem: Find all unique triplets in the array which sum to zero
+   - Difficulty: Medium
+   - Language: C++
+   - Key Concepts:
+     - Sorting
+     - Two-pointer Technique
+     - Duplicate Skipping
+     - Time: O(n^2), Space: O(1) extra
+
+2. Generate Tag for Video Caption [LeetCode 3582](https://leetcode.com/problems/generate-tag-for-video-caption/)
+   - Platform: LeetCode
+   - Problem: Generate a camelCase tag for a video caption, removing non-letters and truncating to 100 characters
+   - Difficulty: Easy
+   - Language: C++
+   - Key Concepts:
+     - String Manipulation
+     - CamelCase Conversion
+     - Character Filtering
+     - Time: O(n), Space: O(n)
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [81]
-- Easy: [58]
-- Medium: [21]
+- Total Problems Solved: [83]
+- Easy: [59]
+- Medium: [22]
 - Hard: [2]
 
 ---

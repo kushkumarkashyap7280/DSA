@@ -25,13 +25,7 @@ This day covers classic recursion problems involving strings and arrays:
 - **Space Complexity:** O(n)
 - **Edge Cases:** n = 0 (should return 1), negative exponents (not handled in this code).
 
-## 4. Insertion Sort Using Recursion
 
-- **LeetCode:** [Sort an Array (912)](https://leetcode.com/problems/sort-an-array/)
-- **Approach:** Sort first n-1 elements recursively, insert last element in correct position.
-- **Time Complexity:** O(n^2)
-- **Space Complexity:** O(n) (recursion stack)
-- **Edge Cases:** Already sorted, reverse sorted, all elements equal, single element.
 
 ## Example Usage
 
@@ -47,9 +41,7 @@ bool isPal = checkPalindrome(number);
 // Power calculation
 long long result = power(2, 10);
 
-// Insertion sort
-int arr[] = {5, 2, 9, 1, 5, 6};
-recursive_insertion_sort(arr, 6);
+
 ```
 
 ## Key Points

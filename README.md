@@ -984,6 +984,13 @@ Problems Solved:
      - Character Filtering
      - Time: O(n), Space: O(n)
 
+#### Day 63 [View Code](day_063) - 22 june, 2025
+
+- Power of Three ([LeetCode 326](https://leetcode.com/problems/power-of-three/))
+
+- bubble sorting using recursion.
+- string and some integer related recursion problems.
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
 - Total Problems Solved: [83]

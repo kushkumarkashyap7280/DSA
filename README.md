@@ -991,11 +991,18 @@ Problems Solved:
 - bubble sorting using recursion.
 - string and some integer related recursion problems.
 
+#### Day 64 [View Code](day_064) - 23 june, 2025
+
+- Insertion Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
+- Selection Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
+- Merge Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
+- Power of Four ([LeetCode 342](https://leetcode.com/problems/power-of-four/))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [83]
-- Easy: [59]
-- Medium: [22]
+- Total Problems Solved: [86]
+- Easy: [61]
+- Medium: [23]
 - Hard: [2]
 
 ---

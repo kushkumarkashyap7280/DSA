@@ -998,10 +998,34 @@ Problems Solved:
 - Merge Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
 - Power of Four ([LeetCode 342](https://leetcode.com/problems/power-of-four/))
 
+#### Day 65 [View Code](day_065) - 24 june, 2025
+
+- Quick Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
+- Excel Sheet Column Number ([LeetCode 171](https://leetcode.com/problems/excel-sheet-column-number/))
+
+## 📊 Sorting Algorithms Comparison
+
+| Algorithm      | Best Time  | Average Time | Worst Time | Space      | Stable | Best For                                   |
+| -------------- | ---------- | ------------ | ---------- | ---------- | ------ | ------------------------------------------ |
+| Selection Sort | O(n^2)     | O(n^2)       | O(n^2)     | O(1)       | No     | Small arrays, when memory is very limited  |
+| Bubble Sort    | O(n)       | O(n^2)       | O(n^2)     | O(1)       | Yes    | Educational, nearly sorted arrays          |
+| Insertion Sort | O(n)       | O(n^2)       | O(n^2)     | O(1)       | Yes    | Small/nearly sorted arrays, online sorting |
+| Merge Sort     | O(n log n) | O(n log n)   | O(n log n) | O(n)       | Yes    | Large arrays, stable sort needed           |
+| Quick Sort     | O(n log n) | O(n log n)   | O(n^2)     | O(log n)\* | No     | General purpose, fastest in practice       |
+
+\*Quick sort's space is O(log n) due to recursion stack (in-place otherwise).
+
+**Summary:**
+
+- **Merge Sort** is best for large datasets and when stability is required.
+- **Quick Sort** is usually fastest for general use, but not stable and can degrade to O(n^2).
+- **Insertion Sort** is best for small or nearly sorted arrays.
+- **Bubble/Selection Sort** are mainly for teaching or very small arrays.
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [86]
-- Easy: [61]
+- Total Problems Solved: [87](https://leetcode.com/u/kushkumarkashyap7280/)
+- Easy: [62]
 - Medium: [23]
 - Hard: [2]
 

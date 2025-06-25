@@ -1003,6 +1003,8 @@ Problems Solved:
 - Quick Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
 - Excel Sheet Column Number ([LeetCode 171](https://leetcode.com/problems/excel-sheet-column-number/))
 
+
+
 ## 📊 Sorting Algorithms Comparison
 
 | Algorithm      | Best Time  | Average Time | Worst Time | Space      | Stable | Best For                                   |
@@ -1022,10 +1024,14 @@ Problems Solved:
 - **Insertion Sort** is best for small or nearly sorted arrays.
 - **Bubble/Selection Sort** are mainly for teaching or very small arrays.
 
+#### Day 66 [View Code](day_066) - 25 june, 2025
+
+- Missing Number ([LeetCode 268](https://leetcode.com/problems/missing-number/))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [87](https://leetcode.com/u/kushkumarkashyap7280/)
-- Easy: [62]
+- Total Problems Solved: [88](https://leetcode.com/u/kushkumarkashyap7280/)
+- Easy: [63]
 - Medium: [23]
 - Hard: [2]
 

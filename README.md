@@ -1003,8 +1003,6 @@ Problems Solved:
 - Quick Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
 - Excel Sheet Column Number ([LeetCode 171](https://leetcode.com/problems/excel-sheet-column-number/))
 
-
-
 ## 📊 Sorting Algorithms Comparison
 
 | Algorithm      | Best Time  | Average Time | Worst Time | Space      | Stable | Best For                                   |
@@ -1028,11 +1026,16 @@ Problems Solved:
 
 - Missing Number ([LeetCode 268](https://leetcode.com/problems/missing-number/))
 
+#### Day 67 [View Code](day_067) - 26 june, 2025
+## Subsets and Subsequences  using Recursion
+- subsets ([LeetCode 78](https://leetcode.com/problems/subsets/))
+
+- subsequence of a string ([naukri 360](https://www.naukri.com/code360/problems/subsequences-of-string_985087))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [88](https://leetcode.com/u/kushkumarkashyap7280/)
-- Easy: [63]
-- Medium: [23]
+- Total Problems Solved: [89]
+- Medium: [24]
 - Hard: [2]
 
 ---

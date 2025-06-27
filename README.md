@@ -1032,10 +1032,18 @@ Problems Solved:
 
 - subsequence of a string ([naukri 360](https://www.naukri.com/code360/problems/subsequences-of-string_985087))
 
+
+#### Day 68 [View Code](day_068) - 27 june, 2025
+
+- Permutations ([LeetCode 46](https://leetcode.com/problems/permutations/))
+- Letter Combinations of a Phone Number ([LeetCode 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/))
+
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [89]
-- Medium: [24]
+- Total Problems Solved: [91]
+- Easy: [63]
+- Medium: [26]
 - Hard: [2]
 
 ---

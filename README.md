@@ -1039,6 +1039,12 @@ Problems Solved:
 - Letter Combinations of a Phone Number ([LeetCode 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/))
 
 
+#### Day 69 [View Code](day_069) - 28 june, 2025
+
+- Rat in a Maze ([GFG](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1))
+- Divide Two Integers ([LeetCode 29](https://leetcode.com/problems/divide-two-integers/))
+
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
 - Total Problems Solved: [91]

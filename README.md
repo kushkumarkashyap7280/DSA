@@ -28,166 +28,70 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 - Array Problems
 
-1. Two Sum
-
-   - Platform: [LeetCode](https://leetcode.com/problems/two-sum)
-   - Problem: Find two numbers in array that add up to target
-   - Difficulty: Easy
-   - Language: C++
-   - [View Solution](./day_011/README.md)
-
-2. Smallest Index With Digit Sum [LeetCode 3550](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
-
-   - Platform: LeetCode
-   - Problem: Find smallest index where digit sum of element equals index
-   - Difficulty: Easy
-   - Language: C++
-   - [View Solution](./day_011/README.md)
-
-3. Sleep [LeetCode 2621](https://leetcode.com/problems/sleep)
-   - Platform: LeetCode
-   - Problem: Implement async sleep function
-   - Difficulty: Easy
-   - Language: JavaScript
+1. [Two Sum](https://leetcode.com/problems/two-sum/) (LeetCode) - Easy
+2. [Smallest Index With Digit Sum](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) (LeetCode) - Easy
+3. [Sleep](https://leetcode.com/problems/sleep) (LeetCode) - Easy
 
 #### Day 12 [View Code](day_012) - 2 july
 
 - JavaScript Problems
 
-1. Is Object Empty [LeetCode 2727](https://leetcode.com/problems/is-object-empty)
-   - Platform: LeetCode
-   - Problem: Check if an object is empty
-   - Difficulty: Easy
-   - Language: JavaScript
+1. [Is Object Empty](https://leetcode.com/problems/is-object-empty) (LeetCode) - Easy
 
 #### Day 13 [View Code](day_013) - 3 july
 
 - Binary Search Problems
 
-1. First and Last Occurrence [Coding Ninjas](https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549)
-
-   - Platform: Coding Ninjas
-   - Problem: Find first and last occurrence of element in sorted array
-   - Difficulty: Easy
-   - Language: C++
-
-2. Peak in Mountain Array [LeetCode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array)
-
-   - Platform: LeetCode
-   - Problem: Find peak element in mountain array
-   - Difficulty: Medium
-   - Language: C++
-
-3. Find Pivot Index [LeetCode 724](https://leetcode.com/problems/find-pivot-index)
-   - Platform: LeetCode
-   - Problem: Find index where sum of left equals sum of right
-   - Difficulty: Easy
-   - Language: C++
+1. [First and Last Occurrence](https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549) (Coding Ninjas) - Easy
+2. [Peak in Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) (LeetCode) - Medium
+3. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) (LeetCode) - Easy
 
 #### Day 14 [View Code](day_014) - 4 july
 
 - Rotated Array Problems
 
-1. Pivot in Rotated Array [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-pivot-in-sorted-rotated-array_1082554)
-
-   - Platform: Coding Ninjas
-   - Problem: Find pivot element in sorted rotated array
-   - Difficulty: Medium
-   - Language: C++
-
-2. Search in Rotated Array [LeetCode 33](https://leetcode.com/problems/search-in-rotated-sorted-array)
-
-   - Platform: LeetCode
-   - Problem: Search target in rotated sorted array
-   - Difficulty: Medium
-   - Language: C++
-
-3. Square Root Using Binary Search [Coding Ninjas](https://bit.ly/3Dm4hEE)
-   - Platform: Coding Ninjas
-   - Problem: Find square root using binary search
-   - Difficulty: Easy
-   - Language: C++
+1. [Pivot in Rotated Array](https://www.codingninjas.com/studio/problems/find-pivot-in-sorted-rotated-array_1082554) (Coding Ninjas) - Medium
+2. [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array) (LeetCode) - Medium
+3. [Square Root Using Binary Search](https://bit.ly/3Dm4hEE) - Easy
 
 #### Day 15 [View Code](day_015) - 5 july
 
 - Square Root Problems
 
-1. Square Root with Decimal Precision [GeeksForGeeks](https://www.geeksforgeeks.org/find-square-root-number-upto-given-precision-using-binary-search/)
-   - Platform: GeeksForGeeks
-   - Problem: Find square root with n decimal precision
-   - Difficulty: Medium
-   - Language: C++
+1. [Square Root with Decimal Precision](https://www.geeksforgeeks.org/find-square-root-number-upto-given-precision-using-binary-search/) (GeeksForGeeks) - Medium
 
 #### Day 16 [View Code](day_016) - 6 july
 
 - Binary Search Problems
 
-1. Book Allocation Problem [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
-
-   - Platform: GeeksForGeeks & Coding Ninjas
-   - Problem: Allocate minimum pages to students
-   - Difficulty: Medium
-   - Language: C++
-
-2. Painter's Partition Problem [Coding Ninjas](https://bit.ly/31v3Jiy)
-   - Platform: Coding Ninjas
-   - Problem: Find minimum time to paint boards
-   - Difficulty: Medium
-   - Language: C++
+1. [Book Allocation Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) (GeeksForGeeks) - Medium
+2. [Painter's Partition Problem](https://bit.ly/31v3Jiy) (Coding Ninjas) - Medium
 
 #### Day 17 [View Code](day_017) - 7 july
 
 - Advanced Search Problems
 
-1. Aggressive Cows [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/0)
-
-   - Platform: GeeksForGeeks & Coding Ninjas
-   - Problem: Maximize minimum distance between cows
-   - Difficulty: Medium
-   - Language: C++
-
-2. EKO - Wood Cutting [SPOJ](https://www.spoj.com/problems/EKO/)
-   - Platform: SPOJ
-   - Problem: Cut trees to collect required wood
-   - Difficulty: Medium
-   - Language: C++
+1. [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/0) (GeeksForGeeks) - Medium
+2. [EKO - Wood Cutting](https://www.spoj.com/problems/EKO/) (SPOJ) - Medium
 
 #### Day 18 [View Code](day_018) - 8 july
 
 - SPOJ Problems
 
-1. PRATA - Roti Prata [SPOJ](https://www.spoj.com/problems/PRATA/)
-   - Platform: SPOJ & Coding Ninjas
-   - Problem: Find minimum time to make parathas
-   - Difficulty: Medium
-   - Language: C++
+1. [PRATA - Roti Prata](https://www.spoj.com/problems/PRATA/) (SPOJ) - Medium
 
 #### Day 19 [View Code](day_019) - 9 july
 
 - Basic Sorting Algorithms
 
-1. Selection Sort [GeeksForGeeks](https://www.geeksforgeeks.org/selection-sort/)
-
-   - Platform: GeeksForGeeks & Coding Ninjas
-   - Problem: Implement selection sort algorithm
-   - Difficulty: Easy
-   - Language: C++
-
-2. Bubble Sort [GeeksForGeeks](https://www.geeksforgeeks.org/bubble-sort/)
-   - Platform: GeeksForGeeks
-   - Problem: Implement bubble sort algorithm
-   - Difficulty: Easy
-   - Language: C++
+1. [Selection Sort](https://www.geeksforgeeks.org/selection-sort/) (GeeksForGeeks) - Easy
+2. [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/) (GeeksForGeeks) - Easy
 
 #### Day 20 [View Code](day_020) - 10 july
 
 - Sorting Algorithms
 
-1. Insertion Sort [GeeksForGeeks](https://www.geeksforgeeks.org/insertion-sort/)
-   - Platform: GeeksForGeeks & Coding Ninjas
-   - Problem: Implement insertion sort algorithm
-   - Difficulty: Easy
-   - Language: C++
+1. [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/) (GeeksForGeeks) - Easy
 
 #### Day 21 [View Code](day_021) - 11 july
 
@@ -282,59 +186,27 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 - Array Manipulation
 
-1. Reverse Array from Position M [GeeksForGeeks](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
-   - Platform: GeeksForGeeks & Coding Ninjas
-   - Problem: Reverse array elements from given position
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Two-pointer technique
-     - In-place reversal
-     - Array manipulation
+1. [Reverse Array from Position M](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) (GeeksForGeeks) - Easy
 
 #### Day 24 [View Code](day_024) - 14 july
 
 - Array Problems
 
-1. Merge Sorted Arrays [LeetCode 88](https://leetcode.com/problems/merge-sorted-array)
-
-   - Platform: LeetCode
-   - Problem: Merge two sorted arrays into one
-   - Difficulty: Easy
-   - Language: C++
-
-2. Move Zeroes [LeetCode 283](https://leetcode.com/problems/move-zeroes)
-   - Platform: LeetCode
-   - Problem: Move all zeroes to end while maintaining relative order
-   - Difficulty: Easy
-   - Language: C++
+1. [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) (LeetCode) - Easy
+2. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) (LeetCode) - Easy
 
 #### Day 25 [View Code](day_025) - 15 july
 
 - Array Rotation Problems
 
-1. Rotate Array [LeetCode 189](https://leetcode.com/problems/rotate-array)
-
-   - Platform: LeetCode
-   - Problem: Rotate array to right by k steps
-   - Difficulty: Medium
-   - Language: C++
-
-2. Check if Array is Sorted and Rotated [LeetCode 1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)
-   - Platform: LeetCode
-   - Problem: Check if array was originally sorted then rotated
-   - Difficulty: Easy
-   - Language: C++
+1. [Rotate Array](https://leetcode.com/problems/rotate-array/) (LeetCode) - Medium
+2. [Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) (LeetCode) - Easy
 
 #### Day 26 [View Code](day_026) - 16 july
 
 - Array Addition
 
-1. Sum of Two Arrays [Coding Ninjas](https://bit.ly/3DXfsDZ)
-   - Platform: Coding Ninjas
-   - Problem: Find sum of numbers represented by two arrays
-   - Difficulty: Easy
-   - Language: C++
+1. [Sum of Two Arrays](https://bit.ly/3DXfsDZ) - Easy
 
 #### Day 27 [View Code](day_027) - 17 july
 
@@ -375,206 +247,68 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 3. Solved Problems:
 
-   - Check Palindrome [Coding Ninjas](https://bit.ly/3E55FvF)
-
-     - Platform: Coding Ninjas
-     - Problem: Check if string is palindrome
-     - Difficulty: Easy
-     - Language: C++
-
-   - Reverse String [LeetCode 344](https://leetcode.com/problems/reverse-string)
-
-     - Platform: LeetCode
-     - Problem: Reverse a string in-place
-     - Difficulty: Easy
-     - Language: C++
-
-   - Rotate String [LeetCode 796](https://leetcode.com/problems/rotate-string)
-
-     - Platform: LeetCode
-     - Problem: Check if string can be rotated to match another
-     - Difficulty: Easy
-     - Language: C++
-
-   - Median of Two Sorted Arrays [LeetCode 4](https://leetcode.com/problems/median-of-two-sorted-arrays)
-     - Platform: LeetCode
-     - Problem: Find median of two sorted arrays
-     - Difficulty: Hard
-     - Language: C++
+   - [Check Palindrome](https://bit.ly/3E55FvF) - Easy
+   - [Reverse String](https://leetcode.com/problems/reverse-string/) (LeetCode) - Easy
+   - [Rotate String](https://leetcode.com/problems/rotate-string/) (LeetCode) - Easy
+   - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (LeetCode) - Hard
 
 #### Day 28 [View Code](day_028) - 18 july
 
 - Array Properties
 
-1. Monotonic Array [LeetCode 896](https://leetcode.com/problems/monotonic-array)
-   - Platform: LeetCode
-   - Problem: Check if array is monotonic
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Two-flag technique
-     - Array traversal
-     - Time: O(n), Space: O(1)
+1. [Monotonic Array](https://leetcode.com/problems/monotonic-array/) (LeetCode) - Easy
 
 #### Day 29 [View Code](day_029) - 19 july
 
 - String Manipulation
 
-1. Reverse Words in String [LeetCode 151](https://leetcode.com/problems/reverse-words-in-a-string)
-   - Platform: LeetCode
-   - Problem: Reverse order of words in string
-   - Difficulty: Medium
-   - Language: C++
-   - Key Concepts:
-     - String manipulation
-     - Word extraction
-     - Time: O(n), Space: O(n)
+1. [Reverse Words in String](https://leetcode.com/problems/reverse-words-in-a-string/) (LeetCode) - Medium
 
 #### Day 30 [View Code](day_030) - 20 july
 
 - String Manipulation Problems
 
-1. Maximum Occurring Character [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1)
-
-   - Platform: GeeksForGeeks
-   - Problem: Find the character that occurs the most in a string
-   - Difficulty: Easy
-   - Language: C++
-
-2. Replace Spaces with @40 [Naukri Code360](https://www.naukri.com/code360/problems/replace-spaces_1172172)
-
-   - Platform: Naukri Code360
-   - Problem: Replace all spaces in a string with @40
-   - Difficulty: Easy
-   - Language: C++
-
-3. Remove All Occurrences of a Substring [LeetCode 1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)
-
-   - Platform: LeetCode
-   - Problem: Remove all occurrences of a substring from a string
-   - Difficulty: Medium
-   - Language: C++
-
-4. Permutation in String [LeetCode 567](https://leetcode.com/problems/permutation-in-string)
-
-   - Platform: LeetCode
-   - Problem: Check if one string's permutation is a substring of another
-   - Difficulty: Medium
-   - Language: C++
-
-5. Remove Adjacent Duplicates [LeetCode 1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)
-   - Platform: LeetCode
-   - Problem: Remove all adjacent duplicates in string
-   - Difficulty: Easy
-   - Language: C++
+1. [Maximum Occurring Character](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1/) (GeeksForGeeks) - Easy
+2. [Replace Spaces with @40](https://www.naukri.com/code360/problems/replace-spaces_1172172) (Naukri Code360) - Easy
+3. [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) (LeetCode) - Medium
+4. [Permutation in String](https://leetcode.com/problems/permutation-in-string/) (LeetCode) - Medium
+5. [Remove Adjacent Duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) (LeetCode) - Easy
 
 #### Day 31 [View Code](day_031) - 21 july
 
 - String Compression
 
-1. String Compression [LeetCode 443](https://leetcode.com/problems/string-compression)
-   - Platform: LeetCode
-   - Problem: Compress string by replacing consecutive repeated characters with character and count
-   - Difficulty: Medium
-   - Language: C++
+1. [String Compression](https://leetcode.com/problems/string-compression/) (LeetCode) - Medium
 
 #### Day 32 [View Code](day_032) - 22 july
 
 - [2D Arrays and 2D Vectors](day_032/)
 
-1. Search a 2D Matrix [LeetCode 74](https://leetcode.com/problems/search-a-2d-matrix/)
-
-   - Platform: LeetCode
-   - Problem: Search for a target value in a sorted 2D matrix with special properties
-   - Difficulty: Medium
-   - Language: C++
-
-2. Transpose Matrix [LeetCode 867](https://leetcode.com/problems/transpose-matrix/)
-
-   - Platform: LeetCode
-   - Problem: Return the transpose of a matrix (flip over main diagonal)
-   - Difficulty: Easy
-   - Language: C++
-
-3. Convert 1D Array Into 2D Array [LeetCode 2022](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
-   - Platform: LeetCode
-   - Problem: Convert a 1D array into a 2D array with specified dimensions
-   - Difficulty: Easy
-   - Language: C++
+1. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) (LeetCode) - Medium
+2. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) (LeetCode) - Easy
+3. [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) (LeetCode) - Easy
 
 #### Day 33 [View Code](day_033) - 23 july
 
-1. Print Like A Wave
-   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/print-like-a-wave_893268)
-   - Problem: Print 2D array in wave pattern (alternating top-to-bottom and bottom-to-top)
-   - Difficulty: Medium
-   - Language: C++
+1. [Print Like A Wave](https://www.naukri.com/code360/problem-details/print-like-a-wave_893268) (Naukri Code360) - Medium
 
 #### Day 34 [View Code](day_034) - 24 july
 
-1. Spiral Order Matrix Traversal
-
-   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/spiral-order-matrix-traversal_893269)
-   - Problem: Traverse matrix in spiral order (outer layer to inner layer)
-   - Difficulty: Medium
-   - Language: C++
-
-2. Rotate Matrix
-
-   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/rotate-matrix_893270)
-   - Problem: Rotate matrix 90 degrees clockwise
-   - Difficulty: Medium
-   - Language: C++
-
-3. Wave Print
-   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/wave-print_893271)
-   - Problem: Print elements in wave pattern (up-down) for each column
-   - Difficulty: Medium
-   - Language: C++
+1. [Spiral Order Matrix Traversal](https://www.naukri.com/code360/problem-details/spiral-order-matrix-traversal_893269) (Naukri Code360) - Medium
+2. [Rotate Matrix](https://www.naukri.com/code360/problem-details/rotate-matrix_893270) (Naukri Code360) - Medium
+3. [Wave Print](https://www.naukri.com/code360/problem-details/wave-print_893271) (Naukri Code360) - Medium
 
 #### Day 35 [View Code](day_035) - 25 july
 
-1. Zigzag Conversion [LeetCode 6](https://leetcode.com/problems/zigzag-conversion)
-
-   - Platform: LeetCode
-   - Problem: Convert string to zigzag pattern on given number of rows
-   - Difficulty: Medium
-   - Language: C++
-
-2. Count of Substring with All Unique Characters
-
-   - Platform: [Naukri Code360](https://www.naukri.com/code360/problem-details/count-of-substring-with-all-unique-characters_893272)
-   - Problem: Count substrings with all unique characters in given string
-   - Difficulty: Medium
-   - Language: C++
-
-3. Longest Substring Without Repeating Characters [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters)
-   - Platform: LeetCode
-   - Problem: Find length of longest substring without repeating characters
-   - Difficulty: Medium
-   - Language: C++
+1. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) (LeetCode) - Medium
+2. [Count of Substring with All Unique Characters](https://www.naukri.com/code360/problem-details/count-of-substring-with-all-unique-characters_893272) (Naukri Code360) - Medium
+3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (LeetCode) - Medium
 
 #### Day 36 [View Code](day_036) - 26 july
 
-1. Median of a Stream [LeetCode 295](https://leetcode.com/problems/median-of-a-stream)
-
-   - Platform: LeetCode
-   - Problem: Find median from data stream of integers
-   - Difficulty: Hard
-   - Language: C++
-
-2. Sliding Window Maximum [LeetCode 239](https://leetcode.com/problems/sliding-window-maximum)
-
-   - Platform: LeetCode
-   - Problem: Find maximum in each sliding window of size k
-   - Difficulty: Hard
-   - Language: C++
-
-3. Longest Repeating Character Replacement [LeetCode 424](https://leetcode.com/problems/longest-repeating-character-replacement)
-   - Platform: LeetCode
-   - Problem: Find length of longest substring with at most k replacements
-   - Difficulty: Medium
-   - Language: C++
+1. [Median of a Stream](https://leetcode.com/problems/median-of-a-stream/) (LeetCode) - Hard
+2. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (LeetCode) - Hard
+3. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) (LeetCode) - Medium
 
 #### Day 37 [View Code](day_037) - 27 july
 
@@ -595,21 +329,17 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 #### Day 38 [View Code](day_038) - 28 May, 2025
 
-1. [Memory Management & References](https://www.naukri.com/code360/guided-paths/basics-of-c/content/118785/offering/1381146)
+1. [Memory Management & References](https://www.naukri.com/code360/guided-paths/basics-of-c/content/118785/offering/1381146) (Naukri Code360) - Intermediate
 
    - Reference Variables Implementation
-
      - Pass by Reference vs Value
      - Memory Sharing Concepts
      - Reference Best Practices
-
    - Dynamic Memory Allocation
-
      - Single Element Allocation
      - Array Allocation & Deallocation
      - Memory Leak Prevention
      - Resource Management
-
    - [2D Dynamic Arrays](https://drive.google.com/file/d/1nvJKb2fXIQwSK-UltscS5yZ1b7VLxSBu/view)
      - Row-Column Dynamic Allocation
      - Memory Management Patterns
@@ -636,20 +366,14 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 Problems Solved:
 
-- [Sqrt(x) - LeetCode 69](https://leetcode.com/problems/sqrtx/)
-- Difficulty: easy
-- [Spiral Matrix II - LeetCode 59](https://leetcode.com/problems/spiral-matrix-ii/)
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/) (LeetCode) - Easy
+- [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) (LeetCode) - Medium
 
-- Difficulty: Medium
 - Language: C++
 
 #### Day 40 [View Code](day_040) - 30 May, 2025
 
-- [Container With Most Water - LeetCode 11](https://leetcode.com/problems/container-with-most-water/)
-- Time: O(n) | Space: O(1)
-- Technique: Two Pointers
-- Difficulty: Medium
-- Language: C++
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (LeetCode) - Medium
 
 #### Day 41 [View Code](day_041) - 31 May, 2025
 
@@ -669,282 +393,89 @@ Problems Solved:
 
 # Recursion
 
-1. Fibonacci Number [LeetCode 509](https://leetcode.com/problems/fibonacci-number/)
-   - Platform: LeetCode
-   - Problem: Calculate nth Fibonacci number using recursion
-   - Difficulty: Easy
-   - Language: C++
-   - Key Topics:
-     - Understanding recursion fundamentals
-     - Base cases and recursive cases
-     - Call stack behavior
-     - Time complexity: O(2ⁿ) vs O(n) solutions
-     - Space complexity analysis
+1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) (LeetCode) - Easy
 
 #### Day 43 [View Code](day_043) - 2 june
 
-1. Candy Distribution [LeetCode 135](https://leetcode.com/problems/candy/)
-
-   - Platform: LeetCode
-   - Problem: Distribute minimum candies to children based on ratings
-   - Difficulty: Hard
-   - Language: C++
-   - Key Concepts: Greedy algorithms, Two-pass solution
-
-2. Add Strings [LeetCode 415](https://leetcode.com/problems/add-strings/)
-   - Platform: LeetCode
-   - Problem: Add two numbers represented as strings
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts: String manipulation, Basic math operations
+1. [Candy Distribution](https://leetcode.com/problems/candy/) (LeetCode) - Hard
+2. [Add Strings](https://leetcode.com/problems/add-strings/) (LeetCode) - Easy
 
 #### Day 44 [View Code](day_044) - 3 june
 
 - Mathematical Algorithms & Optimizations
 
-1. Multiply Strings [LeetCode 43](https://leetcode.com/problems/multiply-strings/)
-
-   - Platform: LeetCode
-   - Problem: Multiply two large numbers represented as strings
-   - Difficulty: Medium
-   - Language: C++
-   - Key Concepts:
-     - Traditional multiplication algorithm (O(n\*m))
-     - [Karatsuba algorithm](https://drive.google.com/file/d/1jnjLiOfkstth0PTIlHMflREHmX_9ECkC/view) (O(n^log₂(3)))
-     - String manipulation
-     - Divide and conquer strategy
-
-2. Sum Multiples [LeetCode 2652](https://leetcode.com/problems/sum-multiples/)
-   - Platform: LeetCode
-   - Problem: Find sum of numbers divisible by 3, 5, or 7 in range [1,n]
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Brute force vs Mathematical optimization
-     - Arithmetic progression formula
-     - Time complexity improvement: O(n) → O(1)
-     - Integer division properties
+1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/) (LeetCode) - Medium
+2. [Sum Multiples](https://leetcode.com/problems/sum-multiples/) (LeetCode) - Easy
 
 #### Day 45 [View Code](day_045) - 4 june
 
 - Array In-Place Operations
 
-1. Remove Element [LeetCode 27](https://leetcode.com/problems/remove-element/)
-   - Platform: LeetCode
-   - Problem: Remove all occurrences of a value from array in-place
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Two-pointer technique
-     - In-place array modification
-     - Time complexity optimization O(n²) → O(n)
-     - Vector operations efficiency
-     - Space-efficient algorithms
+1. [Remove Element](https://leetcode.com/problems/remove-element/) (LeetCode) - Easy
 
 #### Day 46 [View Code](day_046) - 5 june, 2025
 
-1. Search Insert Position [LeetCode 35](https://leetcode.com/problems/search-insert-position/)
-   - Platform: LeetCode
-   - Problem: Insert target value in sorted array or find its position
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Binary Search
-     - Array Manipulation
-     - Time: O(log n), Space: O(1)
+1. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) (LeetCode) - Easy
 
 #### Day 47 [View Code](day_047) - 6 june, 2025
 
-1. Find First and Last Position [LeetCode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-   - Platform: LeetCode
-   - Problem: Find first and last position of target element in sorted array
-   - Difficulty: Medium
-   - Language: C++
-   - Key Concepts:
-     - Modified Binary Search
-     - Array Traversal
-     - Two-phase Search
-     - Time: O(log n), Space: O(1)
+1. [Find First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (LeetCode) - Medium
 
 #### Day 48 [View Code](day_048) - 7 june, 2025
 
-1. Length of Last Word [LeetCode 58](https://leetcode.com/problems/length-of-last-word/)
-   - Platform: LeetCode
-   - Problem: Find length of the last word in a string
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - String Traversal
-     - Space Handling
-     - Time: O(n), Space: O(1)
+1. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) (LeetCode) - Easy
 
 #### Day 49 [View Code](day_049) - 8 june, 2025
 
-1. Plus One [LeetCode 66](https://leetcode.com/problems/plus-one/)
-   - Platform: LeetCode
-   - Problem: Increment a large integer represented as array by one
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Array Manipulation
-     - Carry Propagation
-     - Edge Cases
-     - Time: O(n), Space: O(1)
+1. [Plus One](https://leetcode.com/problems/plus-one/) (LeetCode) - Easy
 
 #### Day 50 [View Code](day_050) - 9 june, 2025
 
-1. Add Binary [LeetCode 67](https://leetcode.com/problems/add-binary/)
-   - Platform: LeetCode
-   - Problem: Add two binary strings and return their sum as binary string
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - String Manipulation
-     - Binary Addition
-     - Carry Handling
-     - Time: O(max(m,n)), Space: O(max(m,n))
+1. [Add Binary](https://leetcode.com/problems/add-binary/) (LeetCode) - Easy
 
 #### Day 51 [View Code](day_051) - 10 june, 2025
 
-1. Maximum Difference Between Even and Odd Frequency [LeetCode 3442](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/)
-   - Platform: LeetCode
-   - Problem: Find maximum difference between odd and even character frequencies
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Frequency Counting
-     - Array Manipulation
-     - Character Processing
-     - Time: O(n), Space: O(1)
+1. [Maximum Difference Between Even and Odd Frequency](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) (LeetCode) - Easy
 
 #### Day 52 [View Code](day_052) - 11 june, 2025
 
-1. Best Time to Buy and Sell Stock [LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-   - Platform: LeetCode
-   - Problem: Find maximum profit by buying and selling stock once
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Dynamic Programming
-     - Array Traversal
-     - Min/Max Tracking
-     - Time: O(n), Space: O(1)
+1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (LeetCode) - Easy
 
 #### Day 53 [View Code](day_053) - 12 june, 2025
 
-1. Maximum Difference Between Adjacent Elements in a Circular Array [LeetCode 3423](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/)
-   - Platform: LeetCode
-   - Problem: Find maximum absolute difference between adjacent elements in circular array
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Circular Array Traversal
-     - Absolute Difference
-     - Edge Cases Handling
-     - Time: O(n), Space: O(1)
+1. [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) (LeetCode) - Easy
 
 #### Day 54 [View Code](day_054) - 13 june, 2025
 
-1. Contains Duplicate [LeetCode 217](https://leetcode.com/problems/contains-duplicate/)
-   - Platform: LeetCode
-   - Problem: Check if array contains any duplicates
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Array Sorting
-     - Sequential Search
-     - Duplicate Detection
-     - Time: O(n log n), Space: O(1)
+1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (LeetCode) - Easy
 
 #### Day 55 [View Code](day_055) - 14 june, 2025
 
-1. Longest Common Prefix [LeetCode 14](https://leetcode.com/problems/longest-common-prefix/)
-   - Platform: LeetCode
-   - Problem: Find longest common prefix string amongst array of strings
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - String Processing
-     - Character Comparison
-     - Prefix Matching
-     - Time: O(n \* m), Space: O(1)
+1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (LeetCode) - Easy
 
 #### Day 56 [View Code](day_056) - 15 june, 2025
 
-1. Longest Substring Without Repeating Characters [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-   - Platform: LeetCode
-   - Problem: Find length of longest substring without repeating characters
-   - Difficulty: Medium
-   - Language: C++
-   - Key Concepts:
-     - Sliding Window
-     - Hash Map - String Processing
-     - Time: O(n), Space: O(min(n,m))
+1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (LeetCode) - Medium
 
 #### Day 57 [View Code](day_057) - 16 june, 2025
 
-1. Maximum Difference Between Increasing Elements [LeetCode 2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)
-   - Platform: LeetCode
-   - Problem: Find maximum difference between nums[j] and nums[i] where i < j and nums[i] < nums[j]
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Array Traversal
-     - Dynamic Programming
-     - Minimum Element Tracking - Time: O(n), Space: O(1)
+1. [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) (LeetCode) - Easy
 
 #### Day 58 [View Code](day_058) - 17 june, 2025
 
-1. Valid Parentheses [LeetCode 20](https://leetcode.com/problems/valid-parentheses/)
-   - Platform: LeetCode
-   - Problem: Determine if a string of brackets is valid
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Stack Data Structure
-     - String Processing
-     - Bracket Matching - Time: O(n), Space: O(n)
+1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (LeetCode) - Easy
 
 #### Day 59 [View Code](day_059) - 18 june, 2025
 
-1. Single Number [LeetCode 136](https://leetcode.com/problems/single-number/)
-   - Platform: LeetCode
-   - Problem: Find the element that appears only once in an array where all other elements appear twice
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Bit Manipulation
-     - XOR Operations - Array Traversal
-     - Time: O(n), Space: O(1)
+1. [Single Number](https://leetcode.com/problems/single-number/) (LeetCode) - Easy
 
 #### Day 60 [View Code](day_060) - 19 june, 2025
 
-1. Majority Element [LeetCode 169](https://leetcode.com/problems/majority-element/)
-   - Platform: LeetCode
-   - Problem: Find the element that appears more than n/2 times in an array
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Boyer-Moore Voting Algorithm
-     - Array Traversal
-     - Counter-based Solution
-     - Time: O(n), Space: O(1)
+1. [Majority Element](https://leetcode.com/problems/majority-element/) (LeetCode) - Easy
 
 #### Day 61 [View Code](day_061) - 20 june, 2025
 
-1. Excel Sheet Column Title [LeetCode 168](https://leetcode.com/problems/excel-sheet-column-title/)
-   - Platform: LeetCode
-   - Problem: Convert a column number to its corresponding Excel column title
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - Base Conversion (Base-26)
-     - String Manipulation
-     - 1-based Indexing
-     - Time: O(log n), Space: O(1)
-
-#### Day 61 [View Code](day_061) - 20 june, 2025
-
+1. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) (LeetCode) - Easy
 2. Recursion Problems: Array Sum, Linear Search, Binary Search
    - Topic: Recursion in Arrays
    - Problems:
@@ -961,47 +492,26 @@ Problems Solved:
 
 #### Day 62 [View Code](day_062) - 21 june, 2025
 
-1. 3Sum [LeetCode 15](https://leetcode.com/problems/3sum/)
-
-   - Platform: LeetCode
-   - Problem: Find all unique triplets in the array which sum to zero
-   - Difficulty: Medium
-   - Language: C++
-   - Key Concepts:
-     - Sorting
-     - Two-pointer Technique
-     - Duplicate Skipping
-     - Time: O(n^2), Space: O(1) extra
-
-2. Generate Tag for Video Caption [LeetCode 3582](https://leetcode.com/problems/generate-tag-for-video-caption/)
-   - Platform: LeetCode
-   - Problem: Generate a camelCase tag for a video caption, removing non-letters and truncating to 100 characters
-   - Difficulty: Easy
-   - Language: C++
-   - Key Concepts:
-     - String Manipulation
-     - CamelCase Conversion
-     - Character Filtering
-     - Time: O(n), Space: O(n)
+1. [3Sum](https://leetcode.com/problems/3sum/) (LeetCode) - Medium
+2. [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) (LeetCode) - Easy
 
 #### Day 63 [View Code](day_063) - 22 june, 2025
 
-- Power of Three ([LeetCode 326](https://leetcode.com/problems/power-of-three/))
-
+- [Power of Three](https://leetcode.com/problems/power-of-three/) (LeetCode) - Easy
 - bubble sorting using recursion.
 - string and some integer related recursion problems.
 
 #### Day 64 [View Code](day_064) - 23 june, 2025
 
-- Insertion Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
-- Selection Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
-- Merge Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
-- Power of Four ([LeetCode 342](https://leetcode.com/problems/power-of-four/))
+- [Insertion Sort using Recursion](https://leetcode.com/problems/sort-an-array/) (LeetCode) - Medium
+- [Selection Sort using Recursion](https://leetcode.com/problems/sort-an-array/) (LeetCode) - Medium
+- [Merge Sort using Recursion](https://leetcode.com/problems/sort-an-array/) (LeetCode) - Medium
+- [Power of Four](https://leetcode.com/problems/power-of-four/) (LeetCode) - Easy
 
 #### Day 65 [View Code](day_065) - 24 june, 2025
 
-- Quick Sort using Recursion ([LeetCode 912](https://leetcode.com/problems/sort-an-array/))
-- Excel Sheet Column Number ([LeetCode 171](https://leetcode.com/problems/excel-sheet-column-number/))
+- [Quick Sort using Recursion](https://leetcode.com/problems/sort-an-array/) (LeetCode) - Medium
+- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) (LeetCode) - Easy
 
 ## 📊 Sorting Algorithms Comparison
 
@@ -1024,33 +534,38 @@ Problems Solved:
 
 #### Day 66 [View Code](day_066) - 25 june, 2025
 
-- Missing Number ([LeetCode 268](https://leetcode.com/problems/missing-number/))
+- [Missing Number](https://leetcode.com/problems/missing-number/) (LeetCode) - Easy
 
 #### Day 67 [View Code](day_067) - 26 june, 2025
-## Subsets and Subsequences  using Recursion
-- subsets ([LeetCode 78](https://leetcode.com/problems/subsets/))
 
-- subsequence of a string ([naukri 360](https://www.naukri.com/code360/problems/subsequences-of-string_985087))
+## Subsets and Subsequences using Recursion
 
+- [subsets](https://leetcode.com/problems/subsets/) (LeetCode) - Medium
+- [subsequence of a string](https://www.naukri.com/code360/problems/subsequences-of-string_985087) (Naukri Code360)
 
 #### Day 68 [View Code](day_068) - 27 june, 2025
 
-- Permutations ([LeetCode 46](https://leetcode.com/problems/permutations/))
-- Letter Combinations of a Phone Number ([LeetCode 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/))
-
+- [Permutations](https://leetcode.com/problems/permutations/) (LeetCode) - Medium
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) (LeetCode) - Medium
 
 #### Day 69 [View Code](day_069) - 28 june, 2025
 
-- Rat in a Maze ([GFG](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1))
-- Divide Two Integers ([LeetCode 29](https://leetcode.com/problems/divide-two-integers/))
+- [Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) (GeeksForGeeks) - Medium
+- [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) (LeetCode) - Medium
 
+#### Day 70 [View Code](day_070) - 29 june, 2025
+## LINKEDLIST BEGIN
+## [OOPS part - I](day_070/OOPS/README.md)
+
+- [Add Digits](https://leetcode.com/problems/add-digits/) (LeetCode) - Easy ([C++ Solution](day_070/leetcode_258.cpp))
+- [OOPS Concepts, Examples, and Explanations](day_070/OOPS/README.md)
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [91]
-- Easy: [63]
-- Medium: [26]
-- Hard: [2]
+- Total Problems Solved: [93]
+  - Easy: [64]
+  - Medium: [27]
+  - Hard: [2]
 
 ---
 

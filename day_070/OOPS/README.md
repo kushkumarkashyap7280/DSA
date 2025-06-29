@@ -3,35 +3,35 @@ See `oops_demo.cpp` for code examples demonstrating all major OOPs concepts in C
 ## OOPS Concepts: Structure & File Links
 
 1. **Class and Object**  
-   [OOPS/class_and_object.cpp](OOPS/class_and_object.cpp)
+   [OOPS/class_and_object.cpp](class_and_object.cpp)
 2. **Access Modifiers**  
-   [OOPS/access_modifiers.cpp](OOPS/access_modifiers.cpp)
+   [OOPS/access_modifiers.cpp](access_modifiers.cpp)
 3. **Constructors**  
-   [OOPS/constructors.cpp](OOPS/constructors.cpp)
+   [OOPS/constructors.cpp](constructors.cpp)
 4. **Destructor**  
-   [OOPS/destructor.cpp](OOPS/destructor.cpp)
+   [OOPS/destructor.cpp](destructor.cpp)
 5. **Static Data Members and Methods**  
-   [OOPS/static_example.cpp](OOPS/static_example.cpp)
+   [OOPS/static_example.cpp](static_example.cpp)
 6. **Important C++ Keywords**  
-   [OOPS/cpp_keywords.cpp](OOPS/cpp_keywords.cpp)
+   [OOPS/cpp_keywords.cpp](cpp_keywords.cpp)
 7. **Inheritance**  
-   [OOPS/inheritance.cpp](OOPS/inheritance.cpp)
+   [OOPS/inheritance.cpp](inheritance.cpp)
 8. **Function Overloading**  
-   [OOPS/function_overloading.cpp](OOPS/function_overloading.cpp)
+   [OOPS/function_overloading.cpp](function_overloading.cpp)
 9. **Function Overriding**  
-   [OOPS/function_overriding.cpp](OOPS/function_overriding.cpp)
+   [OOPS/function_overriding.cpp](function_overriding.cpp)
 10. **Polymorphism**  
-    [OOPS/polymorphism.cpp](OOPS/polymorphism.cpp)
+    [OOPS/polymorphism.cpp](polymorphism.cpp)
 11. **Encapsulation**  
-    [OOPS/encapsulation.cpp](OOPS/encapsulation.cpp)
+    [OOPS/encapsulation.cpp](encapsulation.cpp)
 12. **Abstraction**  
-    [OOPS/abstraction.cpp](OOPS/abstraction.cpp)
+    [OOPS/abstraction.cpp](abstraction.cpp)
 13. **Dynamic Instance Creation**  
-    [OOPS/dynamic_instance.cpp](OOPS/dynamic_instance.cpp)
+    [OOPS/dynamic_instance.cpp](dynamic_instance.cpp)
 14. **Deep vs Shallow Copy**  
-    [OOPS/deep_vs_shallow_copy.cpp](OOPS/deep_vs_shallow_copy.cpp)
+    [OOPS/deep_vs_shallow_copy.cpp](deep_vs_shallow_copy.cpp)
 15. **Padding and Alignment**  
-    [OOPS/padding_and_alignment.cpp](OOPS/padding_and_alignment.cpp)
+    [OOPS/padding_and_alignment.cpp](padding_and_alignment.cpp)
 
 # Object Oriented Programming (OOPs) in C++
 

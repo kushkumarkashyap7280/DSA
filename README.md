@@ -554,19 +554,30 @@ Problems Solved:
 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) (LeetCode) - Medium
 
 #### Day 70 [View Code](day_070) - 29 june, 2025
-## LINKEDLIST BEGIN
+
 ## [OOPS part - I](day_070/OOPS/README.md)
 
-- [Add Digits](https://leetcode.com/problems/add-digits/) (LeetCode) - Easy ([C++ Solution](day_070/leetcode_258.cpp))
+- day  problem [Add Digits](https://leetcode.com/problems/add-digits/) (LeetCode) - Easy ([C++ Solution](day_070/leetcode_258.cpp))
 - [OOPS Concepts, Examples, and Explanations](day_070/OOPS/README.md)
+
+#### Day 71 [View Code](day_071) - 30 june, 2025
+
+
+## [OOPS part - II ](day_071/README.md)
+
+1. day problem [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) (LeetCode) - Medium ([C++ Solution](day_071/leetcode_6.cpp))
+
+---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [93]
+- Total Problems Solved: [94]
   - Easy: [64]
-  - Medium: [27]
+  - Medium: [28]
   - Hard: [2]
 
 ---
 
 Feel free to explore my solutions and learning journey! 💻
+
+

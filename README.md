@@ -557,27 +557,31 @@ Problems Solved:
 
 ## [OOPS part - I](day_070/OOPS/README.md)
 
-- day  problem [Add Digits](https://leetcode.com/problems/add-digits/) (LeetCode) - Easy ([C++ Solution](day_070/leetcode_258.cpp))
+- day problem [Add Digits](https://leetcode.com/problems/add-digits/) (LeetCode) - Easy ([C++ Solution](day_070/leetcode_258.cpp))
 - [OOPS Concepts, Examples, and Explanations](day_070/OOPS/README.md)
 
 #### Day 71 [View Code](day_071) - 30 june, 2025
-
 
 ## [OOPS part - II ](day_071/README.md)
 
 1. day problem [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) (LeetCode) - Medium ([C++ Solution](day_071/leetcode_6.cpp))
 
+#### Day 72 [View Code](day_072) - 1 July, 2025
+## LINKEDLIST 
+- Linked List Implementations (Singly, Doubly, Circular Singly, Circular Doubly)
+- [LinkedList Concepts, Examples, and Explanations](day_072/README.md)
+
+1. [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) (LeetCode) - Easy ([C++ Solution](day_072/leetcode_3330.cpp))
+
 ---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [94]
-  - Easy: [64]
+- Total Problems Solved: [95]
+  - Easy: [65]
   - Medium: [28]
   - Hard: [2]
 
 ---
 
 Feel free to explore my solutions and learning journey! 💻
-
-

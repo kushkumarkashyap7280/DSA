@@ -567,19 +567,31 @@ Problems Solved:
 1. day problem [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) (LeetCode) - Medium ([C++ Solution](day_071/leetcode_6.cpp))
 
 #### Day 72 [View Code](day_072) - 1 July, 2025
-## LINKEDLIST 
+
+## LINKEDLIST
+
 - Linked List Implementations (Singly, Doubly, Circular Singly, Circular Doubly)
 - [LinkedList Concepts, Examples, and Explanations](day_072/README.md)
 
 1. [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) (LeetCode) - Easy ([C++ Solution](day_072/leetcode_3330.cpp))
 
+#### Day 73 [View Code](day_073) - 2 July, 2025
+
+- LeetCode Linked List Problems (Reverse, Remove Nth, Palindrome, Design)
+- [Linked List Problem Approaches and Solutions](day_073/README.md)
+
+1. [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ([C++ Solution](day_073/leetcode_206.cpp))
+2. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ([C++ Solution](day_073/leetcode_19.cpp))
+3. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) ([C++ Solution](day_073/leetcode_234.cpp))
+4. [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) ([C++ Solution](day_073/leetcode_707.cpp))
+
 ---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [95]
-  - Easy: [65]
-  - Medium: [28]
+- Total Problems Solved: [99]
+  - Easy: [67]
+  - Medium: [30]
   - Hard: [2]
 
 ---

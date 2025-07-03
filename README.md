@@ -30,13 +30,12 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 1. [1. Two Sum](https://leetcode.com/problems/two-sum/) (LeetCode) - Easy ([C++ Solution](day_011/leetcode_1.cpp))
 2. [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) (LeetCode) - Easy ([C++ Solution](day_011/leetcode_3550.cpp))
-3. [2621. Sleep](https://leetcode.com/problems/sleep) (LeetCode) - Easy ([JS Solution](day_011/leetcode_2621.js))
 
-#### Day 12 [View Code](day_012) - 2 july
+#### Day 12 [View Code](day_012) - 2 July, 2025
 
-- JavaScript Problems
+- Matrix Problems
 
-1. [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty) (LeetCode) - Easy ([JS Solution](day_012/leetcode_2727.js))
+1. [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) (LeetCode) - Easy ([C++ Solution](day_012/leetcode_1572.cpp))
 
 #### Day 13 [View Code](day_013) - 3 july
 
@@ -573,12 +572,21 @@ Problems Solved:
 3. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) ([C++ Solution](day_073/leetcode_234.cpp))
 4. [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) ([C++ Solution](day_073/leetcode_707.cpp))
 
+#### Day 74 [View Code](day_074) - 3 July, 2025
+
+- Linked List Problems
+
+1. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (LeetCode) - Easy ([C++ Solution](day_074/leetcode_876.cpp))
+   - Approaches: Vector, Counting, Two Pointers (see [README](day_074/README.md))
+2. [Reverse Doubly Linked List](http://geeksforgeeks.org/reverse-a-doubly-linked-list/) ([C++ Solution](day_074/reverse_doubly_linked_list.cpp))
+   - Approach: Swap next/prev pointers for each node (see [README](day_074/README.md))
+
 ---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [99]
-  - Easy: [67]
+- Total Problems Solved: [86]
+  - Easy: [54]
   - Medium: [30]
   - Hard: [2]
 

@@ -24,48 +24,50 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 ### may ,2025
 
-#### Day 11 [View Code](day_011) - 1 july
+#### Day 11 [View Code](day_011) - 1 July, 2025
 
 - Array Problems
 
-1. [Two Sum](https://leetcode.com/problems/two-sum/) (LeetCode) - Easy
-2. [Smallest Index With Digit Sum](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) (LeetCode) - Easy
-3. [Sleep](https://leetcode.com/problems/sleep) (LeetCode) - Easy
+1. [1. Two Sum](https://leetcode.com/problems/two-sum/) (LeetCode) - Easy ([C++ Solution](day_011/leetcode_1.cpp))
+2. [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) (LeetCode) - Easy ([C++ Solution](day_011/leetcode_3550.cpp))
+3. [2621. Sleep](https://leetcode.com/problems/sleep) (LeetCode) - Easy ([JS Solution](day_011/leetcode_2621.js))
 
 #### Day 12 [View Code](day_012) - 2 july
 
 - JavaScript Problems
 
-1. [Is Object Empty](https://leetcode.com/problems/is-object-empty) (LeetCode) - Easy
+1. [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty) (LeetCode) - Easy ([JS Solution](day_012/leetcode_2727.js))
 
 #### Day 13 [View Code](day_013) - 3 july
 
 - Binary Search Problems
 
-1. [First and Last Occurrence](https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549) (Coding Ninjas) - Easy
-2. [Peak in Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) (LeetCode) - Medium
-3. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) (LeetCode) - Easy
+1. [First and Last Occurrence](https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549) (Coding Ninjas) - Easy ([C++ Solution](day_013/firstandlastoccurance.cpp))
+2. [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index) (LeetCode) - Easy ([C++ Solution](day_013/leetcode_724.cpp))
+3. [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) (LeetCode) - Medium ([C++ Solution](day_013/leetcode_852.cpp))
+4. Binary Search Implementation ([C++ Solution](day_013/binary_search.cpp))
 
 #### Day 14 [View Code](day_014) - 4 july
 
 - Rotated Array Problems
 
-1. [Pivot in Rotated Array](https://www.codingninjas.com/studio/problems/find-pivot-in-sorted-rotated-array_1082554) (Coding Ninjas) - Medium
-2. [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array) (LeetCode) - Medium
-3. [Square Root Using Binary Search](https://bit.ly/3Dm4hEE) - Easy
+1. Pivot in Rotated Array ([C++ Solution](day_014/Pivot_in_rotated_array.cpp))
+2. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) (LeetCode) - Medium ([C++ Solution](day_014/leetcode_33.cpp))
+3. Find if Given Element Present in Rotated Array ([C++ Solution](day_014/find_if_given_element_present_in_rotated_array.cpp))
+4. Square Root Using Binary Search ([C++ Solution](day_014/Square_root_using_binary_serach.cpp))
 
 #### Day 15 [View Code](day_015) - 5 july
 
 - Square Root Problems
 
-1. [Square Root with Decimal Precision](https://www.geeksforgeeks.org/find-square-root-number-upto-given-precision-using-binary-search/) (GeeksForGeeks) - Medium
+1. [Square Root with Decimal Precision](https://www.geeksforgeeks.org/find-square-root-number-upto-given-precision-using-binary-search/) (GeeksForGeeks) - Medium ([C++ Solution](day_015/Find_Square_root_with_precision.cpp))
 
 #### Day 16 [View Code](day_016) - 6 july
 
 - Binary Search Problems
 
-1. [Book Allocation Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) (GeeksForGeeks) - Medium
-2. [Painter's Partition Problem](https://bit.ly/31v3Jiy) (Coding Ninjas) - Medium
+1. [Book Allocation Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) (GeeksForGeeks) - Medium ([C++ Solution](day_016/Book_allocation_problem.cpp))
+2. Painter's Partition Problem ([C++ Solution](day_016/Painters_partition_problem.cpp))
 
 #### Day 17 [View Code](day_017) - 7 july
 
@@ -294,73 +296,59 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 #### Day 34 [View Code](day_034) - 24 july
 
-1. [Spiral Order Matrix Traversal](https://www.naukri.com/code360/problem-details/spiral-order-matrix-traversal_893269) (Naukri Code360) - Medium
-2. [Rotate Matrix](https://www.naukri.com/code360/problem-details/rotate-matrix_893270) (Naukri Code360) - Medium
-3. [Wave Print](https://www.naukri.com/code360/problem-details/wave-print_893271) (Naukri Code360) - Medium
+- 2D Matrix Problems
+
+1. [48. Rotate Image](https://leetcode.com/problems/rotate-image/) (LeetCode) - Medium ([C++ Solution](day_034/leetcode_48.cpp))
+2. [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (LeetCode) - Medium ([C++ Solution](day_034/leetcode_54.cpp))
+3. [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) (LeetCode) - Medium ([C++ Solution](day_034/leetcode_240.cpp))
+4. [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) (LeetCode) - Easy ([C++ Solution](day_034/leetcode_2942.cpp))
 
 #### Day 35 [View Code](day_035) - 25 july
 
-1. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) (LeetCode) - Medium
-2. [Count of Substring with All Unique Characters](https://www.naukri.com/code360/problem-details/count-of-substring-with-all-unique-characters_893272) (Naukri Code360) - Medium
-3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (LeetCode) - Medium
+- Number Theory & Sieve Problems
+
+1. [204. Count Primes](https://leetcode.com/problems/count-primes/) (LeetCode) - Medium ([C++ Solution](day_035/leetcode_204.cpp))
+2. [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) (LeetCode) - Easy ([C++ Solution](day_035/leetcode_7.cpp))
+3. Regular Sieve of Eratosthenes vs Segmented Sieve ([C++ Solution](day_035/regular_sieve_of_eratothenes_vs_segmented_sieve.cpp))
+4. HCM (Highest Common Factor) Algorithm ([C++ Solution](day_035/HCM.cpp))
 
 #### Day 36 [View Code](day_036) - 26 july
 
-1. [Median of a Stream](https://leetcode.com/problems/median-of-a-stream/) (LeetCode) - Hard
-2. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (LeetCode) - Hard
-3. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) (LeetCode) - Medium
+- Math & Advanced Problems
+
+1. [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) (LeetCode) - Medium ([C++ Solution](day_036/leetcode_50.cpp))
+2. Catalan Number Implementations ([C++ Solution](day_036/catalan_number_implementations.cpp))
 
 #### Day 37 [View Code](day_037) - 27 july
 
-1. C++ Memory Management
+- C++ Pointers & LeetCode
 
-   - Static vs Dynamic Memory
-   - Memory Allocation Functions: new, delete
-   - Smart Pointers: unique_ptr, shared_ptr, weak_ptr
-   - Memory Leak Detection and Prevention
+1. Pointers in C++ ([C++ Solution](day_037/Pointer_in_cpp.cpp))
+2. [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) (LeetCode) - Easy ([C++ Solution](day_037/leetcode_2894.cpp))
 
-2. Resources:
-   - [C++ Memory Management Notes](https://drive.google.com/file/d/1JIU_63HFF_tGjSNF21x-i_ZZL5Sae1tp/view)
-   - Code Examples: Memory allocation, Smart pointers
+**Resources:**
+
+- [C++ Memory Management Notes](https://drive.google.com/file/d/1JIU_63HFF_tGjSNF21x-i_ZZL5Sae1tp/view)
+- Code Examples: Memory allocation, Smart pointers
 
 - Topics: C++ Memory Management, Smart Pointers, Dynamic Memory
 - Difficulty: Intermediate
 - Language: C++
 
-#### Day 38 [View Code](day_038) - 28 May, 2025
+#### Day 38 [View Code](day_038) - 28 July, 2025
 
-1. [Memory Management & References](https://www.naukri.com/code360/guided-paths/basics-of-c/content/118785/offering/1381146) (Naukri Code360) - Intermediate
+- C++ References & Dynamic Memory
 
-   - Reference Variables Implementation
-     - Pass by Reference vs Value
-     - Memory Sharing Concepts
-     - Reference Best Practices
-   - Dynamic Memory Allocation
-     - Single Element Allocation
-     - Array Allocation & Deallocation
-     - Memory Leak Prevention
-     - Resource Management
-   - [2D Dynamic Arrays](https://drive.google.com/file/d/1nvJKb2fXIQwSK-UltscS5yZ1b7VLxSBu/view)
-     - Row-Column Dynamic Allocation
-     - Memory Management Patterns
-     - Performance Optimization
-     - Best Practices
-     - for more [details](https://www.naukri.com/code360/guided-paths/basics-of-c/content/118785/offering/1381146)
+1. Reference Variables ([C++ Solution](day_038/Reference_variable.cpp))
+2. Dynamic Memory Allocation ([C++ Solution](day_038/Dynamic_memory_allocation.cpp))
+3. 2D Array Dynamic Allocation ([C++ Solution](day_038/2d_array_dynamically.cpp))
+4. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (LeetCode) - Easy ([C++ Solution](day_038/leetcode_26.cpp))
 
-2. Implementation Details:
+**Resources:**
 
-   - Reference Variables: Aliasing and parameter passing
-   - Dynamic Arrays: Runtime memory management
-   - 2D Arrays: Complex data structures
-   - Memory Safety: Leak prevention and cleanup
-
-3. Resources:
-   - [Memory Management Notes](https://drive.google.com/file/d/1JIU_63HFF_tGjSNF21x-i_ZZL5Sae1tp/view)
-   - Code Examples: Reference handling, Dynamic allocation
-
-- Topics: C++ Memory Management, References, Dynamic Arrays
-- Difficulty: Intermediate
-- Language: C++
+- [2D Dynamic Arrays](https://drive.google.com/file/d/1nvJKb2fXIQwSK-UltscS5yZ1b7VLxSBu/view)
+- [C++ Memory Management Notes](https://drive.google.com/file/d/1JIU_63HFF_tGjSNF21x-i_ZZL5Sae1tp/view)
+- [More Details on References](https://www.naukri.com/code360/guided-paths/basics-of-c/content/118785/offering/1381146)
 
 #### Day 39 [View Code](day_039) - 29 May, 2025
 

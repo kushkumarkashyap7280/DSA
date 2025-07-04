@@ -581,14 +581,22 @@ Problems Solved:
 2. [Reverse Doubly Linked List](http://geeksforgeeks.org/reverse-a-doubly-linked-list/) ([C++ Solution](day_074/reverse_doubly_linked_list.cpp))
    - Approach: Swap next/prev pointers for each node (see [README](day_074/README.md))
 
+#### Day 75 [View Code](day_075) - 4 July, 2025
+
+- Linked List Advanced Problems
+
+1. [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) (LeetCode) - Hard ([C++ Solution](day_075/Leetcode_25.cpp), [Detailed Discussion & Visuals](day_075/README.md))
+2. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (LeetCode) - Easy ([C++ Solution](day_075/Leetcode_141.cpp), [See README](day_075/README.md))
+3. [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) (LeetCode) - Medium ([C++ Solution](day_075/Leetcode_142.cpp), [See README](day_075/README.md))
+
 ---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [86]
-  - Easy: [54]
-  - Medium: [30]
-  - Hard: [2]
+- Total Problems Solved: [89]
+  - Easy: [55]
+  - Medium: [31]
+  - Hard: [3]
 
 ---
 

@@ -589,12 +589,18 @@ Problems Solved:
 2. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (LeetCode) - Easy ([C++ Solution](day_075/Leetcode_141.cpp), [See README](day_075/README.md))
 3. [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) (LeetCode) - Medium ([C++ Solution](day_075/Leetcode_142.cpp), [See README](day_075/README.md))
 
+#### Day 76 [View Code](day_076) - 5 July, 2025
+
+- Array Problems
+
+1. [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) (LeetCode) - Easy ([C++ Solution](day_076/leetcode_1394.cpp), [Detailed Discussion & Visuals](day_076/README.md))
+
 ---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [89]
-  - Easy: [55]
+- Total Problems Solved: [90]
+  - Easy: [56]
   - Medium: [31]
   - Hard: [3]
 

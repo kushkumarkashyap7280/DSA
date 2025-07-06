@@ -595,13 +595,21 @@ Problems Solved:
 
 1. [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) (LeetCode) - Easy ([C++ Solution](day_076/leetcode_1394.cpp), [Detailed Discussion & Visuals](day_076/README.md))
 
+#### Day 77 [View Code](day_077) - 6 July, 2025
+
+- Linked List - Remove Duplicates & Loops
+
+1. [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (LeetCode) - Easy ([C++ Solution](day_077/Leetcode_83.cpp), [See README](day_077/README.md))
+2. [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) (LeetCode) - Medium ([C++ Solution](day_077/Leetcode_82.cpp), [See README](day_077/README.md))
+3. [Remove Loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) (GFG) - Medium ([C++ Solution](day_077/remove_loop_from_linkedLIst_gfg.cpp), [See README](day_077/README.md))
+
 ---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [90]
-  - Easy: [56]
-  - Medium: [31]
+- Total Problems Solved: [92]
+  - Easy: [57]
+  - Medium: [32]
   - Hard: [3]
 
 ---

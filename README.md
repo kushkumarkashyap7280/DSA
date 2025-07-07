@@ -603,13 +603,20 @@ Problems Solved:
 2. [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) (LeetCode) - Medium ([C++ Solution](day_077/Leetcode_82.cpp), [See README](day_077/README.md))
 3. [Remove Loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) (GFG) - Medium ([C++ Solution](day_077/remove_loop_from_linkedLIst_gfg.cpp), [See README](day_077/README.md))
 
+#### Day 78 [View Code](day_078) - 7 July, 2025
+
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (LeetCode) - Easy ([C++ Solution](day_078/Leetcode_21.cpp))
+- [75. Sort Colors](https://leetcode.com/problems/sort-colors/) (LeetCode) - Medium ([C++ Solution](day_078/Leetcode_75.cpp))
+- [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) (Coding Ninjas) - Medium ([C++ Solution](day_078/sort_linkedList_0s_1s_2s.cpp))
+- [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) (GFG) - Easy ([C++ Solution](day_078/remove_duplicates_from_unordered_linked_list.cpp))
+
 ---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [92]
-  - Easy: [57]
-  - Medium: [32]
+- Total Problems Solved: [94]
+  - Easy: [58]
+  - Medium: [33]
   - Hard: [3]
 
 ---

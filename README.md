@@ -605,18 +605,27 @@ Problems Solved:
 
 #### Day 78 [View Code](day_078) - 7 July, 2025
 
-- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (LeetCode) - Easy ([C++ Solution](day_078/Leetcode_21.cpp))
-- [75. Sort Colors](https://leetcode.com/problems/sort-colors/) (LeetCode) - Medium ([C++ Solution](day_078/Leetcode_75.cpp))
-- [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) (Coding Ninjas) - Medium ([C++ Solution](day_078/sort_linkedList_0s_1s_2s.cpp))
-- [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) (GFG) - Easy ([C++ Solution](day_078/remove_duplicates_from_unordered_linked_list.cpp))
+- Linked List Practice & Sorting
+
+1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (LeetCode) - Easy ([C++ Solution](day_078/Leetcode_21.cpp))
+2. [Sort Colors](https://leetcode.com/problems/sort-colors/) (LeetCode) - Medium ([C++ Solution](day_078/Leetcode_75.cpp))
+3. [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) (Coding Ninjas) - Easy ([C++ Solution](day_078/sort_linkedList_0s_1s_2s.cpp))
+4. [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) (GFG) - Easy ([C++ Solution](day_078/remove_duplicates_from_unordered_linked_list.cpp))
+
+#### Day 79 [View Code](day_079) - 8 July, 2025
+
+- Linked List Advanced Problems
+
+1. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) (LeetCode) - Medium ([C++ Solution](day_079/Leetcode_2.cpp))
+2. [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) (LeetCode) - Medium ([C++ Solution](day_079/Leetcode_138.cpp))
 
 ---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [94]
+- Total Problems Solved: [96]
   - Easy: [58]
-  - Medium: [33]
+  - Medium: [35]
   - Hard: [3]
 
 ---

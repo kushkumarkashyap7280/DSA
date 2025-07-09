@@ -16,7 +16,7 @@
 - [Day 009](day_009) - Pattern Problems
 - [Day 010](day_010) - Bitwise Operators
 
-# Data Structures and Algorithms Journey 🚀
+# [Data Structures and Algorithms Journey 🚀](https://docs.google.com/spreadsheets/d/1g9bM2tZVrCPQCjpqOtNzJHMmkoUCA0xE/edit?usp=sharing&ouid=103969434569457059301&rtpof=true&sd=true)
 
 Welcome to my DSA learning repository! Here I document my journey of solving LeetCode problems and mastering data structures and algorithms.
 
@@ -618,6 +618,11 @@ Problems Solved:
 
 1. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) (LeetCode) - Medium ([C++ Solution](day_079/Leetcode_2.cpp))
 2. [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) (LeetCode) - Medium ([C++ Solution](day_079/Leetcode_138.cpp))
+
+#### Day 80 [View Code](day_080) - 9 July, 2025
+
+- [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)(LeetCode) - Medium([C++ Solution](day_080/Leetcode_430.cpp))
+- [148. Sort List](https://leetcode.com/problems/sort-list/)(LeetCode) - Medium ([C++ Solution](day_080/Leetcode_148.cpp))
 
 ---
 

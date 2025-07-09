@@ -628,9 +628,9 @@ Problems Solved:
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [96]
+- Total Problems Solved: [98]
   - Easy: [58]
-  - Medium: [35]
+  - Medium: [37]
   - Hard: [3]
 
 ---

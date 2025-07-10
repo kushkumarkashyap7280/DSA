@@ -624,13 +624,19 @@ Problems Solved:
 - [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)(LeetCode) - Medium([C++ Solution](day_080/Leetcode_430.cpp))
 - [148. Sort List](https://leetcode.com/problems/sort-list/)(LeetCode) - Medium ([C++ Solution](day_080/Leetcode_148.cpp))
 
+#### Day 81 [View Code](day_081) - <add date here>
+
+- Linked List Problems
+
+1. [61. Rotate List](https://leetcode.com/problems/rotate-list/) (LeetCode) - Medium ([C++ Solution](day_081/Leetcode_61.cpp))
+
 ---
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [98]
+- Total Problems Solved: [99]
   - Easy: [58]
-  - Medium: [37]
+  - Medium: [38]
   - Hard: [3]
 
 ---

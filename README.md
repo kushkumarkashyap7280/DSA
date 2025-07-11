@@ -20,9 +20,8 @@
 
 Welcome to my DSA learning repository! Here I document my journey of solving LeetCode problems and mastering data structures and algorithms.
 
-## 📝 Daily Log
 
-### may ,2025
+#  <------------ARRAY --------->
 
 #### Day 11 [View Code](day_011) - 1 July, 2025
 
@@ -209,6 +208,8 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 1. [Sum of Two Arrays](https://bit.ly/3DXfsDZ) - Easy
 
+# <-----------STRING---------->
+
 #### Day 27 [View Code](day_027) - 17 july
 
 - Character Arrays & Strings
@@ -281,6 +282,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 1. [String Compression](https://leetcode.com/problems/string-compression/) (LeetCode) - Medium
 
+# <----------2D - ARRAY -------->
 #### Day 32 [View Code](day_032) - 22 july
 
 - [2D Arrays and 2D Vectors](day_032/)
@@ -378,7 +380,7 @@ Problems Solved:
 
 #### Day 42 [View Code](day_042) - 1 june
 
-# Recursion
+# <----- RECURSION ------->
 
 1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) (LeetCode) - Easy
 
@@ -488,6 +490,7 @@ Problems Solved:
 - bubble sorting using recursion.
 - string and some integer related recursion problems.
 
+# <--------SORTING------->
 #### Day 64 [View Code](day_064) - 23 june, 2025
 
 - [Insertion Sort using Recursion](https://leetcode.com/problems/sort-an-array/) (LeetCode) - Medium
@@ -541,7 +544,7 @@ Problems Solved:
 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) (LeetCode) - Medium
 
 #### Day 70 [View Code](day_070) - 29 june, 2025
-
+# <--------OOPS--------->
 ## [OOPS part - I](day_070/OOPS/README.md)
 
 - day problem [Add Digits](https://leetcode.com/problems/add-digits/) (LeetCode) - Easy ([C++ Solution](day_070/leetcode_258.cpp))
@@ -555,7 +558,7 @@ Problems Solved:
 
 #### Day 72 [View Code](day_072) - 1 July, 2025
 
-## LINKEDLIST
+# <----- LINKEDLIST ------->
 
 - Linked List Implementations (Singly, Doubly, Circular Singly, Circular Doubly)
 - [LinkedList Concepts, Examples, and Explanations](day_072/README.md)
@@ -624,13 +627,30 @@ Problems Solved:
 - [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)(LeetCode) - Medium([C++ Solution](day_080/Leetcode_430.cpp))
 - [148. Sort List](https://leetcode.com/problems/sort-list/)(LeetCode) - Medium ([C++ Solution](day_080/Leetcode_148.cpp))
 
-#### Day 81 [View Code](day_081) - <add date here>
-
+#### Day 81 [View Code](day_081) - 10 July , 2025
 - Linked List Problems
 
 1. [61. Rotate List](https://leetcode.com/problems/rotate-list/) (LeetCode) - Medium ([C++ Solution](day_081/Leetcode_61.cpp))
 
----
+##  Custom STL: CircularList
+
+A modern, STL-style circular doubly-linked list implemented from scratch:
+
+- Supports push_back, insert, erase, reverse, rotate, sort, clear, size, empty, head, tail
+- STL-style iterators: begin(), end(), at(index), cycle_begin() for infinite traversal
+- Fully documented and tested
+- See [day_081/circular_list_STL/README.md](day_081/circular_list_STL/README.md) for full details, usage, and examples
+- Try the [demo](day_081/circular_list_STL/demo.cpp) or run the [unit tests](day_081/circular_list_STL/test_circular_list.cpp)
+
+
+# <------- STACK ---------->
+#### Day 82 [View Code](day_082)  - 11 July , 2025
+
+1. [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (LeetCode) - Easy ([C++ Solution](day_082/Leetcode_70.cpp))
+2. [155. Min Stack](https://leetcode.com/problems/min-stack/) (LeetCode) - Easy ([C++ Solution](day_082/Leetcode_155.cpp))
+3. [Two Stacks in an Array](https://www.naukri.com/code360/problems/two-stacks_983634) (Coding Ninjas) - Medium ([C++ Solution](day_082/two_stacks_in_a_array.cpp))
+4. Stack Implementation using Array ([C++ Solution](day_082/stack_using_array.cpp))
+5. Stack Implementation using Linked List ([C++ Solution](day_082/stack.cpp))
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
@@ -642,3 +662,4 @@ Problems Solved:
 ---
 
 Feel free to explore my solutions and learning journey! 💻
+

@@ -20,8 +20,7 @@
 
 Welcome to my DSA learning repository! Here I document my journey of solving LeetCode problems and mastering data structures and algorithms.
 
-
-#  <------------ARRAY --------->
+# <------------ARRAY --------->
 
 #### Day 11 [View Code](day_011) - 1 July, 2025
 
@@ -283,6 +282,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 1. [String Compression](https://leetcode.com/problems/string-compression/) (LeetCode) - Medium
 
 # <----------2D - ARRAY -------->
+
 #### Day 32 [View Code](day_032) - 22 july
 
 - [2D Arrays and 2D Vectors](day_032/)
@@ -491,6 +491,7 @@ Problems Solved:
 - string and some integer related recursion problems.
 
 # <--------SORTING------->
+
 #### Day 64 [View Code](day_064) - 23 june, 2025
 
 - [Insertion Sort using Recursion](https://leetcode.com/problems/sort-an-array/) (LeetCode) - Medium
@@ -544,7 +545,9 @@ Problems Solved:
 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) (LeetCode) - Medium
 
 #### Day 70 [View Code](day_070) - 29 june, 2025
+
 # <--------OOPS--------->
+
 ## [OOPS part - I](day_070/OOPS/README.md)
 
 - day problem [Add Digits](https://leetcode.com/problems/add-digits/) (LeetCode) - Easy ([C++ Solution](day_070/leetcode_258.cpp))
@@ -628,11 +631,12 @@ Problems Solved:
 - [148. Sort List](https://leetcode.com/problems/sort-list/)(LeetCode) - Medium ([C++ Solution](day_080/Leetcode_148.cpp))
 
 #### Day 81 [View Code](day_081) - 10 July , 2025
+
 - Linked List Problems
 
 1. [61. Rotate List](https://leetcode.com/problems/rotate-list/) (LeetCode) - Medium ([C++ Solution](day_081/Leetcode_61.cpp))
 
-##  Custom STL: CircularList
+## Custom STL: CircularList
 
 A modern, STL-style circular doubly-linked list implemented from scratch:
 
@@ -642,24 +646,33 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 - See [day_081/circular_list_STL/README.md](day_081/circular_list_STL/README.md) for full details, usage, and examples
 - Try the [demo](day_081/circular_list_STL/demo.cpp) or run the [unit tests](day_081/circular_list_STL/test_circular_list.cpp)
 
-
 # <------- STACK ---------->
-#### Day 82 [View Code](day_082)  - 11 July , 2025
+
+#### Day 82 [View Code](day_082) - 11 July , 2025
 
 1. [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (LeetCode) - Easy ([C++ Solution](day_082/Leetcode_70.cpp))
-2. [155. Min Stack](https://leetcode.com/problems/min-stack/) (LeetCode) - Easy ([C++ Solution](day_082/Leetcode_155.cpp))
+2. [155. Min Stack](https://leetcode.com/problems/min-stack/) (LeetCode) - Medium ([C++ Solution](day_082/Leetcode_155.cpp))
 3. [Two Stacks in an Array](https://www.naukri.com/code360/problems/two-stacks_983634) (Coding Ninjas) - Medium ([C++ Solution](day_082/two_stacks_in_a_array.cpp))
 4. Stack Implementation using Array ([C++ Solution](day_082/stack_using_array.cpp))
 5. Stack Implementation using Linked List ([C++ Solution](day_082/stack.cpp))
 
+#### Day 83 [View Code](day_083) - 12 July , 2025
+
+1. [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) (LeetCode) - Medium ([C++ Solution](day_083/Leetcode_2095.cpp))
+2. [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) (LeetCode) - Medium ([C++ Solution](day_083/Leetcode_1381.cpp))
+3. [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) (LeetCode) - Easy ([C++ Solution](day_083/Leetcode_3606.cpp))
+4. [Delete Middle Element of a Stack](https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) (GeeksForGeeks) - Medium ([C++ Solution](day_083/delete_middle_of_stack.cpp))
+5. [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) (GeeksForGeeks) - Medium ([C++ Solution](day_083/reverse_stack.cpp))
+6. Reverse a String Using Stack - Easy ([C++ Solution](day_083/reverse_a_stirng_using_stack.cpp))
+7. [Insert An Element At Its Bottom In A Given Stack](https://www.naukri.com/code360/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166) (Coding Ninjas) - Easy ([C++ Solution](day_083/Add_element_to_bottom_of_stack.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [101]
-  - Easy: [59]
-  - Medium: [39]
+- Total Problems Solved: [104]
+  - Easy: [60]
+  - Medium: [41]
   - Hard: [3]
 
 ---
 
 Feel free to explore my solutions and learning journey! 💻
-

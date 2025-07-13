@@ -666,12 +666,20 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 6. Reverse a String Using Stack - Easy ([C++ Solution](day_083/reverse_a_stirng_using_stack.cpp))
 7. [Insert An Element At Its Bottom In A Given Stack](https://www.naukri.com/code360/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166) (Coding Ninjas) - Easy ([C++ Solution](day_083/Add_element_to_bottom_of_stack.cpp))
 
+## Day 84: [View Code](day_084) - 13 July, 2025
+
+1. Process String with Special Operations I (Leetcode, Medium) ([Question](https://leetcode.com/problems/process-string-with-special-operations-i/)) ([C++ Solution](day_084/Leetcode_3612.cpp))
+2. Process String with Special Operations II (Leetcode, Medium) ([Question](https://leetcode.com/problems/process-string-with-special-operations-ii/)) ([C++ Solution](day_084/Leetcode_3614.cpp))
+3. Sort a Stack (GeeksforGeeks, Medium) ([Question](https://www.geeksforgeeks.org/problems/sort-a-stack/1)) ([C++ Solution](day_084/sort_stack.cpp))
+4. Redundant Brackets (Coding Ninjas, Easy) ([Question](https://www.naukri.com/code360/problems/redundant-brackets_975473)) ([C++ Solution](day_084/redundant_brackets.cpp))
+5. Minimum Cost To Make String Valid (Coding Ninjas, Medium) ([Question](https://www.naukri.com/code360/problems/minimum-cost-to-make-string-valid_1115770)) ([C++ Solution](day_084/minimum_cost_to_make_string_valid.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [104]
+- Total Problems Solved: [106]
   - Easy: [60]
-  - Medium: [41]
-  - Hard: [3]
+  - Medium: [42]
+  - Hard: [4]
 
 ---
 

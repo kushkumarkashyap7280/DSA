@@ -1,3 +1,8 @@
+# 📚 Access Topicwise & Difficultywise Problem Lists
+
+- [Difficultywise List (Topwise)](Problems%20list/topwise.md)
+- [Topicwise List (Patternwise)](Problems%20list/patterwise.md)
+
 ## 📂 Daily Folders Quick Access
 
 ### Basics and Setup
@@ -666,7 +671,7 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 6. Reverse a String Using Stack - Easy ([C++ Solution](day_083/reverse_a_stirng_using_stack.cpp))
 7. [Insert An Element At Its Bottom In A Given Stack](https://www.naukri.com/code360/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166) (Coding Ninjas) - Easy ([C++ Solution](day_083/Add_element_to_bottom_of_stack.cpp))
 
-## Day 84: [View Code](day_084) - 13 July, 2025
+#### Day 84: [View Code](day_084) - 13 July, 2025
 
 1. Process String with Special Operations I (Leetcode, Medium) ([Question](https://leetcode.com/problems/process-string-with-special-operations-i/)) ([C++ Solution](day_084/Leetcode_3612.cpp))
 2. Process String with Special Operations II (Leetcode, Medium) ([Question](https://leetcode.com/problems/process-string-with-special-operations-ii/)) ([C++ Solution](day_084/Leetcode_3614.cpp))

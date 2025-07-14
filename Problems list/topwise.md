@@ -15,6 +15,7 @@
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ([Day 082](../day_082/))
 - [155. Min Stack](https://leetcode.com/problems/min-stack/) ([Day 082](../day_082/))
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) ([Day 074](../day_074/))
+- [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) ([Day 085](../day_085/))
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([Day 075](../day_075/))
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) ([Day 077](../day_077/))
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ([Day 078](../day_078/))
@@ -79,13 +80,13 @@
 - [88. Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) ([Day 024](../day_024/))
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/) ([Day 025](../day_025/))
 - [1752. Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) ([Day 025](../day_025/))
-- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) ([Day 074](../day_074/))
 
 ### Hard
 
 - [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) ([Day 044](../day_044/))
 - [135. Candy Distribution](https://leetcode.com/problems/candy/) ([Day 043](../day_043/))
 - [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) ([Day 075](../day_075/))
+- [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) ([Day 085](../day_085/))
 
 ## GeeksforGeeks
 
@@ -121,6 +122,7 @@
 - [Redundant Brackets](https://www.naukri.com/code360/problems/redundant-brackets_975473) ([Day 084](../day_084/))
 - [Minimum Cost To Make String Valid](https://www.naukri.com/code360/problems/minimum-cost-to-make-string-valid_1115770) ([Day 084](../day_084/))
 - [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) ([Day 078](../day_078/))
+- [Next Smaller Element](https://www.naukri.com/code360/problems/next-smaller-element_1112581) ([Day 085](../day_085/))
 
 ## SPOJ
 

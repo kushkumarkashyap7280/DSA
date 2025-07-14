@@ -679,12 +679,22 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 4. Redundant Brackets (Coding Ninjas, Easy) ([Question](https://www.naukri.com/code360/problems/redundant-brackets_975473)) ([C++ Solution](day_084/redundant_brackets.cpp))
 5. Minimum Cost To Make String Valid (Coding Ninjas, Medium) ([Question](https://www.naukri.com/code360/problems/minimum-cost-to-make-string-valid_1115770)) ([C++ Solution](day_084/minimum_cost_to_make_string_valid.cpp))
 
+#### Day 85: [View Code](day_085) - 14 July, 2025
+
+- Stack Problems
+
+1. [Next Smaller Element](https://www.naukri.com/code360/problems/next-smaller-element_1112581) (Naukri Code360) - Medium ([C++ Solution](day_085/next_smallest_element.cpp))
+
+- Linked List Problems
+
+1. [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) (LeetCode) - Easy ([C++ Solution](day_085/leetcode_1290.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [106]
-  - Easy: [60]
+- Total Problems Solved: [108]
+  - Easy: [61]
   - Medium: [42]
-  - Hard: [4]
+  - Hard: [5]
 
 ---
 

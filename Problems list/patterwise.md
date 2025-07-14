@@ -37,6 +37,7 @@
 - [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) (LeetCode, Medium) ([Day 036](../day_036/))
 - [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) (LeetCode, Hard) ([Day 044](../day_044/))
 - [135. Candy Distribution](https://leetcode.com/problems/candy/) (LeetCode, Hard) ([Day 043](../day_043/))
+- [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) (LeetCode, Hard) ([Day 085](../day_085/))
 
 ## Strings
 
@@ -59,6 +60,7 @@
 - [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) (LeetCode, Easy) ([Day 073](../day_073/))
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (LeetCode, Easy) ([Day 074](../day_074/))
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/) (LeetCode, Easy) ([Day 081](../day_081/))
+- [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) (LeetCode, Easy) ([Day 085](../day_085/))
 - [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) (LeetCode, Easy) ([Day 083](../day_083/))
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) (LeetCode, Medium) ([Day 079](../day_079/))
 - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) (LeetCode, Medium) ([Day 079](../day_079/))
@@ -79,6 +81,7 @@
 - [Sort a Stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) (GeeksforGeeks, Easy) ([Day 084](../day_084/))
 - [Insert An Element At Its Bottom In A Given Stack](https://www.naukri.com/code360/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166) (Naukri Code360, Easy) ([Day 083](../day_083/))
 - [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) (LeetCode, Easy) ([Day 083](../day_083/))
+- [Next Smaller Element](https://www.naukri.com/code360/problems/next-smaller-element_1112581) (Naukri Code360, Medium) ([Day 085](../day_085/))
 
 ## Sorting
 

@@ -681,13 +681,10 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 #### Day 85: [View Code](day_085) - 14 July, 2025
 
-- Stack Problems
-
 1. [Next Smaller Element](https://www.naukri.com/code360/problems/next-smaller-element_1112581) (Naukri Code360) - Medium ([C++ Solution](day_085/next_smallest_element.cpp))
 
-- Linked List Problems
-
-1. [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) (LeetCode) - Easy ([C++ Solution](day_085/leetcode_1290.cpp))
+2. [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) (LeetCode) - Easy ([C++ Solution](day_085/leetcode_1290.cpp))
+3. [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) (LeetCode) - Hard ([C++ Solution](day_085/leetcode_32.cpp))
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 

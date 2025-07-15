@@ -82,6 +82,7 @@
 - [Insert An Element At Its Bottom In A Given Stack](https://www.naukri.com/code360/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166) (Naukri Code360, Easy) ([Day 083](../day_083/))
 - [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) (LeetCode, Easy) ([Day 083](../day_083/))
 - [Next Smaller Element](https://www.naukri.com/code360/problems/next-smaller-element_1112581) (Naukri Code360, Medium) ([Day 085](../day_085/))
+- [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (LeetCode, Hard) ([Day 086](../day_086/))
 
 ## Sorting
 

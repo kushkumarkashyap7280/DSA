@@ -87,6 +87,7 @@
 - [135. Candy Distribution](https://leetcode.com/problems/candy/) ([Day 043](../day_043/))
 - [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) ([Day 075](../day_075/))
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) ([Day 085](../day_085/))
+- [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) ([Day 086](../day_086/))
 
 ## GeeksforGeeks
 

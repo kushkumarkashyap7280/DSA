@@ -686,12 +686,20 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) (LeetCode) - Easy ([C++ Solution](day_085/leetcode_1290.cpp))
 3. [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) (LeetCode) - Hard ([C++ Solution](day_085/leetcode_32.cpp))
 
+#### Day 86 [View Code](day_086) - 15 July, 2025
+
+- Stack and Miscellaneous Problems
+
+1. [3136. Valid Word](https://leetcode.com/problems/valid-word/) (LeetCode) - Easy ([C++ Solution](day_086/Leetcode_3136.cpp))
+2. [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) (LeetCode) - Medium ([C++ Solution](day_086/Leetcode_901.cpp))
+3. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (LeetCode) - Hard ([C++ Solution](day_086/Leetcode_84.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [108]
-  - Easy: [61]
-  - Medium: [42]
-  - Hard: [5]
+- Total Problems Solved: [111]
+  - Easy: [62]
+  - Medium: [43]
+  - Hard: [6]
 
 ---
 

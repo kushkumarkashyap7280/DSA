@@ -38,6 +38,7 @@
 - [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) (LeetCode, Hard) ([Day 044](../day_044/))
 - [135. Candy Distribution](https://leetcode.com/problems/candy/) (LeetCode, Hard) ([Day 043](../day_043/))
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) (LeetCode, Hard) ([Day 085](../day_085/))
+- [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) (LeetCode, Medium) ([Day 087](../day_087/))
 
 ## Strings
 
@@ -83,6 +84,7 @@
 - [3606. Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) (LeetCode, Easy) ([Day 083](../day_083/))
 - [Next Smaller Element](https://www.naukri.com/code360/problems/next-smaller-element_1112581) (Naukri Code360, Medium) ([Day 085](../day_085/))
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (LeetCode, Hard) ([Day 086](../day_086/))
+- [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) (GeeksforGeeks, Medium) ([Day 087](../day_087/))
 
 ## Sorting
 
@@ -96,6 +98,7 @@
 - [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) (LeetCode, Medium) ([Day 032](../day_032/))
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) (LeetCode, Medium) ([Day 032](../day_032/))
 - [Print Like A Wave](https://www.naukri.com/code360/problem-details/print-like-a-wave_893268) (Naukri Code360, Easy) ([Day 033](../day_033/))
+- [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) (GeeksforGeeks, Medium) ([Day 087](../day_087/))
 
 ## Recursion
 

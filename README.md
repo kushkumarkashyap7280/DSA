@@ -694,11 +694,18 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) (LeetCode) - Medium ([C++ Solution](day_086/Leetcode_901.cpp))
 3. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (LeetCode) - Hard ([C++ Solution](day_086/Leetcode_84.cpp))
 
+#### Day 87 [View Code](day_087) - 16 July, 2025
+
+- Stack & Parity Problems
+
+1. [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) (GeeksforGeeks) - Medium ([C++ Solution](day_087/Celebrity_problem.cpp))
+2. [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) (LeetCode) - Medium ([C++ Solution](day_087/Leetcode_3201.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [111]
+- Total Problems Solved: [112]
   - Easy: [62]
-  - Medium: [43]
+  - Medium: [44]
   - Hard: [6]
 
 ---

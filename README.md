@@ -701,12 +701,19 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) (GeeksforGeeks) - Medium ([C++ Solution](day_087/Celebrity_problem.cpp))
 2. [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) (LeetCode) - Medium ([C++ Solution](day_087/Leetcode_3201.cpp))
 
+#### Day 88 [View Code](day_088) - 17 July, 2025
+
+- Stack & 2D Array Problems
+
+1. [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) (LeetCode) - Hard ([C++ Solution](day_088/Leetcode_85.cpp))
+2. [N Stacks In An Array](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271) (Coding Ninjas) - Hard ([C++ Solution](day_088/N_stack_in_an_array.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [112]
+- Total Problems Solved: [113]
   - Easy: [62]
   - Medium: [44]
-  - Hard: [6]
+  - Hard: [7]
 
 ---
 

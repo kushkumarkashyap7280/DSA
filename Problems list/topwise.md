@@ -88,6 +88,7 @@
 - [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) ([Day 075](../day_075/))
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) ([Day 085](../day_085/))
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) ([Day 086](../day_086/))
+- [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) ([Day 088](../day_088/))
 
 ## GeeksforGeeks
 
@@ -124,6 +125,7 @@
 - [Minimum Cost To Make String Valid](https://www.naukri.com/code360/problems/minimum-cost-to-make-string-valid_1115770) ([Day 084](../day_084/))
 - [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) ([Day 078](../day_078/))
 - [Next Smaller Element](https://www.naukri.com/code360/problems/next-smaller-element_1112581) ([Day 085](../day_085/))
+- [N Stacks In An Array](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271) ([Day 088](../day_088/))
 
 ## SPOJ
 

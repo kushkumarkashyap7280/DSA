@@ -39,6 +39,7 @@
 - [135. Candy Distribution](https://leetcode.com/problems/candy/) (LeetCode, Hard) ([Day 043](../day_043/))
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) (LeetCode, Hard) ([Day 085](../day_085/))
 - [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) (LeetCode, Medium) ([Day 087](../day_087/))
+- [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) (LeetCode, Hard) ([Day 088](../day_088/))
 
 ## Strings
 
@@ -85,6 +86,7 @@
 - [Next Smaller Element](https://www.naukri.com/code360/problems/next-smaller-element_1112581) (Naukri Code360, Medium) ([Day 085](../day_085/))
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (LeetCode, Hard) ([Day 086](../day_086/))
 - [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) (GeeksforGeeks, Medium) ([Day 087](../day_087/))
+- [N Stacks In An Array](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271) (Coding Ninjas, Hard) ([Day 088](../day_088/))
 
 ## Sorting
 

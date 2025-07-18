@@ -708,12 +708,17 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) (LeetCode) - Hard ([C++ Solution](day_088/Leetcode_85.cpp))
 2. [N Stacks In An Array](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271) (Coding Ninjas) - Hard ([C++ Solution](day_088/N_stack_in_an_array.cpp))
 
+#### Day 89 [View Code](day_089) - 18 July, 2025
+
+
+1. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (LeetCode) - Hard ([C++ Solution](day_089/Leetcode_23.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
 - Total Problems Solved: [113]
   - Easy: [62]
   - Medium: [44]
-  - Hard: [7]
+  - Hard: [8]
 
 ---
 

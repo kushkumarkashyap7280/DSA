@@ -74,6 +74,7 @@
 - [Remove Loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) (GeeksforGeeks, Medium) ([Day 077](../day_077/))
 - [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) (Naukri Code360/GeeksforGeeks, Medium) ([Day 078](../day_078/))
 - [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) (GeeksforGeeks, Medium) ([Day 078](../day_078/))
+- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (LeetCode, Hard) ([Day 089](../day_089/))
 
 ## Stack
 

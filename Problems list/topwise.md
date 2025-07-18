@@ -89,6 +89,7 @@
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) ([Day 085](../day_085/))
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) ([Day 086](../day_086/))
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) ([Day 088](../day_088/))
+- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ([Day 089](../day_089/))
 
 ## GeeksforGeeks
 

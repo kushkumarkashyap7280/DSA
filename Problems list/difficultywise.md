@@ -1,4 +1,4 @@
-# Topwise Categorized DSA Questions
+# Difficulty wise Categorized DSA Questions
 
 ## LeetCode
 
@@ -80,6 +80,7 @@
 - [88. Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) ([Day 024](../day_024/))
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/) ([Day 025](../day_025/))
 - [1752. Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) ([Day 025](../day_025/))
+- [143. Reorder List](https://leetcode.com/problems/reorder-list/) ([Day 090](../day_090/))
 
 ### Hard
 
@@ -127,6 +128,7 @@
 - [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) ([Day 078](../day_078/))
 - [Next Smaller Element](https://www.naukri.com/code360/problems/next-smaller-element_1112581) ([Day 085](../day_085/))
 - [N Stacks In An Array](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271) ([Day 088](../day_088/))
+- [Design a Stack That Supports getMin in O(1) Time and O(1) Extra Space](https://www.naukri.com/code360/problems/design-a-stack-that-supports-getmin-in-o-1-time-and-o-1-extra-space_842465) ([Day 090](../day_090/))
 
 ## SPOJ
 

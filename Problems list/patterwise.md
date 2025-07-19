@@ -75,6 +75,7 @@
 - [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) (Naukri Code360/GeeksforGeeks, Medium) ([Day 078](../day_078/))
 - [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) (GeeksforGeeks, Medium) ([Day 078](../day_078/))
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (LeetCode, Hard) ([Day 089](../day_089/))
+- [143. Reorder List](https://leetcode.com/problems/reorder-list/) (LeetCode, Medium) ([Day_090](../day_090/))
 
 ## Stack
 
@@ -88,6 +89,7 @@
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (LeetCode, Hard) ([Day 086](../day_086/))
 - [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) (GeeksforGeeks, Medium) ([Day 087](../day_087/))
 - [N Stacks In An Array](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271) (Coding Ninjas, Hard) ([Day 088](../day_088/))
+- [Design a Stack That Supports getMin in O(1) Time and O(1) Extra Space](https://www.naukri.com/code360/problems/design-a-stack-that-supports-getmin-in-o-1-time-and-o-1-extra-space_842465) (Naukri Code360, Medium) ([Day 090](../day_090/))
 
 ## Sorting
 

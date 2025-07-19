@@ -1,6 +1,6 @@
 # 📚 Access Topicwise & Difficultywise Problem Lists
 
-- [Difficultywise List (Topwise)](Problems%20list/topwise.md)
+- [Difficultywise List (Topwise)](Problems%20list/difficultywise.md)
 - [Topicwise List (Patternwise)](Problems%20list/patterwise.md)
 
 ## 📂 Daily Folders Quick Access
@@ -710,14 +710,20 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 #### Day 89 [View Code](day_089) - 18 July, 2025
 
-
 1. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (LeetCode) - Hard ([C++ Solution](day_089/Leetcode_23.cpp))
+
+#### Day 90 [View Code](day_090) - 19 July, 2025
+
+- Stack Problems
+
+1. [Design a Stack That Supports getMin in O(1) Time and O(1) Extra Space](https://www.naukri.com/code360/problems/design-a-stack-that-supports-getmin-in-o-1-time-and-o-1-extra-space_842465) (Naukri Code360) - Medium ([C++ Solution](day_090/Custom_stack_which_have_constant_time_to_get_top_and_min.cpp))
+2. [143. Reorder List](https://leetcode.com/problems/reorder-list/) (LeetCode) - Medium ([C++ Solution](day_090/Leetcode_143.cpp))
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [113]
+- Total Problems Solved: [115]
   - Easy: [62]
-  - Medium: [44]
+  - Medium: [45]
   - Hard: [8]
 
 ---

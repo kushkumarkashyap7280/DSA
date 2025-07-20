@@ -62,6 +62,7 @@
 - [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) (LeetCode, Easy) ([Day 073](../day_073/))
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (LeetCode, Easy) ([Day 074](../day_074/))
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/) (LeetCode, Easy) ([Day 081](../day_081/))
+- [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) (LeetCode, Easy) ([Day_091](../day_091/))
 - [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) (LeetCode, Easy) ([Day 085](../day_085/))
 - [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) (LeetCode, Easy) ([Day 083](../day_083/))
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) (LeetCode, Medium) ([Day 079](../day_079/))

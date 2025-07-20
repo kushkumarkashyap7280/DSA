@@ -719,10 +719,20 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [Design a Stack That Supports getMin in O(1) Time and O(1) Extra Space](https://www.naukri.com/code360/problems/design-a-stack-that-supports-getmin-in-o-1-time-and-o-1-extra-space_842465) (Naukri Code360) - Medium ([C++ Solution](day_090/Custom_stack_which_have_constant_time_to_get_top_and_min.cpp))
 2. [143. Reorder List](https://leetcode.com/problems/reorder-list/) (LeetCode) - Medium ([C++ Solution](day_090/Leetcode_143.cpp))
 
+# <<--------------- QUEUE --------->>
+#### Day 91 [View Code](day_091) - 20 July, 2025
+
+- Queue Problems
+
+1. [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) (LeetCode) - Easy ([C++ Solution](day_091/Leetcode_3622.cpp))
+2. STL Queue Demo ([C++ Solution](day_091/queue.cpp))
+3. Custom Queue Using Array ([C++ Solution](day_091/custom_queue_using_array.cpp))
+4. Custom Queue Using Linked List ([C++ Solution](day_091/custom_queue_using_linkedList.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [115]
-  - Easy: [62]
+- Total Problems Solved: [116]
+  - Easy: [63]
   - Medium: [45]
   - Hard: [8]
 

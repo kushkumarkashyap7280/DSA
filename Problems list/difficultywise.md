@@ -43,6 +43,7 @@
 - [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) ([Day 073](../day_073/))
 - [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) ([Day 076](../day_076/))
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/) ([Day 081](../day_081/))
+- [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) ([Day_091](../day_091/))
 
 ### Medium
 

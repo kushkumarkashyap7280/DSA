@@ -44,6 +44,7 @@
 - [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) ([Day 076](../day_076/))
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/) ([Day 081](../day_081/))
 - [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) ([Day_091](../day_091/))
+- [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) ([Day_092](../day_092/))
 
 ### Medium
 
@@ -82,6 +83,7 @@
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/) ([Day 025](../day_025/))
 - [1752. Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) ([Day 025](../day_025/))
 - [143. Reorder List](https://leetcode.com/problems/reorder-list/) ([Day 090](../day_090/))
+- [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) ([Day_092](../day_092/))
 
 ### Hard
 

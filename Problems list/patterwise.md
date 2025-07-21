@@ -48,6 +48,7 @@
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) (LeetCode, Medium) ([Day 030](../day_030/))
 - [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) (LeetCode, Medium) ([Day 030](../day_030/))
 - [1047. Remove Adjacent Duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) (LeetCode, Medium) ([Day 030](../day_030/))
+- [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) (LeetCode, Easy) ([Day_092](../day_092/))
 - [151. Reverse Words in String](https://leetcode.com/problems/reverse-words-in-a-string/) (LeetCode, Medium) ([Day 029](../day_029/))
 - [443. String Compression](https://leetcode.com/problems/string-compression/) (LeetCode, Medium) ([Day 031](../day_031/))
 - [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) (LeetCode, Easy) ([Day 034](../day_034/))
@@ -91,6 +92,7 @@
 - [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) (GeeksforGeeks, Medium) ([Day 087](../day_087/))
 - [N Stacks In An Array](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271) (Coding Ninjas, Hard) ([Day 088](../day_088/))
 - [Design a Stack That Supports getMin in O(1) Time and O(1) Extra Space](https://www.naukri.com/code360/problems/design-a-stack-that-supports-getmin-in-o-1-time-and-o-1-extra-space_842465) (Naukri Code360, Medium) ([Day 090](../day_090/))
+- [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) (LeetCode, Medium) ([Day_092](../day_092/))
 
 ## Sorting
 

@@ -399,6 +399,16 @@ Problems Solved:
 - Mathematical Algorithms & Optimizations
 
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/) (LeetCode) - Medium
+
+
+#### Day 93 [View Code](day_093) - 22 July, 2025
+
+- Custom Queue Implementations
+
+1. Doubly Ended Queue (Deque) - ([C++ Solution](day_093/custom_doubly_ended_queue.cpp))
+2. Input-Restricted Queue - ([C++ Solution](day_093/custom_input_restricted_queue.cpp))
+3. Output-Restricted Queue - ([C++ Solution](day_093/custom_output_restricted_queue.cpp))
+4. [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) (LeetCode) - Medium ([C++ Solution](day_093/Leetcode_641.cpp))
 2. [Sum Multiples](https://leetcode.com/problems/sum-multiples/) (LeetCode) - Easy
 
 #### Day 45 [View Code](day_045) - 4 june

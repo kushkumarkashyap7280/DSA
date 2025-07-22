@@ -401,14 +401,6 @@ Problems Solved:
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/) (LeetCode) - Medium
 
 
-#### Day 93 [View Code](day_093) - 22 July, 2025
-
-- Custom Queue Implementations
-
-1. Doubly Ended Queue (Deque) - ([C++ Solution](day_093/custom_doubly_ended_queue.cpp))
-2. Input-Restricted Queue - ([C++ Solution](day_093/custom_input_restricted_queue.cpp))
-3. Output-Restricted Queue - ([C++ Solution](day_093/custom_output_restricted_queue.cpp))
-4. [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) (LeetCode) - Medium ([C++ Solution](day_093/Leetcode_641.cpp))
 2. [Sum Multiples](https://leetcode.com/problems/sum-multiples/) (LeetCode) - Easy
 
 #### Day 45 [View Code](day_045) - 4 june
@@ -748,11 +740,20 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) (LeetCode) - Medium ([C++ Solution](day_092/Leetcode_622.cpp))
 3. Custom Circular Queue ([C++ Solution](day_092/custom_circular_queue.cpp))
 
+#### Day 93 [View Code](day_093) - 22 July, 2025
+
+- Custom Queue Implementations
+
+1. Doubly Ended Queue (Deque) - ([C++ Solution](day_093/custom_doubly_ended_queue.cpp))
+2. Input-Restricted Queue - ([C++ Solution](day_093/custom_input_restricted_queue.cpp))
+3. Output-Restricted Queue - ([C++ Solution](day_093/custom_output_restricted_queue.cpp))
+4. [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) (LeetCode) - Medium ([C++ Solution](day_093/Leetcode_641.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [118]
+- Total Problems Solved: [119]
   - Easy: [64]
-  - Medium: [46]
+  - Medium: [47]
   - Hard: [8]
 
 ---

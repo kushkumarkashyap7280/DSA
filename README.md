@@ -400,7 +400,6 @@ Problems Solved:
 
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/) (LeetCode) - Medium
 
-
 2. [Sum Multiples](https://leetcode.com/problems/sum-multiples/) (LeetCode) - Easy
 
 #### Day 45 [View Code](day_045) - 4 june
@@ -749,10 +748,17 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 3. Output-Restricted Queue - ([C++ Solution](day_093/custom_output_restricted_queue.cpp))
 4. [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) (LeetCode) - Medium ([C++ Solution](day_093/Leetcode_641.cpp))
 
+#### Day 94 [View Code](day_094) - 23 July, 2025
+
+- Linked List & Queue Problems
+
+1. [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) (LeetCode) - Easy ([C++ Solution](day_094/Leetcode_203.cpp))
+2. [Queue Reversal](https://www.geeksforgeeks.org/problems/queue-reversal/1) (GeeksForGeeks) - Easy ([C++ Solution](day_094/reverse_a_queue.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [119]
-  - Easy: [64]
+- Total Problems Solved: [120]
+  - Easy: [65]
   - Medium: [47]
   - Hard: [8]
 

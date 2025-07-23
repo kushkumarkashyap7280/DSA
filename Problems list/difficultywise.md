@@ -45,6 +45,7 @@
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/) ([Day 081](../day_081/))
 - [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) ([Day_091](../day_091/))
 - [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) ([Day_092](../day_092/))
+- [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) ([Day_094](../day_094/))
 
 ### Medium
 

@@ -1,6 +1,6 @@
 // ========================== DOUBLY ENDED QUEUE =====================
 
-// it has only allowed  to insert back
+// it has  allowed  to insert both side 
 // it has allowed to pop from both side
 
 
@@ -132,6 +132,8 @@ public:
 int main (){
 
    IRQ* c = new IRQ();
+
+   
 
      cout << "size is :" << c->size() << endl;
      cout << "queue is empty ?  " << ((c->isempty()) ? "Yes" : "No") << endl;

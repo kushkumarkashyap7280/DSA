@@ -755,10 +755,19 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) (LeetCode) - Easy ([C++ Solution](day_094/Leetcode_203.cpp))
 2. [Queue Reversal](https://www.geeksforgeeks.org/problems/queue-reversal/1) (GeeksForGeeks) - Easy ([C++ Solution](day_094/reverse_a_queue.cpp))
 
+#### Day 95 [View Code](day_095) - 24 July, 2025
+
+- Queue & String Problems
+
+1. [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (LeetCode) - Easy ([C++ Solution](day_095/Leetcode_387.cpp))
+2. [First Non-repeating Character in a Stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) (GeeksForGeeks) - Medium ([C++ Solution](day_095/stream_first_non_repeating.cpp))
+3. [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) (GeeksForGeeks) - Medium ([C++ Solution](day_095/reverse_first_k_elements_in_queue.cpp))
+4. [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) (GeeksForGeeks) - Medium ([C++ Solution](day_095/Find_first_negative_in_every_window_in_an_array.cpp))
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [120]
-  - Easy: [65]
+- Total Problems Solved: [121]
+  - Easy: [66]
   - Medium: [47]
   - Hard: [8]
 

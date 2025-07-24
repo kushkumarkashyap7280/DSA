@@ -1,3 +1,10 @@
+**Platform & Difficulty Distribution:**
+
+- LeetCode: 41 Easy, 32 Medium, 8 Hard
+- GeeksforGeeks: 7 Easy, 7 Medium
+- Coding Ninjas / Naukri Code360: 5 Easy, 6 Medium
+- SPOJ: 2 Medium
+
 # Difficulty wise Categorized DSA Questions
 
 ## LeetCode
@@ -46,6 +53,7 @@
 - [3622. Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) ([Day_091](../day_091/))
 - [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) ([Day_092](../day_092/))
 - [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) ([Day_094](../day_094/))
+- [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Day_095](../day_095/))
 
 ### Medium
 
@@ -107,6 +115,7 @@
 - [Delete Middle Element of a Stack](https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) ([Day 083](../day_083/))
 - [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) ([Day 083](../day_083/))
 - [Sort a Stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) ([Day 084](../day_084/))
+- [Reverse a Queue](https://www.geeksforgeeks.org/problems/queue-reversal/1) ([Day 094](../day_094/))
 
 ### Medium
 
@@ -115,6 +124,11 @@
 - [Remove Loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) ([Day 077](../day_077/))
 - [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) ([Day 078](../day_078/))
 - [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) ([Day 078](../day_078/))
+- [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) ([Day 095](../day_095/))
+- [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) ([Day 095](../day_095/))
+- [First Non-repeating Character in a Stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) ([Day_095](../day_095/))
+- [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) ([Day_095](../day_095/))
+- [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) ([Day_095](../day_095/))
 
 ## Coding Ninjas / Naukri Code360
 

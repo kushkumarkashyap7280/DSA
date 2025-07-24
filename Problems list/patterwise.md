@@ -1,3 +1,16 @@
+**Data Structure/Algorithm Distribution:**
+
+- Arrays: 36
+- Strings: 11
+- Linked List: 22
+- Stack: 11
+- Queue: 5
+- Sorting: 2
+- 2D Arrays: 7
+- Recursion: 7
+- OOPS: 1
+- Miscellaneous: 2
+
 # Patternwise Categorized DSA Questions
 
 ## Arrays
@@ -54,6 +67,8 @@
 - [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) (LeetCode, Easy) ([Day 034](../day_034/))
 - [Redundant Brackets](https://www.naukri.com/code360/problems/redundant-brackets_975473) (Naukri Code360, Medium) ([Day 084](../day_084/))
 - [Minimum Cost To Make String Valid](https://www.naukri.com/code360/problems/minimum-cost-to-make-string-valid_1115770) (Naukri Code360, Medium) ([Day 084](../day_084/))
+- [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (LeetCode, Easy) ([Day_095](../day_095/))
+- [First Non-repeating Character in a Stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) (GeeksforGeeks, Medium) ([Day_095](../day_095/))
 
 ## Linked List
 
@@ -98,6 +113,9 @@
 
 - [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) (LeetCode, Medium) ([Day_092](../day_092/))
 - [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) (LeetCode, Medium) ([Day 093](../day_093/))
+- [Reverse a Queue](https://www.geeksforgeeks.org/problems/queue-reversal/1) (GeeksforGeeks, Easy) ([Day 094](../day_094/))
+- [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) (GeeksforGeeks, Medium) ([Day_095](../day_095/))
+- [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) (GeeksforGeeks, Medium) ([Day_095](../day_095/))
 
 ## Sorting
 

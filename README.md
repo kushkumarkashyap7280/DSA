@@ -764,6 +764,19 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 3. [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) (GeeksForGeeks) - Medium ([C++ Solution](day_095/reverse_first_k_elements_in_queue.cpp))
 4. [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) (GeeksForGeeks) - Medium ([C++ Solution](day_095/Find_first_negative_in_every_window_in_an_array.cpp))
 
+---
+
+#### Day 96 [View Code](day_096) - 25 July, 2025
+
+- Queue & Stack Problems ([See Details](day_096/README.md))
+
+1. [134. Gas Station](https://leetcode.com/problems/gas-station/) (LeetCode) - Medium ([C++ Solution](day_096/Leetcode_134.cpp))
+2. [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) (LeetCode) - Easy ([C++ Solution](day_096/Leetcode_225.cpp))
+3. [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (LeetCode) - Easy ([C++ Solution](day_096/Leetcode_232.cpp))
+4. [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) (GeeksForGeeks) - Medium ([C++ Solution](day_096/Interleave_first_half_with_second_half_of_queue.cpp))
+
+---
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
 - Total Problems Solved: [121]

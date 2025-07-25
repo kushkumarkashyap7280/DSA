@@ -47,6 +47,7 @@
 - [48. Rotate Image](https://leetcode.com/problems/rotate-image/) (LeetCode, Medium) ([Day 034](../day_034/))
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) (LeetCode, Medium) ([Day 013](../day_013/))
 - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) (LeetCode, Medium) ([Day 014](../day_014/))
+- [134. Gas Station](https://leetcode.com/problems/gas-station/) (LeetCode, Medium) ([Day_096](../day_096/))
 - [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) (LeetCode, Medium) ([Day 036](../day_036/))
 - [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) (LeetCode, Hard) ([Day 044](../day_044/))
 - [135. Candy Distribution](https://leetcode.com/problems/candy/) (LeetCode, Hard) ([Day 043](../day_043/))
@@ -108,6 +109,7 @@
 - [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) (GeeksforGeeks, Medium) ([Day 087](../day_087/))
 - [N Stacks In An Array](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271) (Coding Ninjas, Hard) ([Day 088](../day_088/))
 - [Design a Stack That Supports getMin in O(1) Time and O(1) Extra Space](https://www.naukri.com/code360/problems/design-a-stack-that-supports-getmin-in-o-1-time-and-o-1-extra-space_842465) (Naukri Code360, Medium) ([Day 090](../day_090/))
+- [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) (LeetCode, Easy) ([Day_096](../day_096/))
 
 ## Queue
 
@@ -116,6 +118,8 @@
 - [Reverse a Queue](https://www.geeksforgeeks.org/problems/queue-reversal/1) (GeeksforGeeks, Easy) ([Day 094](../day_094/))
 - [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) (GeeksforGeeks, Medium) ([Day_095](../day_095/))
 - [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) (GeeksforGeeks, Medium) ([Day_095](../day_095/))
+- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (LeetCode, Easy) ([Day_096](../day_096/))
+- [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) (GeeksforGeeks, Medium) ([Day_096](../day_096/))
 
 ## Sorting
 

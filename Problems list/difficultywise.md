@@ -54,6 +54,8 @@
 - [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) ([Day_092](../day_092/))
 - [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) ([Day_094](../day_094/))
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Day_095](../day_095/))
+- [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ([Day_096](../day_096/))
+- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ([Day_096](../day_096/))
 
 ### Medium
 
@@ -94,6 +96,7 @@
 - [143. Reorder List](https://leetcode.com/problems/reorder-list/) ([Day 090](../day_090/))
 - [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) ([Day_092](../day_092/))
 - [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) ([Day 093](../day_093/))
+- [134. Gas Station](https://leetcode.com/problems/gas-station/) ([Day_096](../day_096/))
 
 ### Hard
 
@@ -129,6 +132,7 @@
 - [First Non-repeating Character in a Stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) ([Day_095](../day_095/))
 - [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) ([Day_095](../day_095/))
 - [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) ([Day_095](../day_095/))
+- [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) ([Day_096](../day_096/))
 
 ## Coding Ninjas / Naukri Code360
 

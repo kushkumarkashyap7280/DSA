@@ -779,9 +779,9 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
-- Total Problems Solved: [121]
-  - Easy: [66]
-  - Medium: [47]
+- Total Problems Solved: [124]
+  - Easy: [68]
+  - Medium: [48]
   - Hard: [8]
 
 ---

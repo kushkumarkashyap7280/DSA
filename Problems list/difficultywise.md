@@ -1,8 +1,8 @@
 **Platform & Difficulty Distribution:**
 
-- LeetCode: 41 Easy, 32 Medium, 8 Hard
-- GeeksforGeeks: 7 Easy, 7 Medium
-- Coding Ninjas / Naukri Code360: 5 Easy, 6 Medium
+- LeetCode: 41 Easy, 33 Medium, 8 Hard
+- GeeksforGeeks: 7 Easy, 8 Medium
+- Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
 
 # Difficulty wise Categorized DSA Questions
@@ -97,6 +97,7 @@
 - [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) ([Day_092](../day_092/))
 - [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) ([Day 093](../day_093/))
 - [134. Gas Station](https://leetcode.com/problems/gas-station/) ([Day_096](../day_096/))
+- [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) ([Day_097](../day_097/))
 
 ### Hard
 
@@ -127,12 +128,14 @@
 - [Remove Loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) ([Day 077](../day_077/))
 - [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) ([Day 078](../day_078/))
 - [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) ([Day 078](../day_078/))
+- [N Queues in an Array](https://www.naukri.com/code360/problems/n-queue-using-array_1170053) ([Day_097](../day_097/))
 - [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) ([Day 095](../day_095/))
 - [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) ([Day 095](../day_095/))
 - [First Non-repeating Character in a Stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) ([Day_095](../day_095/))
 - [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) ([Day_095](../day_095/))
 - [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) ([Day_095](../day_095/))
 - [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) ([Day_096](../day_096/))
+- [Sum of Max and Min of Window K in Array](https://www.geeksforgeeks.org/dsa/sum-minimum-maximum-elements-subarrays-size-k/) ([Day_097](../day_097/))
 
 ## Coding Ninjas / Naukri Code360
 

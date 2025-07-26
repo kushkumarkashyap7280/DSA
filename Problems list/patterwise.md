@@ -2,14 +2,14 @@
 
 - Arrays: 36
 - Strings: 11
-- Linked List: 22
+- Linked List: 23
 - Stack: 11
-- Queue: 5
+- Queue: 6
 - Sorting: 2
 - 2D Arrays: 7
 - Recursion: 7
 - OOPS: 1
-- Miscellaneous: 2
+- Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
 
@@ -70,6 +70,7 @@
 - [Minimum Cost To Make String Valid](https://www.naukri.com/code360/problems/minimum-cost-to-make-string-valid_1115770) (Naukri Code360, Medium) ([Day 084](../day_084/))
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (LeetCode, Easy) ([Day_095](../day_095/))
 - [First Non-repeating Character in a Stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) (GeeksforGeeks, Medium) ([Day_095](../day_095/))
+- [Sum of Max and Min of Window K in Array](https://www.geeksforgeeks.org/dsa/sum-minimum-maximum-elements-subarrays-size-k/) (GeeksforGeeks, Medium) ([Day_097](../day_097/))
 
 ## Linked List
 
@@ -95,6 +96,7 @@
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (LeetCode, Hard) ([Day 089](../day_089/))
 - [143. Reorder List](https://leetcode.com/problems/reorder-list/) (LeetCode, Medium) ([Day_090](../day_090/))
 - [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) (LeetCode, Easy) ([Day_094](../day_094/))
+- [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) (LeetCode, Medium) ([Day_097](../day_097/))
 
 ## Stack
 
@@ -120,6 +122,7 @@
 - [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) (GeeksforGeeks, Medium) ([Day_095](../day_095/))
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (LeetCode, Easy) ([Day_096](../day_096/))
 - [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) (GeeksforGeeks, Medium) ([Day_096](../day_096/))
+- [N Queues in an Array](https://www.naukri.com/code360/problems/n-queue-using-array_1170053) (Naukri Code360, Medium) ([Day_097](../day_097/))
 
 ## Sorting
 

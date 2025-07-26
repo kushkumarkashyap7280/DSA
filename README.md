@@ -1,3 +1,7 @@
+## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kushkumarkashyap7280)
+
 # 📚 Access Topicwise & Difficultywise Problem Lists
 
 - [Difficultywise List (Topwise)](Problems%20list/difficultywise.md)
@@ -777,9 +781,15 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 ---
 
-## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
-![LeetCode Stats](https://leetcard.jacoblin.cool/kushkumarkashyap7280)
+#### Day 97 [View Code](day_097) - 26 July, 2025
 
+- Advanced Problems  ([See Details](day_097/README.md))
+
+1. [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) (LeetCode) - Medium ([C++ Solution](day_097/Leetcode_24.cpp))
+2. [Sum of Max and Min of Window K in Array](https://www.geeksforgeeks.org/dsa/sum-minimum-maximum-elements-subarrays-size-k/) (GeeksforGeeks) - Medium ([C++ Solution](day_097/Sum_of_max_min_of_window_k_in_array.cpp))
+3. [N Queues in an Array](https://www.naukri.com/code360/problems/n-queue-using-array_1170053) (Naukri Code360) - Medium ([C++ Solution](day_097/N_queues_in_an_array.cpp))
+
+---
 
 ---
 

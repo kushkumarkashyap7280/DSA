@@ -27,6 +27,8 @@
 
 # [Data Structures and Algorithms Journey 🚀](https://docs.google.com/spreadsheets/d/1g9bM2tZVrCPQCjpqOtNzJHMmkoUCA0xE/edit?usp=sharing&ouid=103969434569457059301&rtpof=true&sd=true)
 
+![Data Structures Classification](https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg)
+
 Welcome to my DSA learning repository! Here I document my journey of solving LeetCode problems and mastering data structures and algorithms.
 
 # <------------ARRAY --------->
@@ -783,7 +785,7 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 #### Day 97 [View Code](day_097) - 26 July, 2025
 
-- Advanced Problems  ([See Details](day_097/README.md))
+- Advanced Problems ([See Details](day_097/README.md))
 
 1. [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) (LeetCode) - Medium ([C++ Solution](day_097/Leetcode_24.cpp))
 2. [Sum of Max and Min of Window K in Array](https://www.geeksforgeeks.org/dsa/sum-minimum-maximum-elements-subarrays-size-k/) (GeeksforGeeks) - Medium ([C++ Solution](day_097/Sum_of_max_min_of_window_k_in_array.cpp))

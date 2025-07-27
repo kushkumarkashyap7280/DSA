@@ -1,7 +1,7 @@
 **Platform & Difficulty Distribution:**
 
-- LeetCode: 41 Easy, 33 Medium, 8 Hard
-- GeeksforGeeks: 7 Easy, 8 Medium
+- LeetCode: 42 Easy, 35 Medium, 8 Hard
+- GeeksforGeeks: 8 Easy, 8 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
 
@@ -98,6 +98,8 @@
 - [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) ([Day 093](../day_093/))
 - [134. Gas Station](https://leetcode.com/problems/gas-station/) ([Day_096](../day_096/))
 - [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) ([Day_097](../day_097/))
+- [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) ([Day_098](../day_098/))
+- [3627. Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) ([Day_098](../day_098/))
 
 ### Hard
 
@@ -136,6 +138,7 @@
 - [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) ([Day_095](../day_095/))
 - [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) ([Day_096](../day_096/))
 - [Sum of Max and Min of Window K in Array](https://www.geeksforgeeks.org/dsa/sum-minimum-maximum-elements-subarrays-size-k/) ([Day_097](../day_097/))
+- [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) ([Day_098](../day_098/))
 
 ## Coding Ninjas / Naukri Code360
 

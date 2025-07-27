@@ -9,6 +9,7 @@
 - 2D Arrays: 7
 - Recursion: 7
 - OOPS: 1
+- Binary Trees: 3
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -71,6 +72,13 @@
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (LeetCode, Easy) ([Day_095](../day_095/))
 - [First Non-repeating Character in a Stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) (GeeksforGeeks, Medium) ([Day_095](../day_095/))
 - [Sum of Max and Min of Window K in Array](https://www.geeksforgeeks.org/dsa/sum-minimum-maximum-elements-subarrays-size-k/) (GeeksforGeeks, Medium) ([Day_097](../day_097/))
+
+## Binary Trees
+
+- [Binary Tree Implementation](day_098/Binary_Tree.cpp) (Implementation, Various) ([Day_098](../day_098/))
+- [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) (GeeksforGeeks, Easy) ([Day_098](../day_098/))
+- [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) (LeetCode, Medium) ([Day_098](../day_098/))
+- [3627. Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) (LeetCode, Medium) ([Day_098](../day_098/))
 
 ## Linked List
 

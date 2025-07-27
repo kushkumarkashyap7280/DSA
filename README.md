@@ -792,6 +792,17 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 3. [N Queues in an Array](https://www.naukri.com/code360/problems/n-queue-using-array_1170053) (Naukri Code360) - Medium ([C++ Solution](day_097/N_queues_in_an_array.cpp))
 
 ---
+# <--------- BINARY TREE --------->
+#### Day 98 [View Code](day_098) - 27 July, 2025
+
+- Binary Tree Fundamentals ([See Details](day_098/README.md))
+
+1. [Binary Tree Implementation](day_098/Binary_Tree.cpp) - Comprehensive tree operations
+2. [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) (GeeksForGeeks) - Easy ([C++ Solution](day_098/Count_leaves_in_Binary_tree.cpp))
+3. [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) (LeetCode) - Medium ([C++ Solution](day_098/Leetcode_222.cpp))
+4. [3627. Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) (LeetCode) - Medium ([C++ Solution](day_098/Leetcode_3627.cpp))
+
+---
 
 ---
 

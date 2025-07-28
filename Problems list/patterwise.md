@@ -9,7 +9,7 @@
 - 2D Arrays: 7
 - Recursion: 7
 - OOPS: 1
-- Binary Trees: 3
+- Binary Trees: 8
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -79,6 +79,11 @@
 - [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) (GeeksforGeeks, Easy) ([Day_098](../day_098/))
 - [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) (LeetCode, Medium) ([Day_098](../day_098/))
 - [3627. Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) (LeetCode, Medium) ([Day_098](../day_098/))
+- [Height of Binary Tree](day_099/Height_of_binary_tree.cpp) (Implementation, Various) ([Day_099](../day_099/))
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (LeetCode, Easy) ([Day_099](../day_099/))
+- [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (LeetCode, Easy) ([Day_099](../day_099/))
+- [100. Same Tree](https://leetcode.com/problems/same-tree/) (LeetCode, Easy) ([Day_099](../day_099/))
+- [Sum Tree](https://www.geeksforgeeks.org/problems/sum-tree/1) (GeeksforGeeks, Medium) ([Day_099](../day_099/))
 
 ## Linked List
 

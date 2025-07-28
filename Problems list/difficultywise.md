@@ -100,6 +100,9 @@
 - [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) ([Day_097](../day_097/))
 - [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) ([Day_098](../day_098/))
 - [3627. Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) ([Day_098](../day_098/))
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) ([Day_099](../day_099/))
+- [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) ([Day_099](../day_099/))
+- [100. Same Tree](https://leetcode.com/problems/same-tree/) ([Day_099](../day_099/))
 
 ### Hard
 
@@ -139,6 +142,7 @@
 - [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) ([Day_096](../day_096/))
 - [Sum of Max and Min of Window K in Array](https://www.geeksforgeeks.org/dsa/sum-minimum-maximum-elements-subarrays-size-k/) ([Day_097](../day_097/))
 - [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) ([Day_098](../day_098/))
+- [Sum Tree](https://www.geeksforgeeks.org/problems/sum-tree/1) ([Day_099](../day_099/))
 
 ## Coding Ninjas / Naukri Code360
 

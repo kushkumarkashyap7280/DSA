@@ -792,7 +792,9 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 3. [N Queues in an Array](https://www.naukri.com/code360/problems/n-queue-using-array_1170053) (Naukri Code360) - Medium ([C++ Solution](day_097/N_queues_in_an_array.cpp))
 
 ---
+
 # <--------- BINARY TREE --------->
+
 #### Day 98 [View Code](day_098) - 27 July, 2025
 
 - Binary Tree Fundamentals ([See Details](day_098/README.md))
@@ -801,6 +803,16 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) (GeeksForGeeks) - Easy ([C++ Solution](day_098/Count_leaves_in_Binary_tree.cpp))
 3. [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) (LeetCode) - Medium ([C++ Solution](day_098/Leetcode_222.cpp))
 4. [3627. Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) (LeetCode) - Medium ([C++ Solution](day_098/Leetcode_3627.cpp))
+
+#### Day 99 [View Code](day_099) - 28 July, 2025
+
+- Advanced Binary Tree Problems and Tree Properties ([See Details](day_099/README.md))
+
+1. [Height of Binary Tree](day_099/Height_of_binary_tree.cpp) - Comprehensive tree height calculation
+2. [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) (LeetCode) - Easy ([C++ Solution](day_099/Leetcode_543.cpp))
+3. [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (LeetCode) - Easy ([C++ Solution](day_099/Leetcode_110.cpp))
+4. [100. Same Tree](https://leetcode.com/problems/same-tree/) (LeetCode) - Easy ([C++ Solution](day_099/Leetcode_100.cpp))
+5. [Sum Tree](https://www.geeksforgeeks.org/problems/sum-tree/1) (GeeksForGeeks) - Medium ([C++ Solution](day_099/Sum_tree.cpp))
 
 ---
 

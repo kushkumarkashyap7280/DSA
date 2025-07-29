@@ -84,6 +84,12 @@
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) (LeetCode, Easy) ([Day_099](../day_099/))
 - [100. Same Tree](https://leetcode.com/problems/same-tree/) (LeetCode, Easy) ([Day_099](../day_099/))
 - [Sum Tree](https://www.geeksforgeeks.org/problems/sum-tree/1) (GeeksforGeeks, Medium) ([Day_099](../day_099/))
+- [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (LeetCode, Easy) ([Day_100](../day_100/))
+- [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (LeetCode, Medium) ([Day_100](../day_100/))
+- [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (LeetCode, Medium) ([Day_100](../day_100/))
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (LeetCode, Easy) ([Day_100](../day_100/))
+- [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (LeetCode, Medium) ([Day_100](../day_100/))
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (LeetCode, Easy) ([Day_100](../day_100/))
 
 ## Linked List
 

@@ -814,6 +814,17 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 4. [100. Same Tree](https://leetcode.com/problems/same-tree/) (LeetCode) - Easy ([C++ Solution](day_099/Leetcode_100.cpp))
 5. [Sum Tree](https://www.geeksforgeeks.org/problems/sum-tree/1) (GeeksForGeeks) - Medium ([C++ Solution](day_099/Sum_tree.cpp))
 
+#### Day 100 [View Code](day_100) - 29 July, 2025
+
+- Binary Tree Traversal and Tree Properties ([See Details](day_100/README.md))
+
+1. [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (LeetCode) - Easy ([C++ Solution](day_100/Leetcode_101.cpp))
+2. [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (LeetCode) - Medium ([C++ Solution](day_100/Leetcode_102.cpp))
+3. [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (LeetCode) - Medium ([C++ Solution](day_100/Leetcode_103.cpp))
+4. [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (LeetCode) - Easy ([C++ Solution](day_100/Leetcode_104.cpp))
+5. [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (LeetCode) - Medium ([C++ Solution](day_100/Leetcode_107.cpp))
+6. [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (LeetCode) - Easy ([C++ Solution](day_100/Leetcode_94.cpp))
+
 ---
 
 ---

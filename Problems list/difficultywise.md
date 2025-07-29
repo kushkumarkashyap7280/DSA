@@ -103,6 +103,12 @@
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) ([Day_099](../day_099/))
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) ([Day_099](../day_099/))
 - [100. Same Tree](https://leetcode.com/problems/same-tree/) ([Day_099](../day_099/))
+- [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) ([Day_100](../day_100/))
+- [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) ([Day_100](../day_100/))
+- [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) ([Day_100](../day_100/))
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ([Day_100](../day_100/))
+- [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) ([Day_100](../day_100/))
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) ([Day_100](../day_100/))
 
 ### Hard
 
@@ -143,6 +149,9 @@
 - [Sum of Max and Min of Window K in Array](https://www.geeksforgeeks.org/dsa/sum-minimum-maximum-elements-subarrays-size-k/) ([Day_097](../day_097/))
 - [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) ([Day_098](../day_098/))
 - [Sum Tree](https://www.geeksforgeeks.org/problems/sum-tree/1) ([Day_099](../day_099/))
+- [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) ([Day_100](../day_100/))
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ([Day_100](../day_100/))
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) ([Day_100](../day_100/))
 
 ## Coding Ninjas / Naukri Code360
 

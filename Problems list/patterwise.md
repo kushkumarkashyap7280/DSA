@@ -90,6 +90,9 @@
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (LeetCode, Easy) ([Day_100](../day_100/))
 - [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (LeetCode, Medium) ([Day_100](../day_100/))
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (LeetCode, Easy) ([Day_100](../day_100/))
+- [Boundary Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) (GeeksforGeeks, Medium) ([Day_101](../day_101/))
+- [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) (LeetCode, Medium) ([Day_101](../day_101/))
+- [987. Vertical Order Traversal of Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) (LeetCode, Hard) ([Day_101](../day_101/))
 
 ## Linked List
 

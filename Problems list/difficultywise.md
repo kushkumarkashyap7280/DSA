@@ -1,7 +1,7 @@
 **Platform & Difficulty Distribution:**
 
-- LeetCode: 42 Easy, 35 Medium, 8 Hard
-- GeeksforGeeks: 8 Easy, 8 Medium
+- LeetCode: 43 Easy, 35 Medium, 8 Hard
+- GeeksforGeeks: 8 Easy, 11 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
 
@@ -56,6 +56,7 @@
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Day_095](../day_095/))
 - [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) ([Day_096](../day_096/))
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ([Day_096](../day_096/))
+- [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) ([Day_102](../day_102/))
 
 ### Medium
 
@@ -155,6 +156,9 @@
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ([Day_100](../day_100/))
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) ([Day_100](../day_100/))
 - [Boundary Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) ([Day_101](../day_101/))
+- [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) ([Day_102](../day_102/))
+- [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) ([Day_102](../day_102/))
+- [Diagonal Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) ([Day_102](../day_102/))
 
 ## Coding Ninjas / Naukri Code360
 

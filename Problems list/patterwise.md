@@ -9,7 +9,7 @@
 - 2D Arrays: 7
 - Recursion: 7
 - OOPS: 1
-- Binary Trees: 8
+- Binary Trees: 12
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -93,6 +93,10 @@
 - [Boundary Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) (GeeksforGeeks, Medium) ([Day_101](../day_101/))
 - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) (LeetCode, Medium) ([Day_101](../day_101/))
 - [987. Vertical Order Traversal of Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) (LeetCode, Hard) ([Day_101](../day_101/))
+- [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) (LeetCode, Medium) ([Day_102](../day_102/))
+- [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) (GeeksforGeeks, Medium) ([Day_102](../day_102/))
+- [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) (GeeksforGeeks, Medium) ([Day_102](../day_102/))
+- [Diagonal Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) (GeeksforGeeks, Medium) ([Day_102](../day_102/))
 
 ## Linked List
 

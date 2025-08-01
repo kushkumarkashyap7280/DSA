@@ -9,7 +9,7 @@
 - 2D Arrays: 7
 - Recursion: 7
 - OOPS: 1
-- Binary Trees: 12
+- Binary Trees: 17
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -97,6 +97,11 @@
 - [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) (GeeksforGeeks, Medium) ([Day_102](../day_102/))
 - [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) (GeeksforGeeks, Medium) ([Day_102](../day_102/))
 - [Diagonal Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) (GeeksforGeeks, Medium) ([Day_102](../day_102/))
+- [112. Path Sum](https://leetcode.com/problems/path-sum/) (LeetCode, Easy) ([Day_103](../day_103/))
+- [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) (LeetCode, Medium) ([Day_103](../day_103/))
+- [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (LeetCode, Medium) ([Day_103](../day_103/))
+- [Sum of Nodes on the Longest Path from Root to Leaf Node](https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) (GeeksforGeeks, Medium) ([Day_103](../day_103/))
+- [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (LeetCode, Medium) ([Day_103](../day_103/))
 
 ## Linked List
 

@@ -842,6 +842,16 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 3. [Diagonal Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) (GeeksForGeeks) - Medium ([C++ Solution](day_102/Diagonal_traversal_binary_tree.cpp))
 4. [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) (LeetCode) - Medium ([C++ Solution](day_102/Leetcode_513.cpp))
 
+#### Day 103 [View Code](day_103) - 1 August, 2025
+
+- Binary Tree Path Sum Problems ([See Details](day_103/README.md))
+
+1. [112. Path Sum](https://leetcode.com/problems/path-sum/) (LeetCode) - Easy ([C++ Solution](day_103/Leetcode_112.cpp))
+2. [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) (LeetCode) - Medium ([C++ Solution](day_103/Leetcode_437.cpp))
+3. [1161. Maximum Level Sum of Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-binary-tree/) (LeetCode) - Medium ([C++ Solution](day_103/Leetcode_1161.cpp))
+4. [Sum of Nodes on the Longest Path](https://www.geeksforgeeks.org/problems/sum-of-nodes-on-the-longest-path-from-root-to-leaf-node/1) (GeeksForGeeks) - Medium ([C++ Solution](day_103/Sum_of_nodes_on_the_longest_path.cpp))
+5. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (LeetCode) - Medium ([C++ Solution](day_103/Leetcode_236.cpp))
+
 ---
 
 ---

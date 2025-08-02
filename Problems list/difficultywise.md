@@ -116,6 +116,7 @@
 - [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) ([Day_103](../day_103/))
 - [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) ([Day_103](../day_103/))
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ([Day_103](../day_103/))
+- [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) ([Day_104](../day_104/))
 
 ### Hard
 
@@ -164,6 +165,7 @@
 - [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) ([Day_102](../day_102/))
 - [Diagonal Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) ([Day_102](../day_102/))
 - [Sum of Nodes on the Longest Path from Root to Leaf Node](https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) ([Day_103](../day_103/))
+- [Maximum Sum of Non-adjacent Nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) ([Day_104](../day_104/))
 
 ## Coding Ninjas / Naukri Code360
 

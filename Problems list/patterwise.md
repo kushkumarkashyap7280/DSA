@@ -102,6 +102,8 @@
 - [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (LeetCode, Medium) ([Day_103](../day_103/))
 - [Sum of Nodes on the Longest Path from Root to Leaf Node](https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) (GeeksforGeeks, Medium) ([Day_103](../day_103/))
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (LeetCode, Medium) ([Day_103](../day_103/))
+- [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) (LeetCode, Hard) ([Day_104](../day_104/))
+- [Maximum Sum of Non-adjacent Nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) (GeeksforGeeks, Medium) ([Day_104](../day_104/))
 
 ## Linked List
 

@@ -852,6 +852,13 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 4. [Sum of Nodes on the Longest Path](https://www.geeksforgeeks.org/problems/sum-of-nodes-on-the-longest-path-from-root-to-leaf-node/1) (GeeksForGeeks) - Medium ([C++ Solution](day_103/Sum_of_nodes_on_the_longest_path.cpp))
 5. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (LeetCode) - Medium ([C++ Solution](day_103/Leetcode_236.cpp))
 
+#### Day 104 [View Code](day_104) - 2 August, 2025
+
+- Binary Tree Advanced Problems ([See Details](day_104/README.md))
+
+1. [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) (LeetCode) - Hard ([C++ Solution](day_104/Leetcode_1483.cpp))
+2. [Maximum Sum of Non-adjacent Nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) (GeeksForGeeks) - Medium ([C++ Solution](day_104/Maximum_sum_of_non_adjacents_nodes.cpp))
+
 ---
 
 ---

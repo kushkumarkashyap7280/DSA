@@ -859,6 +859,14 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) (LeetCode) - Hard ([C++ Solution](day_104/Leetcode_1483.cpp))
 2. [Maximum Sum of Non-adjacent Nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) (GeeksForGeeks) - Medium ([C++ Solution](day_104/Maximum_sum_of_non_adjacents_nodes.cpp))
 
+#### Day 105 [View Code](day_105) - 3 August, 2025
+
+- Array Patterns and Binary Tree Construction ([See Details](day_105/README.md))
+
+1. [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/) (LeetCode) - Easy([C++ Solution](day_105/Leetcode_3637.cpp))
+2. [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (LeetCode) - Medium ([C++ Solution](day_105/Leetcode_105.cpp))
+3. [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (LeetCode) - Medium ([C++ Solution](day_105/Leetcode_106.cpp))
+
 ---
 
 ---

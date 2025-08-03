@@ -1,6 +1,6 @@
 **Data Structure/Algorithm Distribution:**
 
-- Arrays: 36
+- Arrays: 37
 - Strings: 11
 - Linked List: 23
 - Stack: 11
@@ -9,7 +9,7 @@
 - 2D Arrays: 7
 - Recursion: 7
 - OOPS: 1
-- Binary Trees: 17
+- Binary Trees: 19
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -104,6 +104,9 @@
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (LeetCode, Medium) ([Day_103](../day_103/))
 - [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) (LeetCode, Hard) ([Day_104](../day_104/))
 - [Maximum Sum of Non-adjacent Nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) (GeeksforGeeks, Medium) ([Day_104](../day_104/))
+- [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/) (LeetCode, Easy) ([Day_105](../day_105/))
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (LeetCode, Medium) ([Day_105](../day_105/))
+- [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (LeetCode, Medium) ([Day_105](../day_105/))
 
 ## Linked List
 

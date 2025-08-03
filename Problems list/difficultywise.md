@@ -1,6 +1,6 @@
 **Platform & Difficulty Distribution:**
 
-- LeetCode: 44 Easy, 38 Medium, 8 Hard
+- LeetCode: 45 Easy, 40 Medium, 8 Hard
 - GeeksforGeeks: 8 Easy, 12 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
@@ -58,6 +58,7 @@
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ([Day_096](../day_096/))
 - [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) ([Day_102](../day_102/))
 - [112. Path Sum](https://leetcode.com/problems/path-sum/) ([Day_103](../day_103/))
+- [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/) ([Day_105](../day_105/))
 
 ### Medium
 
@@ -117,6 +118,8 @@
 - [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) ([Day_103](../day_103/))
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ([Day_103](../day_103/))
 - [1483. Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) ([Day_104](../day_104/))
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ([Day_105](../day_105/))
+- [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ([Day_105](../day_105/))
 
 ### Hard
 

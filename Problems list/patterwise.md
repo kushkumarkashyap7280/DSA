@@ -107,6 +107,8 @@
 - [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/) (LeetCode, Easy) ([Day_105](../day_105/))
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (LeetCode, Medium) ([Day_105](../day_105/))
 - [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (LeetCode, Medium) ([Day_105](../day_105/))
+- [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) (LeetCode, Medium) ([Day_106](../day_106/))
+- [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) (LeetCode, Medium) ([Day_106](../day_106/))
 
 ## Linked List
 

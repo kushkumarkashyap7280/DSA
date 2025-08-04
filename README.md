@@ -867,6 +867,13 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (LeetCode) - Medium ([C++ Solution](day_105/Leetcode_105.cpp))
 3. [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (LeetCode) - Medium ([C++ Solution](day_105/Leetcode_106.cpp))
 
+#### Day 106 [View Code](day_106) - 4 August, 2025
+
+- Array Manipulation and Search Problems ([See Details](day_106/README.md))
+
+1. [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) (LeetCode) - Medium ([C++ Solution](day_106/Leetcode_80.cpp))
+2. [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) (LeetCode) - Medium ([C++ Solution](day_106/Leetcode_81.cpp))
+
 ---
 
 ---

@@ -874,6 +874,12 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) (LeetCode) - Medium ([C++ Solution](day_106/Leetcode_80.cpp))
 2. [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) (LeetCode) - Medium ([C++ Solution](day_106/Leetcode_81.cpp))
 
+#### Day 107 [View Code](day_107) - 5 August, 2025
+
+- Linked List Node Deletion ([See Details](day_107/README.md))
+
+1. [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) (LeetCode) - Medium ([C++ Solution](day_107/Leetcode_237.cpp))
+
 ---
 
 ---

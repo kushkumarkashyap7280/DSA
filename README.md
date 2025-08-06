@@ -880,6 +880,14 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) (LeetCode) - Medium ([C++ Solution](day_107/Leetcode_237.cpp))
 
+#### Day 108 [View Code](day_108) - 6 August, 2025
+
+- Binary Tree Problems and Morris Traversal ([See Details](day_108/README.md))
+
+1. [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) (LeetCode) - Medium ([C++ Solution](day_108/Leetcode_2385.cpp))
+2. [Morris Traversal Implementation](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/) (GeeksForGeeks) - Advanced ([C++ Solution](day_108/Morris_traversal.cpp))
+3. [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (LeetCode) - Medium ([C++ Solution](day_108/Leetcode_114.cpp))
+
 ---
 
 ---

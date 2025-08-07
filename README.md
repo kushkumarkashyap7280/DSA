@@ -888,6 +888,16 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [Morris Traversal Implementation](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/) (GeeksForGeeks) - Advanced ([C++ Solution](day_108/Morris_traversal.cpp))
 3. [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (LeetCode) - Medium ([C++ Solution](day_108/Leetcode_114.cpp))
 
+# <----------------- BINARY SEARCH TREE --------------->
+#### Day 109 [View Code](day_109) - 7 August, 2025
+
+- Binary Search Tree Fundamentals and Operations ([See Details](day_109/README.md))
+
+1. [Binary Search Tree Implementation](day_109/Binary_search_tree.cpp) - Complete BST with basic operations ([C++ Solution](day_109/Binary_search_tree.cpp))
+2. [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) (LeetCode) - Easy ([C++ Solution](day_109/Leetcode_700.cpp))
+3. [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) (LeetCode) - Medium ([C++ Solution](day_109/Leetcode_701.cpp))
+4. [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) (LeetCode) - Medium ([C++ Solution](day_109/Leetcode_1008.cpp))
+
 ---
 
 ---

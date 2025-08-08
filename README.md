@@ -898,6 +898,13 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 3. [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) (LeetCode) - Medium ([C++ Solution](day_109/Leetcode_701.cpp))
 4. [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) (LeetCode) - Medium ([C++ Solution](day_109/Leetcode_1008.cpp))
 
+#### Day 110 [View Code](day_110) - 8 August, 2025
+
+- Binary Search Tree Operations and Linked List to BST Conversion ([See Details](day_110/README.md))
+
+1. [Minimum Node in Binary Search Tree](day_110/min_node_in_BST.cpp) - Find min/max values in BST ([C++ Solution](day_110/min_node_in_BST.cpp))
+2. [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) (LeetCode) - Medium ([C++ Solution](day_110/Leetcode_109.cpp))
+
 ---
 
 ---

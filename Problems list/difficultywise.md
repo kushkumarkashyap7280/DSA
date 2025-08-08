@@ -1,6 +1,6 @@
 **Platform & Difficulty Distribution:**
 
-- LeetCode: 45 Easy, 40 Medium, 8 Hard
+- LeetCode: 46 Easy, 43 Medium, 8 Hard
 - GeeksforGeeks: 8 Easy, 12 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
@@ -59,6 +59,7 @@
 - [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) ([Day_102](../day_102/))
 - [112. Path Sum](https://leetcode.com/problems/path-sum/) ([Day_103](../day_103/))
 - [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/) ([Day_105](../day_105/))
+- [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) ([Day_109](../day_109/))
 
 ### Medium
 
@@ -121,6 +122,9 @@
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ([Day_105](../day_105/))
 - [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ([Day_105](../day_105/))
 - [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ([Day_106](../day_106/))
+- [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) ([Day_109](../day_109/))
+- [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) ([Day_109](../day_109/))
+- [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) ([Day_110](../day_110/))
 - [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) ([Day_106](../day_106/))
 - [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) ([Day_107](../day_107/))
 - [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) ([Day_108](../day_108/))

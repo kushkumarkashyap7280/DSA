@@ -2,14 +2,14 @@
 
 - Arrays: 37
 - Strings: 11
-- Linked List: 23
+- Linked List: 24
 - Stack: 11
 - Queue: 6
 - Sorting: 2
 - 2D Arrays: 7
 - Recursion: 7
 - OOPS: 1
-- Binary Trees: 19
+- Binary Trees: 23
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -112,6 +112,12 @@
 - [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) (LeetCode, Medium) ([Day_108](../day_108/))
 - [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (LeetCode, Medium) ([Day_108](../day_108/))
 - [Morris Traversal Implementation](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/) (GeeksforGeeks, Advanced) ([Day_108](../day_108/))
+- [Binary Search Tree Implementation](day_109/Binary_search_tree.cpp) (Implementation, Various) ([Day_109](../day_109/))
+- [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) (LeetCode, Easy) ([Day_109](../day_109/))
+- [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) (LeetCode, Medium) ([Day_109](../day_109/))
+- [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) (LeetCode, Medium) ([Day_109](../day_109/))
+- [Minimum Node in Binary Search Tree](day_110/min_node_in_BST.cpp) (Implementation, Various) ([Day_110](../day_110/))
+- [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) (LeetCode, Medium) ([Day_110](../day_110/))
 
 ## Linked List
 

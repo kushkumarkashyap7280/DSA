@@ -1,3 +1,22 @@
+<div align="center">
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="120"/>
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3.png" alt="GeeksforGeeks" width="120"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="120"/>
+</div>
+
+<h1>DSA PROBLEM SOLVING JOURNEY</h1>
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=algorithm&logoColor=white)
+
+</div>
+
 ## 📊 [Leetcode Progress Tracker](https://leetcode.com/u/kushkumarkashyap7280/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kushkumarkashyap7280)
@@ -904,6 +923,14 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [Minimum Node in Binary Search Tree](day_110/min_node_in_BST.cpp) - Find min/max values in BST ([C++ Solution](day_110/min_node_in_BST.cpp))
 2. [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) (LeetCode) - Medium ([C++ Solution](day_110/Leetcode_109.cpp))
+
+#### Day 111 [View Code](day_111) - 9 August, 2025
+
+- Binary Search Tree Operations with Test Cases ([See Details](day_111/README.md))
+
+1. [Inorder Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) (GeeksforGeeks) - Medium ([C++ Solution](day_111/Inorder_predecessor_and_successor.cpp))
+2. [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) (LeetCode) - Medium ([C++ Solution](day_111/Leetcode_450.cpp))
+3. [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (LeetCode) - Medium ([C++ Solution](day_111/Leetcode_98.cpp))
 
 ---
 

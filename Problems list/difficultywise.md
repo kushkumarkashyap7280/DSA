@@ -125,6 +125,8 @@
 - [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) ([Day_109](../day_109/))
 - [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) ([Day_109](../day_109/))
 - [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) ([Day_110](../day_110/))
+- [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) ([Day_111](../day_111/))
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) ([Day_111](../day_111/))
 - [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) ([Day_106](../day_106/))
 - [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) ([Day_107](../day_107/))
 - [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) ([Day_108](../day_108/))
@@ -179,6 +181,7 @@
 - [Sum of Nodes on the Longest Path from Root to Leaf Node](https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) ([Day_103](../day_103/))
 - [Maximum Sum of Non-adjacent Nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) ([Day_104](../day_104/))
 - [Morris Traversal Implementation](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/) ([Day_108](../day_108/))
+- [Inorder Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) ([Day_111](../day_111/))
 
 ## Coding Ninjas / Naukri Code360
 

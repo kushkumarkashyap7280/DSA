@@ -932,6 +932,13 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) (LeetCode) - Medium ([C++ Solution](day_111/Leetcode_450.cpp))
 3. [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (LeetCode) - Medium ([C++ Solution](day_111/Leetcode_98.cpp))
 
+#### Day 112 [View Code](day_112) - 10 August, 2025
+
+- Kth Element Problems in Binary Search Tree ([See Details](day_112/README.md))
+
+1. [Kth Largest Element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (GeeksForGeeks) - Medium ([C++ Solution](day_112/Kth_largest_node_In_bst.cpp))
+2. [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (LeetCode) - Medium ([C++ Solution](day_112/Leetcode_230.cpp))
+
 ---
 
 ---

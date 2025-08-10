@@ -120,7 +120,9 @@
 - [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) (LeetCode, Medium) ([Day_110](../day_110/))
 - [Inorder Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) (GeeksforGeeks, Medium) ([Day_111](../day_111/))
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) (LeetCode, Medium) ([Day_111](../day_111/))
-- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (LeetCode, Medium) ([Day_111](../day_111/))
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (LeetCode, Medium) ([Day_111](../day_111/Leetcode_98.cpp))
+- [Kth Largest Element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (GeeksForGeeks, Medium) ([Day_112](../day_112/Kth_largest_node_In_bst.cpp))
+- [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (LeetCode, Medium) ([Day_112](../day_112/Leetcode_230.cpp))
 
 ## Linked List
 

@@ -131,6 +131,8 @@
 - [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) ([Day_107](../day_107/))
 - [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) ([Day_108](../day_108/))
 - [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) ([Day_108](../day_108/))
+- [Kth Largest Element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (GeeksForGeeks, Medium) ([Day 112](../day_112/Kth_largest_node_In_bst.cpp))
+- [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (LeetCode, Medium) ([Day 112](../day_112/Leetcode_230.cpp))
 
 ### Hard
 

@@ -939,6 +939,14 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [Kth Largest Element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (GeeksForGeeks) - Medium ([C++ Solution](day_112/Kth_largest_node_In_bst.cpp))
 2. [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (LeetCode) - Medium ([C++ Solution](day_112/Leetcode_230.cpp))
 
+#### Day 113 [View Code](day_113) - 11 August, 2025
+
+- Binary Search Tree Problems with Morris Traversal ([See Details](day_113/README.md))
+
+1. [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) (LeetCode) - Easy ([C++ Solution](day_113/Leetcode_938.cpp))
+2. [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (LeetCode) - Easy ([C++ Solution](day_113/Leetcode_235.cpp))
+3. [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) (LeetCode) - Easy ([C++ Solution](day_113/Leetcode_653.cpp))
+
 ---
 
 ---

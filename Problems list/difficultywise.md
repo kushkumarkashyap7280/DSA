@@ -184,6 +184,9 @@
 - [Maximum Sum of Non-adjacent Nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) ([Day_104](../day_104/))
 - [Morris Traversal Implementation](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/) ([Day_108](../day_108/))
 - [Inorder Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) ([Day_111](../day_111/))
+- [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) ([Day_113](../day_113/))
+- [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ([Day_113](../day_113/))
+- [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) ([Day_113](../day_113/))
 
 ## Coding Ninjas / Naukri Code360
 

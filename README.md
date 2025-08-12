@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="120"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="120"/>
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3.png" alt="GeeksforGeeks" width="120"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="120"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" alt="GitHub" width="120" style="filter: invert(1) brightness(2);"/>
 </div>
 
 <h1>DSA PROBLEM SOLVING JOURNEY</h1>
@@ -30,19 +30,19 @@
 
 ### Basics and Setup
 
-- [Day 001](day_001) - Basic C++ Syntax and Introduction
-- [Day 002](day_002) - First Program and Comments
-- [Day 003](day_003) - Variables, Data Types, and I/O
-- [Day 004](day_004) - Input/Output and Operators
+- [Day 001](day_001) - Basic C++ Syntax and Introduction - 21 April, 2025
+- [Day 002](day_002) - First Program and Comments - 22 April, 2025
+- [Day 003](day_003) - Variables, Data Types, and I/O - 23 April, 2025
+- [Day 004](day_004) - Input/Output and Operators - 24 April, 2025
 
 ### Control Flow and Functions
 
-- [Day 005](day_005) - If-Else and Switch Statements
-- [Day 006](day_006) - Loops and Their Types
-- [Day 007](day_007) - Functions and Pointers
-- [Day 008](day_008) - Scope and Basic Functions
-- [Day 009](day_009) - Pattern Problems
-- [Day 010](day_010) - Bitwise Operators
+- [Day 005](day_005) - If-Else and Switch Statements - 25 April, 2025
+- [Day 006](day_006) - Loops and Their Types - 26 April, 2025
+- [Day 007](day_007) - Functions and Pointers - 27 April, 2025
+- [Day 008](day_008) - Scope and Basic Functions - 28 April, 2025
+- [Day 009](day_009) - Pattern Problems - 29 April, 2025
+- [Day 010](day_010) - Bitwise Operators - 30 April, 2025
 
 # [Data Structures and Algorithms Journey 🚀](https://docs.google.com/spreadsheets/d/1g9bM2tZVrCPQCjpqOtNzJHMmkoUCA0xE/edit?usp=sharing&ouid=103969434569457059301&rtpof=true&sd=true)
 
@@ -52,20 +52,20 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 # <------------ARRAY --------->
 
-#### Day 11 [View Code](day_011) - 1 July, 2025
+#### Day 11 [View Code](day_011) - 01 May, 2025
 
 - Array Problems
 
 1. [1. Two Sum](https://leetcode.com/problems/two-sum/) (LeetCode) - Easy ([C++ Solution](day_011/leetcode_1.cpp))
 2. [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) (LeetCode) - Easy ([C++ Solution](day_011/leetcode_3550.cpp))
 
-#### Day 12 [View Code](day_012) - 2 July, 2025
+#### Day 12 [View Code](day_012) - 02 May, 2025
 
 - Matrix Problems
 
 1. [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) (LeetCode) - Easy ([C++ Solution](day_012/leetcode_1572.cpp))
 
-#### Day 13 [View Code](day_013) - 3 july
+#### Day 13 [View Code](day_013) - 03 May, 2025
 
 - Binary Search Problems
 
@@ -74,7 +74,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 3. [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) (LeetCode) - Medium ([C++ Solution](day_013/leetcode_852.cpp))
 4. Binary Search Implementation ([C++ Solution](day_013/binary_search.cpp))
 
-#### Day 14 [View Code](day_014) - 4 july
+#### Day 14 [View Code](day_014) - 04 May, 2025
 
 - Rotated Array Problems
 
@@ -83,46 +83,46 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 3. Find if Given Element Present in Rotated Array ([C++ Solution](day_014/find_if_given_element_present_in_rotated_array.cpp))
 4. Square Root Using Binary Search ([C++ Solution](day_014/Square_root_using_binary_serach.cpp))
 
-#### Day 15 [View Code](day_015) - 5 july
+#### Day 15 [View Code](day_015) - 05 May, 2025
 
 - Square Root Problems
 
 1. [Square Root with Decimal Precision](https://www.geeksforgeeks.org/find-square-root-number-upto-given-precision-using-binary-search/) (GeeksForGeeks) - Medium ([C++ Solution](day_015/Find_Square_root_with_precision.cpp))
 
-#### Day 16 [View Code](day_016) - 6 july
+#### Day 16 [View Code](day_016) - 06 May, 2025
 
 - Binary Search Problems
 
 1. [Book Allocation Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) (GeeksForGeeks) - Medium ([C++ Solution](day_016/Book_allocation_problem.cpp))
 2. Painter's Partition Problem ([C++ Solution](day_016/Painters_partition_problem.cpp))
 
-#### Day 17 [View Code](day_017) - 7 july
+#### Day 17 [View Code](day_017) - 07 May, 2025
 
 - Advanced Search Problems
 
 1. [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/0) (GeeksForGeeks) - Medium
 2. [EKO - Wood Cutting](https://www.spoj.com/problems/EKO/) (SPOJ) - Medium
 
-#### Day 18 [View Code](day_018) - 8 july
+#### Day 18 [View Code](day_018) - 08 May, 2025
 
 - SPOJ Problems
 
 1. [PRATA - Roti Prata](https://www.spoj.com/problems/PRATA/) (SPOJ) - Medium
 
-#### Day 19 [View Code](day_019) - 9 july
+#### Day 19 [View Code](day_019) - 09 May, 2025
 
 - Basic Sorting Algorithms
 
 1. [Selection Sort](https://www.geeksforgeeks.org/selection-sort/) (GeeksForGeeks) - Easy
 2. [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/) (GeeksForGeeks) - Easy
 
-#### Day 20 [View Code](day_020) - 10 july
+#### Day 20 [View Code](day_020) - 10 May, 2025
 
 - Sorting Algorithms
 
 1. [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/) (GeeksForGeeks) - Easy
 
-#### Day 21 [View Code](day_021) - 11 july
+#### Day 21 [View Code](day_021) - 11 May, 2025
 
 - STL Data Structures
 - 1. Vector (Dynamic Array)
@@ -176,7 +176,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - fill() - Fill array with value
        - size() - Get array size
 
-#### Day 22 [View Code](day_022) - 12 july
+#### Day 22 [View Code](day_022) - 12 May, 2025
 
 - Advanced STL
 - 1. Priority Queue
@@ -211,35 +211,35 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
        - reverse() - Reverse elements
        - min/max_element() - Find min/max
 
-#### Day 23 [View Code](day_023) - 13 july
+#### Day 23 [View Code](day_023) - 13 May, 2025
 
 - Array Manipulation
 
 1. [Reverse Array from Position M](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) (GeeksForGeeks) - Easy
 
-#### Day 24 [View Code](day_024) - 14 july
+#### Day 24 [View Code](day_024) - 14 May, 2025
 
 - Array Problems
 
 1. [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) (LeetCode) - Easy
 2. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) (LeetCode) - Easy
 
-#### Day 25 [View Code](day_025) - 15 july
+#### Day 25 [View Code](day_025) - 15 May, 2025
 
 - Array Rotation Problems
 
 1. [Rotate Array](https://leetcode.com/problems/rotate-array/) (LeetCode) - Medium
 2. [Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) (LeetCode) - Easy
 
-#### Day 26 [View Code](day_026) - 16 july
+#### Day 26 [View Code](day_026) - 16 May, 2025
 
 - Array Addition
 
 1. [Sum of Two Arrays](https://bit.ly/3DXfsDZ) - Easy
 
-# <-----------STRING---------->
+# <----------STRING---------->
 
-#### Day 27 [View Code](day_027) - 17 july
+#### Day 27 [View Code](day_027) - 17 May, 2025
 
 - Character Arrays & Strings
 
@@ -283,19 +283,19 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
    - [Rotate String](https://leetcode.com/problems/rotate-string/) (LeetCode) - Easy
    - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (LeetCode) - Hard
 
-#### Day 28 [View Code](day_028) - 18 july
+#### Day 28 [View Code](day_028) - 18 May, 2025
 
 - Array Properties
 
 1. [Monotonic Array](https://leetcode.com/problems/monotonic-array/) (LeetCode) - Easy
 
-#### Day 29 [View Code](day_029) - 19 july
+#### Day 29 [View Code](day_029) - 19 May, 2025
 
 - String Manipulation
 
 1. [Reverse Words in String](https://leetcode.com/problems/reverse-words-in-a-string/) (LeetCode) - Medium
 
-#### Day 30 [View Code](day_030) - 20 july
+#### Day 30 [View Code](day_030) - 20 May, 2025
 
 - String Manipulation Problems
 
@@ -305,7 +305,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 4. [Permutation in String](https://leetcode.com/problems/permutation-in-string/) (LeetCode) - Medium
 5. [Remove Adjacent Duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) (LeetCode) - Easy
 
-#### Day 31 [View Code](day_031) - 21 july
+#### Day 31 [View Code](day_031) - 21 May, 2025
 
 - String Compression
 
@@ -313,7 +313,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 
 # <----------2D - ARRAY -------->
 
-#### Day 32 [View Code](day_032) - 22 july
+#### Day 32 [View Code](day_032) - 22 May, 2025
 
 - [2D Arrays and 2D Vectors](day_032/)
 
@@ -321,11 +321,11 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 2. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) (LeetCode) - Easy
 3. [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) (LeetCode) - Easy
 
-#### Day 33 [View Code](day_033) - 23 july
+#### Day 33 [View Code](day_033) - 23 May, 2025
 
 1. [Print Like A Wave](https://www.naukri.com/code360/problem-details/print-like-a-wave_893268) (Naukri Code360) - Medium
 
-#### Day 34 [View Code](day_034) - 24 july
+#### Day 34 [View Code](day_034) - 24 May, 2025
 
 - 2D Matrix Problems
 
@@ -334,7 +334,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 3. [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) (LeetCode) - Medium ([C++ Solution](day_034/leetcode_240.cpp))
 4. [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) (LeetCode) - Easy ([C++ Solution](day_034/leetcode_2942.cpp))
 
-#### Day 35 [View Code](day_035) - 25 july
+#### Day 35 [View Code](day_035) - 25 May, 2025
 
 - Number Theory & Sieve Problems
 
@@ -343,14 +343,14 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 3. Regular Sieve of Eratosthenes vs Segmented Sieve ([C++ Solution](day_035/regular_sieve_of_eratothenes_vs_segmented_sieve.cpp))
 4. HCM (Highest Common Factor) Algorithm ([C++ Solution](day_035/HCM.cpp))
 
-#### Day 36 [View Code](day_036) - 26 july
+#### Day 36 [View Code](day_036) - 26 May, 2025
 
 - Math & Advanced Problems
 
 1. [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) (LeetCode) - Medium ([C++ Solution](day_036/leetcode_50.cpp))
 2. Catalan Number Implementations ([C++ Solution](day_036/catalan_number_implementations.cpp))
 
-#### Day 37 [View Code](day_037) - 27 july
+#### Day 37 [View Code](day_037) - 27 May, 2025
 
 - C++ Pointers & LeetCode
 
@@ -366,7 +366,7 @@ Welcome to my DSA learning repository! Here I document my journey of solving Lee
 - Difficulty: Intermediate
 - Language: C++
 
-#### Day 38 [View Code](day_038) - 28 July, 2025
+#### Day 38 [View Code](day_038) - 28 May, 2025
 
 - C++ References & Dynamic Memory
 

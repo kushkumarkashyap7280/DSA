@@ -947,6 +947,13 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (LeetCode) - Easy ([C++ Solution](day_113/Leetcode_235.cpp))
 3. [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) (LeetCode) - Easy ([C++ Solution](day_113/Leetcode_653.cpp))
 
+#### Day 114 [View Code](day_114) - 12 August, 2025
+
+- Binary Search Tree Problems ([See Details](day_114/README.md))
+
+1. [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) (LeetCode) - Medium ([C++ Solution](day_114/Leetcode_1382.cpp))
+2. [Flatten BST to Sorted List](https://www.geeksforgeeks.org/problems/flatten-bst-to-sorted-list--111950/1) (GeeksForGeeks) - Medium ([C++ Solution](day_114/flat_bst_into_sorted_list.cpp))
+
 ---
 
 ---

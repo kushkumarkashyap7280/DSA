@@ -187,6 +187,13 @@
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) ([Day_113](../day_113/))
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ([Day_113](../day_113/))
 - [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) ([Day_113](../day_113/))
+- [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) ([Day_114](../day_114/))
+
+## GeeksforGeeks
+
+### Medium
+
+- [Flatten BST to Sorted List](https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/) ([Day_114](../day_114/))
 
 ## Coding Ninjas / Naukri Code360
 

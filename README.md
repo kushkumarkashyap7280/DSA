@@ -954,6 +954,12 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) (LeetCode) - Medium ([C++ Solution](day_114/Leetcode_1382.cpp))
 2. [Flatten BST to Sorted List](https://www.geeksforgeeks.org/problems/flatten-bst-to-sorted-list--111950/1) (GeeksForGeeks) - Medium ([C++ Solution](day_114/flat_bst_into_sorted_list.cpp))
 
+#### Day 115 [View Code](day_115) - 13 August, 2025
+
+- Binary Search Tree Construction ([See Details](day_115/README.md))
+
+1. [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) (LeetCode) - Medium ([C++ Solution](day_115/Leetcode_1008.cpp))
+
 ---
 
 ---

@@ -107,6 +107,8 @@
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) (LeetCode, Easy) ([Day_113](../day_113/))
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) (LeetCode, Easy) ([Day_113](../day_113/))
 - [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) (LeetCode, Easy) ([Day_113](../day_113/))
+- [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) (LeetCode, Medium) ([Day_114](../day_114/))
+- [Flatten BST to Sorted List](https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/) (GeeksforGeeks, Medium) ([Day_114](../day_114/))
 - [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/) (LeetCode, Easy) ([Day_105](../day_105/))
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (LeetCode, Medium) ([Day_105](../day_105/))
 - [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (LeetCode, Medium) ([Day_105](../day_105/))

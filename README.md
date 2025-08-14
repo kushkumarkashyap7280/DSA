@@ -960,6 +960,14 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) (LeetCode) - Medium ([C++ Solution](day_115/Leetcode_1008.cpp))
 
+#### Day 116 [View Code](day_116) - 14 August, 2025
+
+- Binary Search Tree Problems ([See Details](day_116/README.md))
+
+1. [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) (LeetCode) - Medium ([C++ Solution](day_116/Leetcode_99.cpp))
+2. [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (LeetCode) - Easy ([C++ Solution](day_116/Leetcode_108.cpp))
+3. [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) (LeetCode) - Easy ([C++ Solution](day_116/Leetcode_111.cpp))
+
 ---
 
 ---

@@ -126,6 +126,9 @@
 - [Inorder Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) (GeeksforGeeks, Medium) ([Day_111](../day_111/))
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) (LeetCode, Medium) ([Day_111](../day_111/))
 - [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (LeetCode, Medium) ([Day_111](../day_111/Leetcode_98.cpp))
+- [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) (LeetCode, Medium) ([Day_116](../day_116/Leetcode_99.cpp))
+- [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (LeetCode, Easy) ([Day_116](../day_116/Leetcode_108.cpp))
+- [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) (LeetCode, Easy) ([Day_116](../day_116/Leetcode_111.cpp))
 - [Kth Largest Element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (GeeksForGeeks, Medium) ([Day_112](../day_112/Kth_largest_node_In_bst.cpp))
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (LeetCode, Medium) ([Day_112](../day_112/Leetcode_230.cpp))
 

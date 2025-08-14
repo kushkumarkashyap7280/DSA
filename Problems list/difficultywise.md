@@ -11,6 +11,7 @@
 
 ### Easy
 
+- [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) ([Day_116](../day_116/))
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) ([Day 011](../day_011/))
 - [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) ([Day 011](../day_011/))
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) ([Day 012](../day_012/))
@@ -63,6 +64,7 @@
 
 ### Medium
 
+- [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) ([Day_116](../day_116/))
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) ([Day 013](../day_013/))
 - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) ([Day 014](../day_014/))
 - [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) ([Day 036](../day_036/))
@@ -187,6 +189,7 @@
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) ([Day_113](../day_113/))
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ([Day_113](../day_113/))
 - [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) ([Day_113](../day_113/))
+- [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ([Day_116](../day_116/))
 - [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) ([Day_114](../day_114/))
 
 ## GeeksforGeeks

@@ -968,6 +968,12 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (LeetCode) - Easy ([C++ Solution](day_116/Leetcode_108.cpp))
 3. [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) (LeetCode) - Easy ([C++ Solution](day_116/Leetcode_111.cpp))
 
+#### Day 117 [View Code](day_117) - 15 August, 2025
+
+- Arrays: Cycle Detection Trick ([See Details](day_117/README.md))
+
+1. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (LeetCode) - Medium ([C++ Solution](day_117/Leetcode_287.cpp))
+
 ---
 
 ---

@@ -56,6 +56,8 @@
 - [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) (LeetCode, Medium) ([Day 087](../day_087/))
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) (LeetCode, Hard) ([Day 088](../day_088/))
 
+ - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (LeetCode, Medium) ([Day_117](../day_117/))
+
 ## Strings
 
 - [Check Palindrome](https://bit.ly/3E55FvF) (Coding Ninjas, Easy) ([Day 027](../day_027/))

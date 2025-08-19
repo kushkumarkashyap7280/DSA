@@ -980,6 +980,7 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. Largest BST in a Binary Tree (GeeksforGeeks) - Medium ([C++ Solution](day_118/largest_bst.cpp))
 2. Merge Two BSTs (GeeksforGeeks) - Medium ([C++ Solution](day_118/merge_two_bst.cpp))
+3. [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) (LeetCode) - Hard ([C++ Solution](day_118/Leetcode_1373.cpp))
 
 ---
 

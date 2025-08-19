@@ -1,7 +1,7 @@
 ## Platform & Difficulty Distribution:
 
 - LeetCode: 46 Easy, 43 Medium, 8 Hard
-- GeeksforGeeks: 8 Easy, 12 Medium
+- GeeksforGeeks: 8 Easy, 14 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
 
@@ -192,6 +192,8 @@
 - [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) ([Day_113](../day_113/))
 - [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ([Day_116](../day_116/))
 - [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) ([Day_114](../day_114/))
+- [Largest BST in a Binary Tree](https://www.geeksforgeeks.org/problems/largest-bst/1) ([Day_118](../day_118/largest_bst.cpp))
+- [Merge two BSTs](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) ([Day_118](../day_118/merge_two_bst.cpp))
 
 ## GeeksforGeeks
 

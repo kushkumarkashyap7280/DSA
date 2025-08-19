@@ -974,7 +974,12 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (LeetCode) - Medium ([C++ Solution](day_117/Leetcode_287.cpp))
 
----
+#### Day 118 [View Code](day_118) - 19 August, 2025
+
+- Binary Search Tree Problems ([See Details](day_118/README.md))
+
+1. Largest BST in a Binary Tree (GeeksforGeeks) - Medium ([C++ Solution](day_118/largest_bst.cpp))
+2. Merge Two BSTs (GeeksforGeeks) - Medium ([C++ Solution](day_118/merge_two_bst.cpp))
 
 ---
 

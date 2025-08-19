@@ -9,7 +9,7 @@
 - 2D Arrays: 7
 - Recursion: 7
 - OOPS: 1
-- Binary Trees: 23
+- Binary Trees: 25
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -133,6 +133,8 @@
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) (LeetCode, Easy) ([Day_116](../day_116/Leetcode_111.cpp))
 - [Kth Largest Element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (GeeksForGeeks, Medium) ([Day_112](../day_112/Kth_largest_node_In_bst.cpp))
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (LeetCode, Medium) ([Day_112](../day_112/Leetcode_230.cpp))
+- [Largest BST in a Binary Tree](https://www.geeksforgeeks.org/problems/largest-bst/1) (GeeksforGeeks, Medium) ([Day_118](../day_118/largest_bst.cpp))
+- [Merge two BSTs](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) (GeeksforGeeks, Medium) ([Day_118](../day_118/merge_two_bst.cpp))
 
 ## Linked List
 

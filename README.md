@@ -984,4 +984,11 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 ---
 
+# <----------  HEAP ----------->
+#### Day 119 [View Code](day_119) - 20 August, 2025
+
+- Heap Data Structure ([See Details](day_119/README.md))
+
+1. Heap Implementation ([C++ Solution](day_119/heap.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

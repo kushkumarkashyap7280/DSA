@@ -991,4 +991,14 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. Heap Implementation ([C++ Solution](day_119/heap.cpp))
 
+#### Day 120 [View Code](day_120) - 21 August, 2025
+
+- Heapify Algorithm ([See Details](day_120/README.md))
+- Heap Sort ([See Details](day_120/README.md))
+- Priority Queue ([C++ Example](day_120/priority_queue.cpp))
+
+1. Heapify Implementation ([C++ Solution](day_120/heapify.cpp))
+2. Heap Sort Implementation ([C++ Solution](day_120/heap_sort.cpp))
+3. Priority Queue Usage ([C++ Solution](day_120/priority_queue.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

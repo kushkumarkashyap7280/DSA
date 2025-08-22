@@ -1,7 +1,7 @@
 ## Platform & Difficulty Distribution:
 
-- LeetCode: 46 Easy, 43 Medium, 8 Hard
-- GeeksforGeeks: 8 Easy, 14 Medium
+- LeetCode: 46 Easy, 44 Medium, 8 Hard
+- GeeksforGeeks: 11 Easy, 16 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
 
@@ -106,6 +106,7 @@
 - [134. Gas Station](https://leetcode.com/problems/gas-station/) ([Day_096](../day_096/))
 - [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) ([Day_097](../day_097/))
 - [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) ([Day_098](../day_098/))
+- [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) ([Day_121](../day_121/))
 - [3627. Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) ([Day_098](../day_098/))
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) ([Day_099](../day_099/))
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) ([Day_099](../day_099/))
@@ -158,6 +159,9 @@
 - [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) ([Day 083](../day_083/))
 - [Sort a Stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) ([Day 084](../day_084/))
 - [Reverse a Queue](https://www.geeksforgeeks.org/problems/queue-reversal/1) ([Day 094](../day_094/))
+- [Heap Implementation](../day_119/heap.cpp) - Basic heap data structure implementation
+- [Heapify Algorithm](../day_120/heapify.cpp) - Basic heapify operation implementation
+- [Priority Queue Usage](../day_120/priority_queue.cpp) - Basic priority queue operations
 
 ### Medium
 
@@ -165,6 +169,8 @@
 - [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/0) ([Day 017](../day_017/))
 - [Remove Loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) ([Day 077](../day_077/))
 - [Sort linked list of 0s 1s 2s](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937) ([Day 078](../day_078/))
+- [Heap Sort Implementation](../day_120/heap_sort.cpp) - Complete heap sort algorithm implementation
+- [Kth Smallest Element in Array](../day_121/kth_smallest_element_in_array.cpp) - Find kth smallest element using heap
 - [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1) ([Day 078](../day_078/))
 - [N Queues in an Array](https://www.naukri.com/code360/problems/n-queue-using-array_1170053) ([Day_097](../day_097/))
 - [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) ([Day 095](../day_095/))

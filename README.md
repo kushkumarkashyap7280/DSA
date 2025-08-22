@@ -997,8 +997,12 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 - Heap Sort ([See Details](day_120/README.md))
 - Priority Queue ([C++ Example](day_120/priority_queue.cpp))
 
-1. Heapify Implementation ([C++ Solution](day_120/heapify.cpp))
-2. Heap Sort Implementation ([C++ Solution](day_120/heap_sort.cpp))
-3. Priority Queue Usage ([C++ Solution](day_120/priority_queue.cpp))
+
+#### Day 121 [View Code](day_121) - 22 August, 2025
+
+- Kth Smallest Element in Array [problem link ]((https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) )([See Details](day_121/README.md))
+- [Leetcode 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) ([C++ Solution](day_121/Leetcode_215.cpp))
+
+
 
 Feel free to explore my solutions and learning journey! 💻

@@ -1,6 +1,7 @@
 **Data Structure/Algorithm Distribution:**
 
 - Arrays: 37
+- Heap: 6
 - Strings: 11
 - Linked List: 24
 - Stack: 11
@@ -56,7 +57,16 @@
 - [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) (LeetCode, Medium) ([Day 087](../day_087/))
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) (LeetCode, Hard) ([Day 088](../day_088/))
 
- - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (LeetCode, Medium) ([Day_117](../day_117/))
+- [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (LeetCode, Medium) ([Day_117](../day_117/))
+
+## Heap and Priority Queue
+
+- Heap Implementation (Implementation, Basic) ([Day_119](../day_119/heap.cpp))
+- Heapify Algorithm (Implementation, Basic) ([Day_120](../day_120/heapify.cpp))
+- Heap Sort Implementation (Implementation, Medium) ([Day_120](../day_120/heap_sort.cpp))
+- Priority Queue Usage (Implementation, Basic) ([Day_120](../day_120/priority_queue.cpp))
+- [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (LeetCode, Medium) ([Day_121](../day_121/Leetcode_215.cpp))
+- Kth Smallest Element in an Array (Implementation, Medium) ([Day_121](../day_121/kth_smallest_element_in_array.cpp))
 
 ## Strings
 

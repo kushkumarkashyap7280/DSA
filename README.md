@@ -908,6 +908,7 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 3. [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (LeetCode) - Medium ([C++ Solution](day_108/Leetcode_114.cpp))
 
 # <----------------- BINARY SEARCH TREE --------------->
+
 #### Day 109 [View Code](day_109) - 7 August, 2025
 
 - Binary Search Tree Fundamentals and Operations ([See Details](day_109/README.md))
@@ -984,7 +985,8 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 ---
 
-# <----------  HEAP ----------->
+# <---------- HEAP ----------->
+
 #### Day 119 [View Code](day_119) - 20 August, 2025
 
 - Heap Data Structure ([See Details](day_119/README.md))
@@ -997,12 +999,20 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 - Heap Sort ([See Details](day_120/README.md))
 - Priority Queue ([C++ Example](day_120/priority_queue.cpp))
 
-
 #### Day 121 [View Code](day_121) - 22 August, 2025
 
-- Kth Smallest Element in Array [problem link ]((https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) )([See Details](day_121/README.md))
+- Kth Smallest Element in Array [problem link ](<(https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)>)([See Details](day_121/README.md))
 - [Leetcode 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) ([C++ Solution](day_121/Leetcode_215.cpp))
 
+#### Day 122 [View Code](day_122) - 23 August, 2025
 
+- Binary Tree and Heap Problems ([See Details](day_122/README.md))
+
+1. [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) (LeetCode) - Medium ([C++ Solution](day_122/Leetcode_958.cpp))
+2. [Is Binary Tree Heap](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1) (GeeksForGeeks) - Medium ([C++ Solution](day_122/is_binary_tree_is_heap.cpp))
+3. [Merge Two Max Heaps](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1) (GeeksForGeeks) - Medium ([C++ Solution](day_122/Merge_max_heap.cpp))
+4. [Minimum Cost of Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) (GeeksForGeeks) - Medium ([C++ Solution](day_122/min_cost_ropes.cpp))
+5. [BST to Max Heap](https://www.geeksforgeeks.org/problems/bst-to-max-heap/1) (GeeksForGeeks) - Medium ([C++ Solution](day_122/bst_to_max_heap.cpp))
+6. [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) (LeetCode) - Easy ([C++ Solution](day_122/Leetcode_617.cpp))
 
 Feel free to explore my solutions and learning journey! 💻

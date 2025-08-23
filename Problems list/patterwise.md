@@ -1,7 +1,7 @@
 **Data Structure/Algorithm Distribution:**
 
 - Arrays: 37
-- Heap: 6
+- Heap: 10
 - Strings: 11
 - Linked List: 24
 - Stack: 11
@@ -10,7 +10,7 @@
 - 2D Arrays: 7
 - Recursion: 7
 - OOPS: 1
-- Binary Trees: 25
+- Binary Trees: 27
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -67,6 +67,10 @@
 - Priority Queue Usage (Implementation, Basic) ([Day_120](../day_120/priority_queue.cpp))
 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (LeetCode, Medium) ([Day_121](../day_121/Leetcode_215.cpp))
 - Kth Smallest Element in an Array (Implementation, Medium) ([Day_121](../day_121/kth_smallest_element_in_array.cpp))
+- [Is Binary Tree Heap](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1) (GeeksForGeeks, Medium) ([Day_122](../day_122/is_binary_tree_is_heap.cpp))
+- [Merge Two Max Heaps](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1) (GeeksForGeeks, Medium) ([Day_122](../day_122/Merge_max_heap.cpp))
+- [Minimum Cost of Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) (GeeksForGeeks, Medium) ([Day_122](../day_122/min_cost_ropes.cpp))
+- [BST to Max Heap](https://www.geeksforgeeks.org/problems/bst-to-max-heap/1) (GeeksForGeeks, Medium) ([Day_122](../day_122/bst_to_max_heap.cpp))
 
 ## Strings
 
@@ -88,6 +92,8 @@
 ## Binary Trees
 
 - [Binary Tree Implementation](day_098/Binary_Tree.cpp) (Implementation, Various) ([Day_098](../day_098/))
+- [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) (LeetCode, Medium) ([Day_122](../day_122/Leetcode_958.cpp))
+- [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) (LeetCode, Easy) ([Day_122](../day_122/Leetcode_617.cpp))
 - [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) (GeeksforGeeks, Easy) ([Day_098](../day_098/))
 - [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) (LeetCode, Medium) ([Day_098](../day_098/))
 - [3627. Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) (LeetCode, Medium) ([Day_098](../day_098/))

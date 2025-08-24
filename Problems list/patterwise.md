@@ -17,6 +17,8 @@
 
 ## Arrays
 
+- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (LeetCode, Medium) ([Day 123](../day_123/))
+- [K-th Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/problems/k-th-largest-sum-contiguous-subarray/1) (GeeksForGeeks, Medium) ([Day 123](../day_123/))
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) (LeetCode, Easy) ([Day 011](../day_011/))
 - [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) (LeetCode, Easy) ([Day 011](../day_011/))
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index) (LeetCode, Easy) ([Day 013](../day_013/))

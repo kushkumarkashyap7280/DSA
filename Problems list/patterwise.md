@@ -73,6 +73,8 @@
 - [Merge Two Max Heaps](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1) (GeeksForGeeks, Medium) ([Day_122](../day_122/Merge_max_heap.cpp))
 - [Minimum Cost of Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) (GeeksForGeeks, Medium) ([Day_122](../day_122/min_cost_ropes.cpp))
 - [BST to Max Heap](https://www.geeksforgeeks.org/problems/bst-to-max-heap/1) (GeeksForGeeks, Medium) ([Day_122](../day_122/bst_to_max_heap.cpp))
+- [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) (LeetCode, Hard) ([Day_124](../day_124/Leetcode_632.cpp))
+- [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (LeetCode, Hard) ([Day_124](../day_124/Leetcode_295.cpp))
 
 ## Strings
 

@@ -1021,4 +1021,9 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [K-th Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/problems/k-th-largest-sum-contiguous-subarray/1) (GeeksForGeeks) - Medium ([C++ Solution](day_123/kth-largest-sum-of_contigious_subarray.cpp))
 3. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (LeetCode) - Hard ([C++ Solution](day_123/merge-K-sorted_array.cpp))
 
+#### Day 124 [View Code](day_124) - 25 August, 2025
+
+1. [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) (LeetCode) - Hard ([C++ Solution](day_124/Leetcode_632.cpp))
+2. [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (LeetCode) - Hard ([C++ Solution](day_124/Leetcode_295.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

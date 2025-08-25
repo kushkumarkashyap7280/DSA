@@ -148,6 +148,8 @@
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) ([Day 088](../day_088/))
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ([Day 089](../day_089/))
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ([Day 123](../day_123/))
+- [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) (LeetCode) - Hard ([C++ Solution](../day_124/Leetcode_632.cpp))
+- [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (LeetCode) - Hard ([C++ Solution](../day_124/Leetcode_295.cpp))
 
 ## GeeksforGeeks
 

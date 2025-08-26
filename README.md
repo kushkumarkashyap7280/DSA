@@ -1026,4 +1026,14 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) (LeetCode) - Hard ([C++ Solution](day_124/Leetcode_632.cpp))
 2. [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (LeetCode) - Hard ([C++ Solution](day_124/Leetcode_295.cpp))
 
+#### Day 125 [View Code](day_125) - 26 August, 2025
+
+# <--------HASHMAP--------->
+
+- Hashmap Fundamentals ([See Details](day_125/README.md))
+
+1. [Hashmap Implementation](day_125/hashmap.cpp) - Basic operations and implementation details
+2. [Hash Table Internals](day_125/hashing_internals.cpp) - Detailed explanation of hash table internal workings
+3. [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) (LeetCode) - Easy ([C++ Solution](day_125/Leetcode_3005.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

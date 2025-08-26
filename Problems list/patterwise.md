@@ -11,6 +11,7 @@
 - Recursion: 7
 - OOPS: 1
 - Binary Trees: 27
+- Hashmap: 1
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -208,6 +209,12 @@
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (LeetCode, Easy) ([Day_096](../day_096/))
 - [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) (GeeksforGeeks, Medium) ([Day_096](../day_096/))
 - [N Queues in an Array](https://www.naukri.com/code360/problems/n-queue-using-array_1170053) (Naukri Code360, Medium) ([Day_097](../day_097/))
+
+## Hashmap
+
+- [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) (LeetCode, Easy) ([Day_125](../day_125/))
+- [Hashmap Implementation](../day_125/hashmap.cpp) (Implementation, Basic) ([Day_125](../day_125/))
+- [Hash Table Internals](../day_125/hashing_internals.cpp) (Implementation, Advanced) ([Day_125](../day_125/))
 
 ## Sorting
 

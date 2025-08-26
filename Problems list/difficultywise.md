@@ -1,6 +1,6 @@
 ## Platform & Difficulty Distribution:
 
-- LeetCode: 46 Easy, 44 Medium, 8 Hard
+- LeetCode: 47 Easy, 44 Medium, 8 Hard
 - GeeksforGeeks: 11 Easy, 16 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
@@ -11,6 +11,7 @@
 
 ### Easy
 
+- [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) ([Day_125](../day_125/))
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) ([Day_116](../day_116/))
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) ([Day 011](../day_011/))
 - [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) ([Day 011](../day_011/))

@@ -1,6 +1,6 @@
 ## Platform & Difficulty Distribution:
 
-- LeetCode: 47 Easy, 44 Medium, 8 Hard
+- LeetCode: 47 Easy, 45 Medium, 8 Hard
 - GeeksforGeeks: 11 Easy, 16 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
@@ -67,6 +67,7 @@
 
 - [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) ([Day_116](../day_116/))
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) ([Day_117](../day_117/))
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) ([Day_126](../day_126/))
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) ([Day 013](../day_013/))
 - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) ([Day 014](../day_014/))
 - [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) ([Day 036](../day_036/))

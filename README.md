@@ -1036,4 +1036,13 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [Hash Table Internals](day_125/hashing_internals.cpp) - Detailed explanation of hash table internal workings
 3. [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) (LeetCode) - Easy ([C++ Solution](day_125/Leetcode_3005.cpp))
 
+#### Day 126 [View Code](day_126) - 27 August, 2025
+
+# <--------TRIE--------->
+
+- Trie Data Structure ([See Details](day_126/README.md))
+
+1. [Trie Implementation](day_126/Trie.cpp) - Complete implementation with insert, search, and delete operations
+2. [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (LeetCode) - Medium ([C++ Solution](day_126/Leetcode_208.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

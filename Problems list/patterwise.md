@@ -12,6 +12,7 @@
 - OOPS: 1
 - Binary Trees: 27
 - Hashmap: 1
+- Trie: 1
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -215,6 +216,11 @@
 - [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) (LeetCode, Easy) ([Day_125](../day_125/))
 - [Hashmap Implementation](../day_125/hashmap.cpp) (Implementation, Basic) ([Day_125](../day_125/))
 - [Hash Table Internals](../day_125/hashing_internals.cpp) (Implementation, Advanced) ([Day_125](../day_125/))
+
+## Trie
+
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (LeetCode, Medium) ([Day_126](../day_126/))
+- [Trie Implementation](../day_126/Trie.cpp) (Implementation, Advanced) ([Day_126](../day_126/))
 
 ## Sorting
 

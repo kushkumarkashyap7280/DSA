@@ -1045,4 +1045,10 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [Trie Implementation](day_126/Trie.cpp) - Complete implementation with insert, search, and delete operations
 2. [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (LeetCode) - Medium ([C++ Solution](day_126/Leetcode_208.cpp))
 
+#### Day 127 [View Code](day_127) - 28 August, 2025
+
+- Trie Applications ([See Details](day_127/README.md))
+
+1. [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (LeetCode) - Easy ([C++ Solution](day_127/Leetcode_14.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

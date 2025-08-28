@@ -221,6 +221,7 @@
 
 - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (LeetCode, Medium) ([Day_126](../day_126/))
 - [Trie Implementation](../day_126/Trie.cpp) (Implementation, Advanced) ([Day_126](../day_126/))
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (LeetCode, Easy) ([Day_127](../day_127/))
 
 ## Sorting
 

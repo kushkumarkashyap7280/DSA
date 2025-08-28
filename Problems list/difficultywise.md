@@ -1,4 +1,7 @@
-## Platform & Difficulty Distribution:
+## Platform### Easy
+
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (LeetCode) - Easy ([Day_127](../day_127/))
+- [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) (LeetCode) - Easy ([Day_125](../day_125/))Difficulty Distribution:
 
 - LeetCode: 47 Easy, 45 Medium, 8 Hard
 - GeeksforGeeks: 11 Easy, 16 Medium

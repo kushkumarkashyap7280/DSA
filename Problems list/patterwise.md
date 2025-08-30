@@ -222,6 +222,9 @@
 - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (LeetCode, Medium) ([Day_126](../day_126/))
 - [Trie Implementation](../day_126/Trie.cpp) (Implementation, Advanced) ([Day_126](../day_126/))
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (LeetCode, Easy) ([Day_127](../day_127/))
+- [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) (LeetCode, Medium) ([Day_128](../day_128/))
+- [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) (LeetCode, Easy) ([Day_128](../day_128/))
+- [2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) (LeetCode, Easy) ([Day_128](../day_128/))
 
 ## Sorting
 

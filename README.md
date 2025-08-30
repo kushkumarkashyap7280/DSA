@@ -1051,4 +1051,12 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (LeetCode) - Easy ([C++ Solution](day_127/Leetcode_14.cpp))
 
+#### Day 128 [View Code](day_128) - 30 August, 2025
+
+- Trie and Prefix Operations ([See Details](day_128/README.md))
+
+1. [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) (LeetCode) - Medium ([C++ Solution](day_128/Leetcode_1268.cpp))
+2. [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) (LeetCode) - Easy ([C++ Solution](day_128/Leetcode_2185.cpp))
+3. [2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) (LeetCode) - Easy ([C++ Solution](day_128/Leetcode_2255.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

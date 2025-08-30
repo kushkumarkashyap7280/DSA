@@ -1,5 +1,10 @@
 ## Platform### Easy
 
+- [2185. Counting Words With a Given Prefix](http### Medium
+
+- [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) (LeetCode) - Medium ([Day_128](../day_128/))
+- [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) (LeetCode) - Medium ([Day_116](../day_116/))/leetcode.com/problems/counting-words-with-a-given-prefix/) (LeetCode) - Easy ([Day_128](../day_128/))
+- [2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) (LeetCode) - Easy ([Day_128](../day_128/))
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (LeetCode) - Easy ([Day_127](../day_127/))
 - [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) (LeetCode) - Easy ([Day_125](../day_125/))Difficulty Distribution:
 

@@ -13,6 +13,7 @@
 - Binary Trees: 27
 - Hashmap: 1
 - Trie: 1
+- Backtracking: 2
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -253,7 +254,7 @@
 
 - [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) (LeetCode, Medium) ([Day 071](../day_071/))
 
-## Miscellaneous
+## Backtracking
 
-- [EKO - Wood Cutting](https://www.spoj.com/problems/EKO/) (SPOJ, Medium) ([Day 017](../day_017/))
-- [PRATA - Roti Prata](https://www.spoj.com/problems/PRATA/) (SPOJ, Medium) ([Day 018](../day_018/))
+- [51. N-Queens](https://leetcode.com/problems/n-queens/) (LeetCode, Hard) ([Day_129](../day_129/))
+- [Rat in a Maze Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) (GeeksForGeeks, Medium) ([Day_129](../day_129/))

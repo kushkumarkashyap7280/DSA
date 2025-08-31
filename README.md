@@ -1059,4 +1059,13 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) (LeetCode) - Easy ([C++ Solution](day_128/Leetcode_2185.cpp))
 3. [2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) (LeetCode) - Easy ([C++ Solution](day_128/Leetcode_2255.cpp))
 
+#### Day 129 [View Code](day_129) - 31 August, 2025
+
+- Backtracking Problems
+
+1. [51. N-Queens](https://leetcode.com/problems/n-queens/) (LeetCode) - Hard ([C++ Solution](day_129/Leetcode_51.cpp))
+2. [Rat in a Maze Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) (GeeksForGeeks) - Medium ([C++ Solution](day_129/Rat_in_a_maze.cpp))
+
+
+
 Feel free to explore my solutions and learning journey! 💻

@@ -147,6 +147,7 @@
 - [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) ([Day_108](../day_108/))
 - [Kth Largest Element in BST](https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/) (GeeksForGeeks, Medium) ([Day 112](../day_112/Kth_largest_node_In_bst.cpp))
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (LeetCode, Medium) ([Day 112](../day_112/Leetcode_230.cpp))
+- [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (LeetCode, Medium) ([Day_130](../day_130/))
 
 ### Hard
 
@@ -159,6 +160,9 @@
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ([Day 089](../day_089/))
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ([Day 123](../day_123/))
 - [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) (LeetCode) - Hard ([C++ Solution](../day_124/Leetcode_632.cpp))
+- [51. N-Queens](https://leetcode.com/problems/n-queens/) ([Day_129](../day_129/))
+- [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) ([Day_129](../day_129/))
+- [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) ([Day_130](../day_130/))
 - [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (LeetCode) - Hard ([C++ Solution](../day_124/Leetcode_295.cpp))
 
 ## GeeksforGeeks

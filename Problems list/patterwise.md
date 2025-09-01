@@ -13,7 +13,7 @@
 - Binary Trees: 27
 - Hashmap: 1
 - Trie: 1
-- Backtracking: 2
+- Backtracking: 4
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -258,3 +258,5 @@
 
 - [51. N-Queens](https://leetcode.com/problems/n-queens/) (LeetCode, Hard) ([Day_129](../day_129/))
 - [Rat in a Maze Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) (GeeksForGeeks, Medium) ([Day_129](../day_129/))
+- [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (LeetCode, Medium) ([Day_130](../day_130/))
+- [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (LeetCode, Hard) ([Day_130](../day_130/))

@@ -1059,8 +1059,7 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) (LeetCode) - Easy ([C++ Solution](day_128/Leetcode_2185.cpp))
 3. [2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) (LeetCode) - Easy ([C++ Solution](day_128/Leetcode_2255.cpp))
 
-
-# <---------- BACKTRACKING  -------------->
+# <---------- BACKTRACKING -------------->
 
 #### Day 129 [View Code](day_129) - 31 August, 2025
 
@@ -1075,5 +1074,12 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (LeetCode) - Medium ([C++ Solution](day_130/Leetcode_36.cpp))
 2. [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (LeetCode) - Hard ([C++ Solution](day_130/Leetcode_37.cpp))
+
+#### Day 131 [View Code](day_131) - 2 September, 2025
+
+# <--------- GRAPH ------------->
+
+1. [Graph Implementation](day_131/Graph.cpp) - Basic graph implementation using adjacency list
+2. [Print Adjacency List](https://www.codingninjas.com/codestudio/problems/print-adjacency-list_630462) (Coding Ninjas) - Easy ([C++ Solution](day_131/Print_adjacency_list.cpp))
 
 Feel free to explore my solutions and learning journey! 💻

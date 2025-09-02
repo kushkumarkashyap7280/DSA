@@ -233,6 +233,7 @@
 - [Replace Spaces with @40](https://www.naukri.com/code360/problems/replace-spaces_1172172) ([Day 030](../day_030/))
 - [Print Like A Wave](https://www.naukri.com/code360/problem-details/print-like-a-wave_893268) ([Day 033](../day_033/))
 - [subsequence of a string](https://www.naukri.com/code360/problems/subsequences-of-string_985087) ([Day 067](../day_067/))
+- [Print Adjacency List](https://www.codingninjas.com/codestudio/problems/print-adjacency-list_630462) ([Day_131](../day_131/))
 
 ### Medium
 

@@ -14,6 +14,7 @@
 - Hashmap: 1
 - Trie: 1
 - Backtracking: 4
+- Graph: 2
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -260,3 +261,8 @@
 - [Rat in a Maze Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) (GeeksForGeeks, Medium) ([Day_129](../day_129/))
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (LeetCode, Medium) ([Day_130](../day_130/))
 - [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (LeetCode, Hard) ([Day_130](../day_130/))
+
+## Graph
+
+- [Graph Implementation](../day_131/Graph.cpp) (Implementation, Basic) ([Day_131](../day_131/))
+- [Print Adjacency List](https://www.codingninjas.com/codestudio/problems/print-adjacency-list_630462) (Coding Ninjas, Easy) ([Day_131](../day_131/))

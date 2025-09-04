@@ -14,7 +14,7 @@
 - Hashmap: 1
 - Trie: 1
 - Backtracking: 4
-- Graph: 2
+- Graph: 5
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -266,3 +266,6 @@
 
 - [Graph Implementation](../day_131/Graph.cpp) (Implementation, Basic) ([Day_131](../day_131/))
 - [Print Adjacency List](https://www.codingninjas.com/codestudio/problems/print-adjacency-list_630462) (Coding Ninjas, Easy) ([Day_131](../day_131/))
+- [BFS Traversal](../day_132/bfs_traversal_graph.cpp) (Implementation, Medium) ([Day_132](../day_132/))
+- [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) (GeeksForGeeks, Medium) ([Day_132](../day_132/))
+- [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) (GeeksForGeeks, Medium) ([Day_132](../day_132/))

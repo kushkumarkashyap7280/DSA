@@ -1082,4 +1082,12 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [Graph Implementation](day_131/Graph.cpp) - Basic graph implementation using adjacency list
 2. [Print Adjacency List](https://www.codingninjas.com/codestudio/problems/print-adjacency-list_630462) (Coding Ninjas) - Easy ([C++ Solution](day_131/Print_adjacency_list.cpp))
 
+#### Day 132 [View Code](day_132) - 4 September, 2025
+
+- Graph Traversal Algorithms
+
+1. [BFS Traversal](day_132/bfs_traversal_graph.cpp) - Implementation of Breadth-First Search for both connected and disconnected graphs
+2. [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) (GeeksForGeeks) - Medium ([C++ Solution](day_132/gfg_bfs_of_graph.cpp))
+3. [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) (GeeksForGeeks) - Medium ([C++ Solution](day_132/gfg_dfs_of_graph.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

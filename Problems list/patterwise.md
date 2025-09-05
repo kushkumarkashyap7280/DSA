@@ -14,7 +14,7 @@
 - Hashmap: 1
 - Trie: 1
 - Backtracking: 4
-- Graph: 5
+- Graph: 6
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -269,3 +269,4 @@
 - [BFS Traversal](../day_132/bfs_traversal_graph.cpp) (Implementation, Medium) ([Day_132](../day_132/))
 - [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) (GeeksForGeeks, Medium) ([Day_132](../day_132/))
 - [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) (GeeksForGeeks, Medium) ([Day_132](../day_132/))
+- [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) (GeeksForGeeks, Medium) ([Day_133](../day_133/))

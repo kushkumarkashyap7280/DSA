@@ -9,7 +9,7 @@
 - [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) (LeetCode) - Easy ([Day_125](../day_125/))Difficulty Distribution:
 
 - LeetCode: 47 Easy, 45 Medium, 8 Hard
-- GeeksforGeeks: 11 Easy, 16 Medium
+- GeeksforGeeks: 11 Easy, 17 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
 
@@ -217,6 +217,9 @@
 - [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) ([Day_114](../day_114/))
 - [Largest BST in a Binary Tree](https://www.geeksforgeeks.org/problems/largest-bst/1) ([Day_118](../day_118/largest_bst.cpp))
 - [Merge two BSTs](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) ([Day_118](../day_118/merge_two_bst.cpp))
+- [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) ([Day_132](../day_132/))
+- [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) ([Day_132](../day_132/))
+- [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) ([Day_133](../day_133/))
 
 ## GeeksforGeeks
 

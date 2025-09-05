@@ -1090,4 +1090,10 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 2. [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) (GeeksForGeeks) - Medium ([C++ Solution](day_132/gfg_bfs_of_graph.cpp))
 3. [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) (GeeksForGeeks) - Medium ([C++ Solution](day_132/gfg_dfs_of_graph.cpp))
 
+#### Day 133 [View Code](day_133) - 5 September, 2025
+
+- Graph Cycle Detection
+
+1. [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) (GeeksForGeeks) - Medium ([C++ Solution](day_133/gfg_Undirected_Graph_Cycle.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

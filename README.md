@@ -1096,4 +1096,11 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) (GeeksForGeeks) - Medium ([C++ Solution](day_133/gfg_Undirected_Graph_Cycle.cpp))
 
+#### Day 134 [View Code](day_134) - 6 September, 2025
+
+- Directed Graph Cycle Detection
+
+1. [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) (GeeksForGeeks) - Medium ([C++ Solution](day_134/gfg_cycle_detection_in_directed_graph.cpp))
+2. [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) (LeetCode) - Hard ([C++ Solution](day_134/Leetcode_2360.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

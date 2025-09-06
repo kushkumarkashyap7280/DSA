@@ -14,7 +14,7 @@
 - Hashmap: 1
 - Trie: 1
 - Backtracking: 4
-- Graph: 6
+- Graph: 8
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -270,3 +270,5 @@
 - [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) (GeeksForGeeks, Medium) ([Day_132](../day_132/))
 - [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) (GeeksForGeeks, Medium) ([Day_132](../day_132/))
 - [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) (GeeksForGeeks, Medium) ([Day_133](../day_133/))
+- [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) (GeeksForGeeks, Medium) ([Day_134](../day_134/))
+- [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) (LeetCode, Hard) ([Day_134](../day_134/))

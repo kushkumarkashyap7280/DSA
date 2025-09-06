@@ -1,4 +1,11 @@
-## Platform### Easy
+## Difficulty Distribution:
+
+- LeetCode: 47 Easy, 45 Medium, 13 Hard
+- GeeksforGeeks: 11 Easy, 18 Medium
+- Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
+- SPOJ: 2 Medium
+
+# Difficulty wise Categorized DSA Questionsrm### Easy
 
 - [2185. Counting Words With a Given Prefix](http### Medium
 
@@ -157,13 +164,13 @@
 - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) ([Day 085](../day_085/))
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) ([Day 086](../day_086/))
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) ([Day 088](../day_088/))
-- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ([Day 089](../day_089/))
-- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ([Day 123](../day_123/))
+- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) ([Day 089](../day_089/), [Day 123](../day_123/))
 - [632. Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) (LeetCode) - Hard ([C++ Solution](../day_124/Leetcode_632.cpp))
 - [51. N-Queens](https://leetcode.com/problems/n-queens/) ([Day_129](../day_129/))
 - [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) ([Day_129](../day_129/))
 - [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) ([Day_130](../day_130/))
-- [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (LeetCode) - Hard ([C++ Solution](../day_124/Leetcode_295.cpp))
+- [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) ([Day_124](../day_124/))
+- [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) ([Day_134](../day_134/))
 
 ## GeeksforGeeks
 
@@ -193,8 +200,6 @@
 - [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) ([Day 095](../day_095/))
 - [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) ([Day 095](../day_095/))
 - [First Non-repeating Character in a Stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) ([Day_095](../day_095/))
-- [Reverse First K Elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) ([Day_095](../day_095/))
-- [First Negative Integer in Every Window of Size K](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) ([Day_095](../day_095/))
 - [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) ([Day_096](../day_096/))
 - [Sum of Max and Min of Window K in Array](https://www.geeksforgeeks.org/dsa/sum-minimum-maximum-elements-subarrays-size-k/) ([Day_097](../day_097/))
 - [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) ([Day_098](../day_098/))
@@ -210,16 +215,14 @@
 - [Maximum Sum of Non-adjacent Nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) ([Day_104](../day_104/))
 - [Morris Traversal Implementation](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/) ([Day_108](../day_108/))
 - [Inorder Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) ([Day_111](../day_111/))
-- [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) ([Day_113](../day_113/))
-- [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ([Day_113](../day_113/))
-- [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) ([Day_113](../day_113/))
-- [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ([Day_116](../day_116/))
-- [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) ([Day_114](../day_114/))
-- [Largest BST in a Binary Tree](https://www.geeksforgeeks.org/problems/largest-bst/1) ([Day_118](../day_118/largest_bst.cpp))
-- [Merge two BSTs](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) ([Day_118](../day_118/merge_two_bst.cpp))
+- [Largest BST in a Binary Tree](https://www.geeksforgeeks.org/problems/largest-bst/1) ([Day_118](../day_118/))
+- [Merge two BSTs](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) ([Day_118](../day_118/))
 - [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) ([Day_132](../day_132/))
 - [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) ([Day_132](../day_132/))
 - [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) ([Day_133](../day_133/))
+- [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) ([Day_134](../day_134/))
+- [Flatten BST to Sorted List](https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/) ([Day_114](../day_114/))
+- [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) ([Day_134](../day_134/))
 
 ## GeeksforGeeks
 

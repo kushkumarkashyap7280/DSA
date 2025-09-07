@@ -1103,4 +1103,10 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 1. [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) (GeeksForGeeks) - Medium ([C++ Solution](day_134/gfg_cycle_detection_in_directed_graph.cpp))
 2. [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) (LeetCode) - Hard ([C++ Solution](day_134/Leetcode_2360.cpp))
 
+#### Day 135 [View Code](day_135) - 7 September, 2025
+
+- Topological Sort
+
+1. [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) (GeeksForGeeks) - Medium ([C++ Solution](day_135/gfg_topological_sort.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

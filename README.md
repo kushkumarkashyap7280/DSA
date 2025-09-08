@@ -1108,5 +1108,12 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 - Topological Sort
 
 1. [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) (GeeksForGeeks) - Medium ([C++ Solution](day_135/gfg_topological_sort.cpp))
+2. [Cycle Detection in Directed Graph using Kahn's Algorithm](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/) (GeeksForGeeks) - Medium ([C++ Solution](day_135/gfg_cycle_detection_in_directed_graph_using_kahn_algo.cpp))
+
+#### Day 136 [View Code](day_136) - 8 September, 2025
+
+- Shortest Path Algorithms
+
+1. [Shortest Path in an Unweighted Undirected Graph](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297) (Naukri Code360) - Medium ([C++ Solution](day_136/cn_shortest_path_unweighted_undirected_graph.cpp))
 
 Feel free to explore my solutions and learning journey! 💻

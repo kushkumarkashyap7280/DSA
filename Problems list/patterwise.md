@@ -14,7 +14,7 @@
 - Hashmap: 1
 - Trie: 1
 - Backtracking: 4
-- Graph: 9
+- Graph: 11
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -273,3 +273,5 @@
 - [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) (GeeksForGeeks, Medium) ([Day_134](../day_134/))
 - [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) (LeetCode, Hard) ([Day_134](../day_134/))
 - [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) (GeeksForGeeks, Medium) ([Day_135](../day_135/))
+- [Cycle Detection in Directed Graph using Kahn's Algorithm](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/) (GeeksForGeeks, Medium) ([Day_135](../day_135/))
+- [Shortest Path in an Unweighted Undirected Graph](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297) (Naukri Code360, Medium) ([Day_136](../day_136/))

@@ -14,7 +14,7 @@
 - Hashmap: 1
 - Trie: 1
 - Backtracking: 4
-- Graph: 12
+- Graph: 13
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -276,3 +276,4 @@
 - [Cycle Detection in Directed Graph using Kahn's Algorithm](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/) (GeeksForGeeks, Medium) ([Day_135](../day_135/))
 - [Shortest Path in an Unweighted Undirected Graph](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297) (Naukri Code360, Medium) ([Day_136](../day_136/))
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (LeetCode, Medium) ([Day_137](../day_137/))
+- [Shortest Path in Directed Acyclic Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1) (GeeksforGeeks, Medium) ([Day_138](../day_138/))

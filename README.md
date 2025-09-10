@@ -1122,4 +1122,10 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (LeetCode) - Medium ([C++ Solution](day_137/Leetcode_797.cpp))
 
+#### Day 138 [View Code](day_138) - 10 September, 2025
+
+- Shortest Paths in Weighted Directed Acyclic Graphs
+
+1. [Shortest Path in Directed Acyclic Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1) (GeeksforGeeks) - Medium ([C++ Solution](day_138/gfg_short_path_in_acylic_weighted_undireted_graph.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

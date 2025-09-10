@@ -211,6 +211,7 @@
 - [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) ([Day_134](../day_134/))
 - [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) ([Day_135](../day_135/))
 - [Cycle Detection in Directed Graph using Kahn's Algorithm](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/) ([Day_135](../day_135/))
+- [Shortest Path in Directed Acyclic Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1) ([Day_138](../day_138/))
 - [Shortest Path in an Unweighted Undirected Graph](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297) ([Day_136](../day_136/))
 - [Flatten BST to Sorted List](https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/) ([Day_114](../day_114/))
 

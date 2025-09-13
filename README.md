@@ -1128,4 +1128,10 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [Shortest Path in Directed Acyclic Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1) (GeeksforGeeks) - Medium ([C++ Solution](day_138/gfg_short_path_in_acylic_weighted_undireted_graph.cpp))
 
+#### Day 139 [View Code](day_139) - 11 September, 2025
+
+- Dijkstra's Algorithm for Shortest Path in Weighted Graphs
+
+1. [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (LeetCode) - Medium ([C++ Solution](day_139/Leetcode_743.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

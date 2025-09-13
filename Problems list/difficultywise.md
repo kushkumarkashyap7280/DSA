@@ -143,6 +143,7 @@
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (LeetCode, Medium) ([Day 112](../day_112/Leetcode_230.cpp))
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (LeetCode, Medium) ([Day_130](../day_130/))
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (LeetCode, Medium) ([Day_137](../day_137/))
+- [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (LeetCode, Medium) ([Day_139](../day_139/))
 
 ### Hard
 

@@ -278,3 +278,4 @@
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (LeetCode, Medium) ([Day_137](../day_137/))
 - [Shortest Path in Directed Acyclic Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1) (GeeksforGeeks, Medium) ([Day_138](../day_138/))
 - [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (LeetCode, Medium) ([Day_139](../day_139/))
+- [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksForGeeks, Medium) ([Day_140](../day_140/))

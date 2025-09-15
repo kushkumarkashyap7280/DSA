@@ -144,7 +144,8 @@
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (LeetCode, Medium) ([Day_130](../day_130/))
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (LeetCode, Medium) ([Day_137](../day_137/))
 - [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (LeetCode, Medium) ([Day_139](../day_139/))
-- [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksForGeeks, Medium) ([Day_140](../day_140/))
+- [Minimum Spanning Tree (Prim's Algorithm)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksForGeeks, Medium) ([Day_140](../day_140/))
+- [Minimum Spanning Tree (Kruskal's Algorithm)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksForGeeks, Medium) ([Day_141](../day_141/))
 
 ### Hard
 

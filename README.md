@@ -1138,4 +1138,8 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksforGeeks) - Medium ([C++ Solution](day_140/mst.cpp))
 
+#### Day 141 [View Code](day_141) - 15 September, 2025
+
+1. [Minimum Spanning Tree (Kruskal's Algorithm)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksforGeeks) - Medium ([C++ Solution](day_141/mst.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

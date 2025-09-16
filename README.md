@@ -1142,4 +1142,9 @@ A modern, STL-style circular doubly-linked list implemented from scratch:
 
 1. [Minimum Spanning Tree (Kruskal's Algorithm)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksforGeeks) - Medium ([C++ Solution](day_141/mst.cpp))
 
+#### Day 142 [View Code](day_142) - 16 September, 2025
+
+1. [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) (LeetCode) - Medium ([C++ Solution](day_142/Leetcode_1584.cpp))
+2. [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) (LeetCode) - Hard ([C++ Solution](day_142/Leetcode_1192.cpp))
+
 Feel free to explore my solutions and learning journey! 💻

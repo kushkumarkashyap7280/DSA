@@ -14,7 +14,7 @@
 - Hashmap: 1
 - Trie: 1
 - Backtracking: 4
-- Graph: 13
+- Graph: 14
 - Miscellaneous: 3
 
 # Patternwise Categorized DSA Questions
@@ -280,3 +280,5 @@
 - [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (LeetCode, Medium) ([Day_139](../day_139/))
 - [Minimum Spanning Tree (Prim's Algorithm)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksForGeeks, Medium) ([Day_140](../day_140/))
 - [Minimum Spanning Tree (Kruskal's Algorithm)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksForGeeks, Medium) ([Day_141](../day_141/))
+- [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) (LeetCode, Medium) ([Day_142](../day_142/))
+- [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) (LeetCode, Hard) ([Day_142](../day_142/))

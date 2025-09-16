@@ -1,6 +1,6 @@
 ## Difficulty Distribution:
 
-- LeetCode: 47 Easy, 45 Medium, 13 Hard
+- LeetCode: 47 Easy, 45 Medium, 14 Hard
 - GeeksforGeeks: 11 Easy, 19 Medium
 - Coding Ninjas / Naukri Code360: 5 Easy, 7 Medium
 - SPOJ: 2 Medium
@@ -146,6 +146,7 @@
 - [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (LeetCode, Medium) ([Day_139](../day_139/))
 - [Minimum Spanning Tree (Prim's Algorithm)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksForGeeks, Medium) ([Day_140](../day_140/))
 - [Minimum Spanning Tree (Kruskal's Algorithm)](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) (GeeksForGeeks, Medium) ([Day_141](../day_141/))
+- [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) (LeetCode, Medium) ([Day_142](../day_142/))
 
 ### Hard
 
@@ -162,6 +163,7 @@
 - [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) ([Day_130](../day_130/))
 - [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) ([Day_124](../day_124/))
 - [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) ([Day_134](../day_134/))
+- [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) ([Day_142](../day_142/))
 
 ## GeeksforGeeks
 
